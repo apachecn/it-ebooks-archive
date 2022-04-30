@@ -1218,7 +1218,7 @@ hack-biancheng-shili-jingjiang2 <port>
 ### NPM
 
 ```
-npm install -g hack-biancheng-shili-jingjiang2
-hack-biancheng-shili-jingjiang2 <port>
+npm install -g jingtong-heike-biancheng
+jingtong-heike-biancheng <port>
 # 访问 http://localhost:{port} 查看文档
 ```
