@@ -1170,3 +1170,55 @@ npm install -g zishen-heike-shentou-heimu
 zishen-heike-shentou-heimu <port>
 # 访问 http://localhost:{port} 查看文档
 ```
+
+## 非安全黑客手册合订本2008年③④季第二部分
+
+### Docker
+
+```
+docker pull apachecn0/nohack-2008-part4
+docker run -tid -p <port>:80 apachecn0/nohack-2008-part4
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install nohack-2008-part4
+nohack-2008-part4 <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g nohack-erlinglingba-part4
+nohack-erlinglingba-part4 <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+## Hack编程实例精讲II
+
+### Docker
+
+```
+docker pull apachecn0/hack-biancheng-shili-jingjiang2
+docker run -tid -p <port>:80 apachecn0/hack-biancheng-shili-jingjiang2
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install hack-biancheng-shili-jingjiang2
+hack-biancheng-shili-jingjiang2 <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g hack-biancheng-shili-jingjiang2
+hack-biancheng-shili-jingjiang2 <port>
+# 访问 http://localhost:{port} 查看文档
+```
