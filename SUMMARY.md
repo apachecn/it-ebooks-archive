@@ -51,6 +51,7 @@
 +   [牛客网面试笔试攻略 Git 仓库备份](docs/nowcoder.md)
 +   [上海交大软件学院课件 CDNDrive 备份](docs/sjtu-se-cdndrive.md)
 +   [上海交大软件学院课件](docs/sjtu-se.md)
++   [上海交大软件学院课件 NPM、PYPI、DockerHub 备份](docs/sjtu-se-dockerhub.md)
 +   [Syncfusion Succinctly 2012-2016 归档](docs/syncfusion-succinctly-2012to2016.md)
 +   [Syncfusion Succinctly 2017-2018 归档](docs/syncfusion-succinctly-2017to2018.md)
 +   [达内 Java 全套教程 BiliDrive 备份](docs/tarena-bilidrive.md)
