@@ -10,11 +10,6 @@
 ## 目录
 
 ```
-
-
-init
-
-
 Kaggle Kernel - 20-newsgroups-ciphertext-challenge - Page1.epub
 Kaggle Kernel - 20-newsgroups-ciphertext-challenge - Page2.epub
 Kaggle Kernel - LANL-Earthquake-Prediction - Page1.epub
