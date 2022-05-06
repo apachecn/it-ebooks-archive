@@ -1,6 +1,7 @@
 +   [非安全系列教程 NPM、PYPI、DockerHub 备份](docs/nohack-dockerhub.md)
 +   [非安全系列教程 Git 仓库备份](docs/nohack.md)
 +   [黑客X档案 NPM、PYPI、DockerHub 备份](docs/heix-dockerhub.md)
++   [黑客X档案 2002~2007 Git 仓库备份](docs/heix-2002-2007.md)
 +   [电脑爱好者合订本 2011~2015 NPM、PYPI、DockerHub 备份](docs/cfan-2011-2015-dockerhub.md)
 +   [电脑爱好者合订本 Git 仓库备份](docs/cfan-2011-2015.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](docs/52pojie-bilidrive.md)
