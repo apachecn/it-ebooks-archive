@@ -13,7 +13,7 @@
 +   [C 语言编程网教程 DockerHub 备份](docs/c-biancheng-net-dockerhub.md)
 +   [C 语言编程网教程 Git 仓库备份](docs/c-biancheng-net.md)
 +   [CEH v8~v11 Module Slides 和 Lab Manual CDNDrive 备份](docs/ceh-cdndrive.md)
-+   [CEH v8~v11 Module Slides 和 Lab Manual DockerHub 备份](docs/ceh-dockerhub.md)
++   [CEH 讲义 NPM、PYPI、DockerHub 备份](docs/ceh-dockerhub.md)
 +   [CEH v8~v11 Module Slides 和 Lab Manual Git 仓库备份](docs/ceh.md)
 +   [安全参考和书安 BiliDrive 备份](docs/hackcto-secbook-bilidrive.md)
 +   [安全参考和书安 NPM、PYPI、DockerHub 备份](docs/hackcto-secbook-dockerhub.md)
