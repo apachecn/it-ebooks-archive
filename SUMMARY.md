@@ -3,7 +3,7 @@
 +   [黑客X档案 NPM、PYPI、DockerHub 备份](docs/heix-dockerhub.md)
 +   [黑客X档案 2002~2007 Git 仓库备份](docs/heix-2002-2007.md)
 +   [电脑爱好者合订本 2011~2015 NPM、PYPI、DockerHub 备份](docs/cfan-2011-2015-dockerhub.md)
-+   [电脑爱好者合订本 Git 仓库备份](docs/cfan-2011-2015.md)
++   [电脑爱好者合订本 2011~2015 Git 仓库备份](docs/cfan-2011-2015.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](docs/52pojie-bilidrive.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
 +   [尚硅谷全套课件 DockerHub 备份](docs/atguigu-dockerhub.md)
