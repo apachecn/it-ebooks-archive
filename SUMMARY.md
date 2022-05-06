@@ -54,6 +54,7 @@
 +   [Kaggle Kernel Git 仓库备份（四）](docs/kaggle-kernel-pt4.md)
 +   [看云电子书归档 2016.4 BiliDrive 备份](docs/kancloud-ebooks-201604-bilidrive.md)
 +   [看云电子书归档 2016.4](docs/kancloud-ebooks-201604.md)
++   [KSSD NPM、PYPI、DockerHub 备份](docs/kssd-dockerhub.md)
 +   [KSSD BiliDrive 备份](docs/kssd-bilidrive.md)
 +   [看雪软件安全文档库 KSSD 归档](docs/kssd.md)
 +   [牛客网面试笔试攻略 CDNDrive 备份](docs/nowcoder-cdndrive.md)
