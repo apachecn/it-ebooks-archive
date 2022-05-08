@@ -4,6 +4,7 @@
 +   [黑客X档案 2002~2007 Git 仓库备份](docs/heix-2002-2007.md)
 +   [电脑爱好者合订本 2011~2015 NPM、PYPI、DockerHub 备份](docs/cfan-2011-2015-dockerhub.md)
 +   [电脑爱好者合订本 2011~2015 Git 仓库备份](docs/cfan-2011-2015.md)
++   [电脑爱好者合订本 2006~2010 NPM、PYPI、DockerHub 备份](docs/cfan-2006-2010-dockerhub.md)
 +   [电脑爱好者合订本 2006~2010 Git 仓库备份](docs/cfan-2006-2010.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](docs/52pojie-bilidrive.md)
 +   [吾爱破解论坛脱壳破解区 2008~2021 Git 仓库备份](docs/52pojie-tuokepojie-2008-2021.md)
