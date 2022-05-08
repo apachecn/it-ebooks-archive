@@ -13,10 +13,10 @@ tags:
 
 <!--more-->
 
-+   [Gitee 下载](https://gitee.com/apachecn/Interview/tree/master/docs/NowCoder)
-+   [Github 下载](https://github.com/apachecn/Interview/tree/master/docs/NowCoder)
-+   [Gitlab 下载](https://gitlab.com/apache_cn/Interview/tree/master/docs/NowCoder)
-+   [CodeChina 下载](https://codechina.csdn.net/apachecn/Interview/tree/master/docs/NowCoder)
++   [Gitee 下载](https://gitee.com/apachecn/interview-books/tree/master/NowCoder)
++   [Github 下载](https://github.com/apachecn/interview-books/tree/master/NowCoder)
++   [Gitlab 下载](https://gitlab.com/apache_cn/interview-books/tree/master/NowCoder)
++   [CodeChina 下载](https://codechina.csdn.net/apachecn/interview-books/tree/master/NowCoder)
 
 ## 目录
 
