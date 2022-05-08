@@ -13,10 +13,10 @@ tags:
 
 <!--more-->
 
-+   [Gitee](https://gitee.com/apachecn/Interview/tree/master/docs/CEH)
-+   [Github](https://github.com/apachecn/Interview/tree/master/docs/CEH)
-+   [Gitlab](https://gitlab.com/apache_cn/Interview/tree/master/docs/CEH)
-+   [CodeChina](https://codechina.csdn.net/apachecn/Interview/tree/master/docs/CEH)
++   [Gitee](https://gitee.com/apachecn/interview-books/tree/master/CEH)
++   [Github](https://github.com/apachecn/interview-books/tree/master/CEH)
++   [Gitlab](https://gitlab.com/apache_cn/interview-books/tree/master/CEH)
++   [CodeChina](https://codechina.csdn.net/apachecn/interview-books/tree/master/CEH)
 
 ## 课程内容
 
