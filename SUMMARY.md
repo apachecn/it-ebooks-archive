@@ -49,6 +49,7 @@
 +   [计算机电子书 2021 CDNDrive 备份](docs/it-ebooks-2021-cdndrive.md)
 +   [计算机电子书 2021 DockerHub 备份](docs/it-ebooks-2021-dockerhub.md)
 +   [计算机电子书 2021 Git 仓库备份](docs/it-ebooks-2021.md)
++   [计算机电子书 2022 CDNDrive 备份](docs/it-ebooks-2022-cdndrive.md)
 +   [其它计算机图书或教程](docs/it-ebooks-misc.md)
 +   [机器之心高分教程 BiliDrive 备份](docs/jiqizhixin-bilidrive.md)
 +   [Kaggle Kernel BiliDrive 备份](docs/kaggle-kernel-bilidrive.md)
