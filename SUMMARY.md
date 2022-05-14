@@ -7,6 +7,7 @@
 +   [电脑爱好者合订本 2006~2010 NPM、PYPI、DockerHub 备份](docs/cfan-2006-2010-dockerhub.md)
 +   [电脑爱好者合订本 2006~2010 Git 仓库备份](docs/cfan-2006-2010.md)
 +   [电脑爱好者合订本 2001~2005 NPM、PYPI、DockerHub 备份](docs/cfan-2001-2005-dockerhub.md)
++   [电脑爱好者合订本 2001~2005 Git 仓库备份](docs/cfan-2001-2005.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](docs/52pojie-bilidrive.md)
 +   [吾爱破解论坛脱壳破解区 2008~2021 Git 仓库备份](docs/52pojie-tuokepojie-2008-2021.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
