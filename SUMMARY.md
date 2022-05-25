@@ -80,4 +80,5 @@
 +   [达内 Java 全套教程 NPM、PYPI、DockerHub 备份](docs/tarena-dockerhub.md)
 +   [达内 Java 全套教程 Git 仓库备份](docs/tarena.md)
 +   [TutorialsPoint 电子书 CDNDrive 备份](docs/tutorialspoint-cdndrive.md)
++   [TutorialsPoint 电子书 DockerHub 备份](docs/tutorialspoint-dockerhub.md)
 +   [TutorialsPoint 电子书 归档](docs/tutorialspoint.md)
