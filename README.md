@@ -1,6 +1,6 @@
 # 计算机电子书归档
 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 不装逼的人，我们都不想认识。
 
 * [在线阅读](https://it-ebooks.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
