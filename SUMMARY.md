@@ -6,6 +6,8 @@
 +   [黑客X档案 2008~2012 Git 仓库备份](docs/heix-2008-2012.md)
 +   [黑客X档案 2002~2007 NPM、PYPI、DockerHub 备份](docs/heix-2002-2007-dockerhub.md)
 +   [黑客X档案 2002~2007 Git 仓库备份](docs/heix-2002-2007.md)
++   [黑客防线 2007~2012 NPM、PYPI、DockerHub 备份](docs/heifang-2007-2012-dockerhub.md)
++   [黑客防线 2007~2012 Git 仓库备份](docs/heifang-2007-2012.md)
 +   [黑客防线 2000~2006 NPM、PYPI、DockerHub 备份](docs/heifang-2000-2006-dockerhub.md)
 +   [黑客防线 2000~2006 Git 仓库备份](docs/heifang-2000-2006.md)
 +   [电脑爱好者合订本 2016~2020 NPM、PYPI、DockerHub 备份](docs/cfan-2016-2020-dockerhub.md)
