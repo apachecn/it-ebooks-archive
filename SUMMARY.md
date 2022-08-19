@@ -1,3 +1,4 @@
++   [ApacheCN 深度学习、计算机视觉、数据科学译文集单本 NPM、PYPI、DockerHub 备份](docs/apachecn-dl-cv-ds-dockerhub.md)
 +   [BeginnersBook、HowToDoInJava、Programiz、Zetcode 中文系列教程 NPM、PYPI、DockerHub 备份](docs/bgb-htdij-miz-zetcode-dockerhub.md)
 +   [非安全系列教程 NPM、PYPI、DockerHub 备份](docs/nohack-dockerhub.md)
 +   [非安全系列教程 Git 仓库备份](docs/nohack.md)
