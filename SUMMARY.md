@@ -24,6 +24,7 @@
 +   [大学霸系列教程 Git 仓库备份](docs/daxueba.md)
 +   [吾爱破解论坛精华集 BiliDrive 备份](docs/52pojie-bilidrive.md)
 +   [吾爱破解论坛脱壳破解区 2008~2021 Git 仓库备份](docs/52pojie-tuokepojie-2008-2021.md)
++   [吾爱破解脱壳破解区 2018~2011 NPM、PYPI、DockerHub 备份](docs/52pojie-tuokepojiequ-2018-2011-dockerhub.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
 +   [尚硅谷全套课件 DockerHub 备份](docs/atguigu-dockerhub.md)
 +   [尚硅谷全套课件 Git 仓库备份](docs/atguigu.md)
