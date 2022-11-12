@@ -85,7 +85,7 @@
 +   [上海交大软件学院课件 CDNDrive 备份](docs/sjtu-se-cdndrive.md)
 +   [上海交大软件学院课件](docs/sjtu-se.md)
 +   [上海交大软件学院课件 NPM、PYPI、DockerHub 备份](docs/sjtu-se-dockerhub.md)
-+   [东南大学计算机学院课件 NPM、PYPI、DockerHub 备份](docs/seu-cs-dockerhub.md)
++   [高校计算机课件（一）NPM、PYPI、DockerHub 备份](docs/college-cs-part1-dockerhub.md)
 +   [达内 Java 全套教程 BiliDrive 备份](docs/tarena-bilidrive.md)
 +   [达内 Java 全套教程 NPM、PYPI、DockerHub 备份](docs/tarena-dockerhub.md)
 +   [达内 Java 全套教程 Git 仓库备份](docs/tarena.md)
