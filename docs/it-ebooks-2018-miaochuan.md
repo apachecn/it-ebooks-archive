@@ -19,384 +19,384 @@
 ## 各文件秒传代码
 
 ```
-14b86d9f8b2654e3182c1be12017e614#29140466#/计算机电子书/iteb2018/2016 年机器之心高分技术文章全集.epub
-1ee0cfc6114e08ac714db9a33a1f65f6#521287#/计算机电子书/iteb2018/97 Things Every Programmer Should Know.epub
-d265a828afd0cde0e29bf482be0bf3e1#253116#/计算机电子书/iteb2018/A Guide to Porting C C++ to Rust.epub
-6cc7fdad870c6fe4c1ee443f262c49dd#1596438#/计算机电子书/iteb2018/A Java Reference (UCB CS61b Textbook).pdf
-a09823655a6a8ee71b2f6e67414bdccc#259720#/计算机电子书/iteb2018/A Little Book of Python for Multivariate Analysis.epub
-f33184c18b086a7d3a1f43275349b2cd#7673884#/计算机电子书/iteb2018/Advanced Data Analysis from an Elementary Point of View.pdf
-2215c54903ad07b71893c553233eaebc#1089389#/计算机电子书/iteb2018/Advanced R.epub
-6467d10eccf72786b244fb0fa5bf6711#6734167#/计算机电子书/iteb2018/AI Cheat Sheet.7z
-3767e2899892794278b390ed3749c244#177706#/计算机电子书/iteb2018/aiohttp 中文文档.epub
-d4759ffc645dd553e6f2985c50f96d02#498899#/计算机电子书/iteb2018/AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf
-29aa98a6901d67d46737d7a2368e2205#3098472#/计算机电子书/iteb2018/Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf
-e955a5a4cf361d9294ed75f947afb885#1424548#/计算机电子书/iteb2018/Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf
-aeaa3b1ea67cbecb9d1b162abb8d0671#1666758#/计算机电子书/iteb2018/Algorithms for Reinforcement Learning.pdf
-256ee8197382cfc64e03fe6835f25d5a#3360748#/计算机电子书/iteb2018/An Introduction to Data Science.epub
-362877b1b7c68b4b882cdc8776878dae#11367336#/计算机电子书/iteb2018/Android 101 Labs.epub
-49414d6f7918d5954dff877fe115f75b#91700#/计算机电子书/iteb2018/Android Gradle 插件中文指南.epub
-4fb848d66d22a516e0a079487146ba3a#5768019#/计算机电子书/iteb2018/Android SDK 教程.epub
-6a6ebf472372d34d3c453691d47d0c8f#3371060#/计算机电子书/iteb2018/ANDROID SDK 源码解析.epub
-f08a759e508cdfe2ffa78e9542617625#10372739#/计算机电子书/iteb2018/Android 安全笔记（JnuSimba）.epub
-efba126d7148bf5e27d15bafefa3df8c#5306740#/计算机电子书/iteb2018/Android 百战经典.epub
-2b8a410180117c31b6c75ff743b21315#4798486#/计算机电子书/iteb2018/Android&Java 技术笔记.epub
-deb8b25f82e4792a1c0e748c11495281#6140870#/计算机电子书/iteb2018/Android控件操作-二十四章经.epub
-eb067846bd7e2935257f103f2beb4727#167722#/计算机电子书/iteb2018/AngularJS学习笔记（checkcheckzz）.epub
-b825ec85bbeeb039b7ffce09cf181a01#65314753#/计算机电子书/iteb2018/Animation动画详解.epub
-de9f04a37028b1f64ea330ab9aa895d2#256517#/计算机电子书/iteb2018/ANTLR 4简明教程.epub
-33bbac100fd9263b4cd67643af76478f#2697244#/计算机电子书/iteb2018/Apache Airflow (incubating) Documentation.epub
-28a0558369f887c9bd84c74c05029058#120728#/计算机电子书/iteb2018/Apple Pay 编程指南.epub
-e9b7634e8368a71ba39990280819172b#27884868#/计算机电子书/iteb2018/Artificial Inteligence - Leonardo Araujo dos Santos.epub
-79d72d53cfbc79019bf9568ecda6afcb#7968408#/计算机电子书/iteb2018/Assembly Language for Beginners.pdf
-290754a9b1fa76f65ddfb75826b83dfe#1410231#/计算机电子书/iteb2018/Attention Is All You Need 中文翻译.pdf
-686c0ba992b35bd984ac61161268aea0#6815301#/计算机电子书/iteb2018/Automating Inference, Learning, and Design using Probabilistic Programming.pdf
-ded9b3ae8da222e6fe8f216377d2e8b4#16973999#/计算机电子书/iteb2018/Axure RP 指南.epub
-c7edd6c3f9e8a38881bfcc9fb40e006a#6767626#/计算机电子书/iteb2018/BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf
-805197d9789ee4420325b90cf9934be4#20220167#/计算机电子书/iteb2018/Bayesian Networks & Bayeslab.pdf
-cabaed14509a8c2b8fbe6409d22a7c37#1809844#/计算机电子书/iteb2018/Book on TypeScript.epub
-8b4dfbe780142b97c70b6899403ea5b7#1322604#/计算机电子书/iteb2018/Bootstrap2 用户指南（歪脖网）.epub
-ebde7c390864af50d4b30271bcd974f7#1870347#/计算机电子书/iteb2018/Bootstrap3 实用教程（歪脖网）.epub
-29d7c64a0936c5dc021c21eda47846f5#94005#/计算机电子书/iteb2018/Build a Node.js Project from Scratch.epub
-bd8886a1900a22352d4d8a4315661171#105877#/计算机电子书/iteb2018/Build your applications with Webpack.epub
-42709305e00651f18c7b77045aa5947a#228421#/计算机电子书/iteb2018/Build Your Own Lisp 中文版.epub
-a48387ace2a2eb71451533d19aa30ac0#285977#/计算机电子书/iteb2018/C 语言进阶.epub
-ee032e493208ff9943c87d4f99192934#1713839#/计算机电子书/iteb2018/C#区块链编程.epub
-81d631c49d5c2fdfbad86c7d62a391d2#2609521#/计算机电子书/iteb2018/Category Theory for Programmers.pdf
-76b519a68fb5b96b036020373ea666a4#184044#/计算机电子书/iteb2018/Ceph 运维手册.epub
-0abc2a7259cea815214466f9137a1ccb#1914807#/计算机电子书/iteb2018/Chromium中文文档.epub
-f010f5236aa33c8b6c82f8a80191971a#163886#/计算机电子书/iteb2018/ClojureScript 入门指南.epub
-64f475194020034c4a62a6272e324c34#1099959#/计算机电子书/iteb2018/Competitive Programmer's Handbook.pdf
-9c6a5971ef047fc5bce18377d4c0524a#2538366#/计算机电子书/iteb2018/Computer and Network Organization.pdf
-90d1800ac7c3feb3b053cba697c9b961#18557166#/计算机电子书/iteb2018/Computer Vision Algorithms and Applications.pdf
-2c8f7fce0556dc2bbda2caa0c8f4b8f0#15047822#/计算机电子书/iteb2018/computer_networks_a_systems_approach_5th_ed.epub
-26c7afdcc40017615b97bd4069f21a95#327134#/计算机电子书/iteb2018/Consul 简介和快速入门.epub
-de7281a6009fc06bff29ba1ba5513f06#3569254#/计算机电子书/iteb2018/CSS Animation 101.epub
-9766cfc959088a527c2ea21d54a1964c#8672904#/计算机电子书/iteb2018/CTF Wiki 2017.12.27.epub
-9fb83027dcf150e47f485cf9f2b0d719#3794584#/计算机电子书/iteb2018/CTF-All-In-One 2018.1.24.epub
-78c6d3f8fc96088f810539ce0f43e019#2676112#/计算机电子书/iteb2018/CUDA 编程指南 5.0 中文版.pdf
-ca95d174e6ae7b82a03f600290e98a0f#13808324#/计算机电子书/iteb2018/CyC2018 CS 学习笔记 20181106.epub
-6e1c28da246d037ff8f61cb63e7298cd#1148625#/计算机电子书/iteb2018/Data Clustering 50 years beyond kmeans 翻译.pdf
-1687efbcdc85e4bceb1e8db740e5bc36#3553215#/计算机电子书/iteb2018/Data Science and Analytics for Ordinary People.pdf
-6b85f37f9c13283461498aac47be21f0#1461499#/计算机电子书/iteb2018/Data Structures Into Java (UCB CS61b textbook).pdf
-517bc635802dfe4c850840e6df829166#615043#/计算机电子书/iteb2018/Databricks Spark 知识库.epub
-b46486c6a1905a7b200ebab922b37c6b#1922806#/计算机电子书/iteb2018/Deep Learning for Multivariate Financial Time Series.pdf
-79e1fe8e9526bd305f03debed54bb01f#2257255#/计算机电子书/iteb2018/DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf
-38eeae876731a1ee05639c724fce2659#2516149#/计算机电子书/iteb2018/DeepMind 强化学习中文讲义.epub
-f657ee516a82b0b3bcd086942384bbba#9484338#/计算机电子书/iteb2018/devops-collective-inc PowerShell.7z
-15779a7500a5f9c7ed7c65e6393672dc#18377425#/计算机电子书/iteb2018/Distributed Systems 3e.pdf
-812dc8f22db8326a91385192bda8fbc4#534339#/计算机电子书/iteb2018/Dive Into HTML5 中文版.epub
-2421d1cfcb79b3e09fed8089a6f14a45#4919715#/计算机电子书/iteb2018/Django 2 By Example 中文版.epub
-6d13bc69c3f526d9598d691b1d4cfac8#167254#/计算机电子书/iteb2018/Docker Swarm 源码分析.epub
-bb2f124080c4afc09257886ff8c55384#1063713#/计算机电子书/iteb2018/Docker简明教程.epub
-c56cb26e8e9bcfb5dc9b424c2232dec8#5303957#/计算机电子书/iteb2018/Econometrics Streamlined, Applied and e-Aware.pdf
-d875ac0f7ebd0f00a9ffd2624fc79495#48476#/计算机电子书/iteb2018/Erlang 编程规则.epub
-e3c299071627c3743ab68cbb4fb42507#1928853#/计算机电子书/iteb2018/Everything curl.epub
-431444fca76cb8cc225bb1f200f2a460#8360820#/计算机电子书/iteb2018/F# for Fun and Profit eBook.epub
-a74694c5c876d3be626c9b2ecdd9aa85#9171746#/计算机电子书/iteb2018/fast.ai 数值线性代数讲义中文版 v2.epub
-290826ce8fe7abd3e06982e0d2b6e70d#493401#/计算机电子书/iteb2018/Fiddler2 中文手册.chm
-33aa41903090c4ca6337fe43503fb8fc#1219405#/计算机电子书/iteb2018/Figure Eight 2018 年数据科学家报告.pdf
-93d3836613fd451ebf54c7387968ff05#1560398#/计算机电子书/iteb2018/Flask 大型教程 2017.epub
-04b696ba06c4badc744d3615b29a4d10#5934578#/计算机电子书/iteb2018/Forecasting in Economics, Business, Finance and Beyond.pdf
-48e019a56c098e4cbce8b20eb0f6cd12#10618928#/计算机电子书/iteb2018/Forecasting Principles and Practice  2e.pdf
-63b3c37ac6218daca640a46fa8641529#1959489#/计算机电子书/iteb2018/Foundations of Data Science.pdf
-cfefc17282839c0662d54701e162c37c#189792#/计算机电子书/iteb2018/FreeBSD 101 Hacks.epub
-8bfeb276adcc962e5bfc5081dd8c6692#6343566#/计算机电子书/iteb2018/Frida 中文文档.epub
-0fda351d267a2fb76d038e95e0fcd307#699263#/计算机电子书/iteb2018/Full Speed Python.epub
-55cc1f22b98c2d799e3ed8a5c455947f#16070814#/计算机电子书/iteb2018/FuzzySecurity Windows Exploit 开发系列教程 1~19.epub
-d835d3f153891c5135e4d08a8d00e76b#3103729#/计算机电子书/iteb2018/Game Theory 2e.7z
-f4f46e01dcb53fc8bcf17cf0cbe0d8af#6192304#/计算机电子书/iteb2018/GeeksForGeeks Compiler Design Lecture Notes.epub
-df2de4538d5e5b940e24eea371c84bb4#12328579#/计算机电子书/iteb2018/GeeksForGeeks Computer Network Lecture Notes.epub
-77858397d5dfbafaeeb87082b5a75aaa#3930839#/计算机电子书/iteb2018/GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub
-e013d5c0f2db19240f5e4f1c3f213bb3#5340892#/计算机电子书/iteb2018/GeeksForGeeks Database Management System Lecture Notes.epub
-5b1c5efcc8e2873a41f854f07f58c1cd#7620798#/计算机电子书/iteb2018/GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub
-f248b557254cf0d28e6aa9a45e2e289e#1182955#/计算机电子书/iteb2018/GeeksForGeeks Engineering Mathematics Lecture Notes.epub
-96c3eaddec5455cda212ef356c0b2ef0#2878241#/计算机电子书/iteb2018/GeeksForGeeks Microprocessor Lecture Notes.epub
-c1b43fd0ce0f454956408c4755c686e2#8927427#/计算机电子书/iteb2018/GeeksForGeeks Operating Systems Lecture Notes.epub
-2f81b505d4af15721e62a4f4e317e4e4#3059021#/计算机电子书/iteb2018/GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub
-4afc925f7dd42afbf76939d8cde5006a#318815#/计算机电子书/iteb2018/Getting Started in Computer Vision Research.pdf
-8ed51c1a9a0ae4749939aa0f4688ab78#1755514#/计算机电子书/iteb2018/Githug 通关攻略.epub
-c69d9ceb229b66905e759e74583e30c2#105246#/计算机电子书/iteb2018/Glide v4 中文版.epub
-acb331ede746eabc37dbd700a501d1df#122132#/计算机电子书/iteb2018/Golang 101 hacks.epub
-190c036f2a9b34114ade4f521694b260#2565019#/计算机电子书/iteb2018/Gradle 实战.epub
-110f4d6ab5b04ed22fa1c237cdac0e7e#3610397#/计算机电子书/iteb2018/Graph Theory and Complex Networks.pdf
-a237bde468619e352e5c56dd34201d4e#236708#/计算机电子书/iteb2018/Groovy 入门.epub
-3576867e4ffd8fd4019775a82ba006db#4471487#/计算机电子书/iteb2018/GrowingIO 增长秘籍 3.0 终版.pdf
-11819f62fda725d6ccbc2d7c9ffe7ec2#1391951#/计算机电子书/iteb2018/Hadoop The Definitive Guide 4e 中文版.epub
-ecb48591aed1da0f2f2613b60bbcfea7#408105#/计算机电子书/iteb2018/Handling and Processing Strings in R.pdf
-77997ad5fb77d06e3b6e1fb6160464b8#412496#/计算机电子书/iteb2018/Hibernate 高级教程.epub
-7a02555c4b547b88bfde730d7b5e7b0e#5806788#/计算机电子书/iteb2018/Hinton 神经网络与机器学习笔记（TingxunShi）.pdf
-73ffa6f5c4b70814a35b4a3073bf4ff9#3535170#/计算机电子书/iteb2018/HIT-Alibaba 笔试面试知识整理.epub
-e9c58b370400342816adf9b2a08859ca#2608750#/计算机电子书/iteb2018/How to Write a Good Scientific Paper.pdf
-b59d9058c8a6aa4b8c52a9dcc5b4b9ab#1334261#/计算机电子书/iteb2018/HTML 宝典（歪脖网）.epub
-5235771492a3439c11d6d999392f0e4e#5019503#/计算机电子书/iteb2018/HTML5 Canvas 实战.epub
-2dc2dbd536be3f90020e2fdbfecb9820#1078931#/计算机电子书/iteb2018/HTTP 协议  RFC2616  中文版.pdf
-28cd788ac24b26e071242b82f0fdfd20#45437210#/计算机电子书/iteb2018/i 春秋月刊 1~5.7z
-5ecba70a386ff28f8c13359b6a836100#12218476#/计算机电子书/iteb2018/i 春秋月刊第六期：Linux pwn 零基础入门.pdf
-07396088376859ed2e95c0742bb82d3f#585666#/计算机电子书/iteb2018/ICML 2018 Notes.pdf
-2f07ccaa00d24ae928d494e400701ebd#928596#/计算机电子书/iteb2018/IDAPython 初学者指南.pdf
-f10215abf97f051940be63ed82a3ddc9#6700142#/计算机电子书/iteb2018/IEEE SystemVerilog 3.1a 语言参考手册.chm
-83c278568a2da72b1ba10e3f6fdb31ac#196343#/计算机电子书/iteb2018/InfluxDB简明手册.epub
-42f3039faa2a4818c3e1e217a889d636#21809696#/计算机电子书/iteb2018/IntelliJ IDEA 中文文档.epub
-d741af3cabe27eafd691ea92df4e3be3#8831441#/计算机电子书/iteb2018/Internet Of Things 101 Intel® Edison.epub
-e5c493bf2575640d46483406c41184b7#4581044#/计算机电子书/iteb2018/Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf
-7311a1677a548da10dd58db46014e03e#14650448#/计算机电子书/iteb2018/Introduction to Statistics Online Edition.7z
-eb4f16ee5cdef8d52d1621d4199a45b8#6081972#/计算机电子书/iteb2018/introduction-to-touchdesigner.epub
-b00be2c2ac266144b6282575c1f6b928#8947573#/计算机电子书/iteb2018/iOS 9人机交互指南.epub
-b14b9e273bb5221c5588619698bdeb6c#923439#/计算机电子书/iteb2018/iOS IAP 教程.epub
-e45c9162bc33f4170d126b2acb8d5af0#4528177#/计算机电子书/iteb2018/iOS的函数响应型编程.epub
-23e895e71177668636e7c401081f75f8#2161090#/计算机电子书/iteb2018/Istio官方文档中文版.epub
-6116df00eb2740a198678ed93a1549ad#298763#/计算机电子书/iteb2018/Java NIO简明教程.epub
-53c706645df383411beb97dc3c12f9e1#3681378#/计算机电子书/iteb2018/Java 核心技术 36 讲（李运华）（完）.epub
-54545189f949ee013eddffb03c6d9d6e#249959#/计算机电子书/iteb2018/Java 面试笔记.epub
-12468b8a8a68c8733d1e32763236690a#7326562#/计算机电子书/iteb2018/Java 微信开发.epub
-5c7d64594926b0470df0c2dd44e008bc#1710070#/计算机电子书/iteb2018/JavaScript 编程精解 中文第三版.epub
-139df156b098938963c5ca51afdaf6d0#2378946#/计算机电子书/iteb2018/JavaScript 完全手册（2018版）.epub
-97112865cd914fa35cae0304746c67b1#27677220#/计算机电子书/iteb2018/JoinQuant 量化课堂.pdf
-ff7850b9d3e2bac862b2ca9e20bd38f4#64846#/计算机电子书/iteb2018/JSON 教程（歪脖网）.epub
-296826fa82dda5349dbd292f262e904c#3307029#/计算机电子书/iteb2018/JVM必知必会.epub
-8b2b13d1472b38647dc2505934c670e9#2989030#/计算机电子书/iteb2018/Kira 概统解题指南 2017.pdf
-c8ae00214fde9bbd083c14643bf90ce1#994727#/计算机电子书/iteb2018/Kira 概统十篇 2018.pdf
-1dd99423405fdea83ec1cb6cd714d149#7306599#/计算机电子书/iteb2018/Kira 高数葵花宝典 2017.pdf
-57327c4cef0074450b2141f1cbd80c44#4228073#/计算机电子书/iteb2018/Kira 高数葵花宝典 2017（修订版）.pdf
-193fc7e359fb48069176a494b93f7ce4#3985983#/计算机电子书/iteb2018/Kira 线代小菊花丸 2017（全）.pdf
-ca16f42110d1922fd135200a2b20f461#3521514#/计算机电子书/iteb2018/Kivy中文编程指南.epub
-dc5a61be7f8d0fc1e84c644e361accf1#9332184#/计算机电子书/iteb2018/Kubernetes 指南.epub
-ebef96a5dbabaf0b3f1fe865f8bb85aa#2641849#/计算机电子书/iteb2018/Kubernetes 中文文档.epub
-6d2c47498a1e272490fed1bba3be137c#70133#/计算机电子书/iteb2018/kungeekUI.epub
-3363453d403a5df5f3496c926dd334af#2220770#/计算机电子书/iteb2018/laravel 源码解析.epub
-02175b9a042aa0ddc18475307a330e85#1832941#/计算机电子书/iteb2018/Learning Deep Architectures for AI 中文版（初译）.pdf
-c189e09445245c792a7b8109c1e0e896#1188687#/计算机电子书/iteb2018/Learning Rust.epub
-3512b41b3e0773b3cf218669b4ce1b2c#3111459#/计算机电子书/iteb2018/Learning Scrapy 中文版.epub
-6dc33837d6167d5a7f2a1db2cf170f18#11495451#/计算机电子书/iteb2018/LearnOpenGL 中文教程.epub
-35b45cc043f8ec6f149a614659b0475d#1893324#/计算机电子书/iteb2018/LeetBook（LeetCode详解）.epub
-46574e7bda3e90104c39580129e00cb4#192467#/计算机电子书/iteb2018/Less 简明教程（歪脖网）.epub
-52eeb5d1ee927118d0fa7dd406f65b14#530112#/计算机电子书/iteb2018/Linear Programming.pdf
-dc397ea94577a669d1f05247b0fca0a7#2411165#/计算机电子书/iteb2018/Linux 命令大全（LinuxToday）.epub
-635fc1ecfa424e173c25ea0343493c7f#5578512#/计算机电子书/iteb2018/Linux 内核源代码情景分析.pdf
-fb483f4c4d0f6026a01fe71f2e13aad4#264254#/计算机电子书/iteb2018/Little ASP.NET Core Book.epub
-f376a3bbef2a1cafaabccff5f23575a4#1326072#/计算机电子书/iteb2018/Machine Learning Super VIP Cheatsheet.pdf
-d2a16f524a9ce30addbb2ddcde6c7460#2213532#/计算机电子书/iteb2018/Markdown 入门参考.epub
-c70c63255b193812dc8088d1d1528f49#4326059#/计算机电子书/iteb2018/Mastering TensorFlow 1.x Code Notes.epub
-f15cb095965fd3dd6c80ed08e5f5c1b0#1165142#/计算机电子书/iteb2018/Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf
-059a0da2421e448dacb49badc4796eae#6796661#/计算机电子书/iteb2018/Mathematics for Machine Learning.pdf
-dee0ce33d0622fab410231014db5e4d0#343457#/计算机电子书/iteb2018/Metasploit 中文 Wiki.epub
-78b18bf615160446ea6d3013360db443#39282#/计算机电子书/iteb2018/MongoDB入门指南.epub
-7e16681f68a66cf36a6c11316d36ce5d#5916098#/计算机电子书/iteb2018/Natural Language Processing (Jacob Eisenstein).pdf
-76c4d42c8280fa93febf4e8f799521df#8891007#/计算机电子书/iteb2018/Nessus 6.3 中文用户手册.pdf
-0af4d73a1aef51a6aa649293b669e82d#17324417#/计算机电子书/iteb2018/Network Science (Albert-László Barabási).7z
-6141a34538b2377c0485e1008766ff2f#8479082#/计算机电子书/iteb2018/Node.js 调试指南.epub
-d7c2ef6e7211540a43021246504b1653#9517110#/计算机电子书/iteb2018/Node.js 设计模式 中文第二版.epub
-cff14e17039cb2b04cb132bbbb5e2363#2087356#/计算机电子书/iteb2018/Notes on Deep Learning for NLP.pdf
-17641fa3cb5eefad4a46a5c5d6e8a209#4039437#/计算机电子书/iteb2018/Numerical Algorithms (Stanford CS205 Textbook).pdf
-e482aa5bd70463fe848c111b2d74057b#789183#/计算机电子书/iteb2018/NumPy Essentials 带注释源码.epub
-1db431b6e071c69f775fd873f10d731e#7517620#/计算机电子书/iteb2018/OpenIntro Statistics 3e.pdf
-9af7944052b41740e77a41ccba056ff3#108680#/计算机电子书/iteb2018/OpenStack最终用户文档（简体中文版）.epub
-14dd508e59c5ad9560db640639c8aad6#7850005#/计算机电子书/iteb2018/OpenTutorial Git Python Django 教程.epub
-8c07c5db52f224d824e58de47a45200e#3381757#/计算机电子书/iteb2018/PaddlePaddle 深度学习入门.epub
-58bfd56c266cc600af1aee2d4580f37f#5202257#/计算机电子书/iteb2018/Pandas Cookbook 带注释源码.epub
-710136eb4d07c7a54c2b486ee394644d#16565622#/计算机电子书/iteb2018/PaperWeekly #1~#54.epub
-80b196c0630463ad1467f96122fa3b2b#72819#/计算机电子书/iteb2018/PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub
-67f9bc3060adef8dbb7e0b49aef54777#386625#/计算机电子书/iteb2018/PHP 扩展开发入门.epub
-c85534125d8458a1d5921875438ff376#4113577#/计算机电子书/iteb2018/Postman 中文文档.epub
-13bc83086f918d4d8653b824fb60a59f#2144055#/计算机电子书/iteb2018/Practical Data Cleaning - 19 Essential Tips.pdf
-c30f5b46eebec28a4d2002eb8a3865c9#242198#/计算机电子书/iteb2018/Programming Languages Application and Interpretation 中文版.epub
-bd346883982f2a758744612ad6c4a073#979068#/计算机电子书/iteb2018/PyQt5 中文教程.epub
-8123887941eb7537a040376fa4a7891d#1122102#/计算机电子书/iteb2018/Python 3 Basics Tutorial.epub
-3bdce3e532ec5fb03ada5c6b5b79938b#2033742#/计算机电子书/iteb2018/Python 3 Module Examples.epub
-44750e38b6f7d77f7b2b54e2c50bb734#460233#/计算机电子书/iteb2018/Python One to Million.epub
-a6d62d2e039af41611e7c8c35e948e39#166039#/计算机电子书/iteb2018/Python Testing Tutorial.epub
-b6d45f3fff55079c61af83a54dd09803#1855783#/计算机电子书/iteb2018/Python 分布式计算.epub
-1f370d3fe37a4dd76264b4b34a13a7fe#140202#/计算机电子书/iteb2018/Python 数据分析与挖掘实战 带注释源码.epub
-8df42edc7ba55a52f94c441b6d2fedae#174#/计算机电子书/iteb2018/Python 数据科学手册.url
-4160335d8a2b9c7523913babfb0f0f5e#4195577#/计算机电子书/iteb2018/Python 数据科学速查表 14 张（呆鸟译）.7z
-c4ac2bbadd86da04ef30cc67fd89cbe6#323656#/计算机电子书/iteb2018/Python 中文文档 3.7：入门教程.epub
-a6fc416833f7b1234f69e10e3f6c9b67#4157955#/计算机电子书/iteb2018/PyTorch 0.3 中文文档和教程.epub
-357ca0585c7dc870c1fdbe2d5c387d98#95082#/计算机电子书/iteb2018/PyTorch Zero To All.epub
-968f66d89dfad26cca00ce8bb9b89783#933972#/计算机电子书/iteb2018/R for Beginners 中文版 .pdf
-7767482b06cdfee561d3b2a2ee23db68#7601800#/计算机电子书/iteb2018/R for Data Science.epub
-04459003e2027c48166d6f284c202423#5100024#/计算机电子书/iteb2018/R packages.epub
-6b5817fabfa95da0204a92cba833c8dd#472452#/计算机电子书/iteb2018/Rancher 实战红宝书.epub
-6050c8c18054dd928d8a0291158196ca#792771#/计算机电子书/iteb2018/RANDOM FORESTS FOR BEGINNERS.pdf
-86c2267b88ea67b5deb43e92a77c72ad#2950374#/计算机电子书/iteb2018/Rangle's Angular 2 Training Book 中文版.epub
-6c8ad66b3f5f5c10d38a027d696bbab0#6622985#/计算机电子书/iteb2018/React Native Training.epub
-e5a9739e63929db6fb3cde3eb886bda4#604050#/计算机电子书/iteb2018/React 学习之道.epub
-ae766455778b30165637886fb9c1a632#378664#/计算机电子书/iteb2018/Readings in Database Systems, 5th Edition.pdf
-65dc38da862c4ebe1b84f151fd895407#2947021#/计算机电子书/iteb2018/Redis开发运维实践指南.epub
-54d6dde03c4d83a0ade2f85b43212d69#1719037#/计算机电子书/iteb2018/RubyFu.epub
-8a38d50a24e4090efa59c19e7cbb3317#83461#/计算机电子书/iteb2018/Rxjs 5 ultimate.epub
-bdafdb4876c7396c0bf168b8967939b1#5704823#/计算机电子书/iteb2018/R语言高级程序设计 --《Advanced R》中文版.pdf
-b3d757779a5c2909554ba5cd65a0b3c5#1437616#/计算机电子书/iteb2018/Sanic-For-Pythoneer.epub
-27c0fb234cf226fb975a2084b316bc98#119847#/计算机电子书/iteb2018/SBT 中文手册.epub
-565663fd4365638d0f26af7807a0429d#122286#/计算机电子书/iteb2018/Scala 初学指南.epub
-295cb1664ad371187d8d1f0f6b2f399c#5639214#/计算机电子书/iteb2018/Scikit and Tensorflow Workbooks (bjpcjp).epub
-8d4f2e24dbe48a8a6c72ce9866133bf2#9317073#/计算机电子书/iteb2018/scikit-learn 0.19 中文文档.epub
-65741e05567b387926b826088f4118bb#2157045#/计算机电子书/iteb2018/SciPyCon 2018 sklearn 教程.epub
-0a342c4b37e014c7160c1badad3cf7dd#22983468#/计算机电子书/iteb2018/sdn网络指南.epub
-a4ffd82486d2552be0360d3979323715#839377#/计算机电子书/iteb2018/Sentiment Analysis and Opinion Mining.pdf
-ec3d4f81f24915a2a8a74de152f7740f#1817661#/计算机电子书/iteb2018/Serenity开发者指南中文版.epub
-c4b26ee4b8ed402788e8b9252b1c0bec#17439241#/计算机电子书/iteb2018/Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub
-e7035770f1c67161ac0231faa1eb5b71#153370#/计算机电子书/iteb2018/Solidity 官方文档中文版.epub
-0dde6e5b4eb39fcf98d917b09a4d46c0#3278005#/计算机电子书/iteb2018/Spark GraphX源码分析.epub
-275e268760801b6e0a0ab483b17230be#11297400#/计算机电子书/iteb2018/spark机器学习算法研究和源码分析.epub
-89cfea6816642d06a11f014594864c56#577827#/计算机电子书/iteb2018/Spring Batch 参考文档中文版.epub
-0ebf3e0fa46dc4cd6850e335c14712e6#5085774#/计算机电子书/iteb2018/Spring Boot Cookbook 中文版.epub
-4f07cf0574de3a34f075c980805fbfaf#143585#/计算机电子书/iteb2018/Spring Data 中文版本.epub
-29cdcf875b632a413b126fadaba9a07a#572090#/计算机电子书/iteb2018/Spring Framework 5 中文文档.epub
-f7ac952a8206de0804f67af3bfecfd09#168080#/计算机电子书/iteb2018/Stackoverflow about Python 中文版.epub
-16ea829c5bb65bb4560f48326bf1e441#4466491#/计算机电子书/iteb2018/State Estimation for Robotics.pdf
-e742b3742ca403b8c656e2155a3f8575#2590005#/计算机电子书/iteb2018/Statistical inference for data science.pdf
-6de3e7f31b2308f7df5894f4cb0ca1ff#1239871#/计算机电子书/iteb2018/Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf
-10fc2ffe64f8259610922d23aa005868#5578351#/计算机电子书/iteb2018/Stochastic Processes Lecture Notes (UCB STAT150).pdf
-bc32144d71b1ec5f0070f0bd3d291ed9#761564#/计算机电子书/iteb2018/SVD 及其应用（张志华）.pdf
-56777291d5c472196a7e00a893ac9e16#921290#/计算机电子书/iteb2018/swebok 2004 中文版.pdf
-c332e19a79fbcf2a8df771c47af827ed#2030808#/计算机电子书/iteb2018/Swift设计模式 (iOS).epub
-e7795079106f3c5c28927dc184106a10#20769583#/计算机电子书/iteb2018/Technical Indicators and Overlays.epub
-ca1bac2a6bfd5cd164104a6e1f2d7b2e#2550878#/计算机电子书/iteb2018/Technical Notes On Using Data Science & Artificial Intelligence.epub
-6870f232f8315c33ced557e533a945d6#31202730#/计算机电子书/iteb2018/Tensorflow 101 (sjchoi86).epub
-6f6712643d4d51df79f99dfb7a518ac8#3523735#/计算机电子书/iteb2018/TensorFlow Examples (aymericdamien).epub
-c38ec4061586ed09b979be4394a78fbe#391123#/计算机电子书/iteb2018/TensorFlow Tutorials (nlintz).epub
-58ef66c1b91f5fc23c5eb9515fe258b2#315091#/计算机电子书/iteb2018/Tensorflow Tutorials (pkmital).epub
-a8ee5c94985e0298117baa3e8254d120#1495556#/计算机电子书/iteb2018/TensorFlow Zero To All.epub
-cdf47eee0551f1dbf333b55ac64d5099#5563430#/计算机电子书/iteb2018/TensorFlow 内核剖析.pdf
-74496e36164a9f895b65122e4de314bb#5325714#/计算机电子书/iteb2018/TensorFlow 学习指南.epub
-bf81c2505d95cb270e72ade1db41a30d#9824299#/计算机电子书/iteb2018/TensorFlow 中文文档 1.8 掘金 2018.5.19.epub
-8100bf7a3cf9a1e02fa1a0df09d56f95#7993606#/计算机电子书/iteb2018/TensorFlow从0到1.epub
-7091b38c5e11d1f956b16313c24c504d#2897263#/计算机电子书/iteb2018/the practice of reproducible research.epub
-91e4a8e45a56954560045eb99b5a6b6e#582580#/计算机电子书/iteb2018/The Way To Flask 中文版.epub
-8fdee1ecaa8e8b75dfae3501849a5a8b#23914374#/计算机电子书/iteb2018/The World Is Built On Probability.pdf
-d683b39096d196b069700191476021db#1905366#/计算机电子书/iteb2018/Time Series Econometrics.pdf
-78c7bca29e1ae51673cb75c1b26d4ef2#4026279#/计算机电子书/iteb2018/Time Series Lecture Notes (UCB STAT153).pdf
-34e7869345c8c304a2d77b79ef698410#186347#/计算机电子书/iteb2018/Tornado Tcp Program.epub
-4bf56ddf07ef9effd82d1a9a245f6987#2359319#/计算机电子书/iteb2018/UCB CS294 深度强化学习中文笔记（谢天）.epub
-56903b5fedc6d39e45483b43fcfb20f3#7720312#/计算机电子书/iteb2018/UCB Data8 计算与推断思维 中文版.epub
-ea4d1048e8d74b0c2c6a9eb8d0be4eb8#1623873#/计算机电子书/iteb2018/uCore OS实验指导书和源码网址 (2017).epub
-c05f892d630bc48403d23d7fe3c0d505#23261931#/计算机电子书/iteb2018/UIC CS385 操作系统讲义.epub
-887b1a8a8b32355485639fe2ba585490#2193105#/计算机电子书/iteb2018/Understanding Model-View-Controller.epub
-28c4a0a87d85c62460e28d6d01a069e3#1163527#/计算机电子书/iteb2018/Verilog HDL 硬件描述语言.pdf
-1aa4ee5b2e7712a0518865c2c999da37#523946#/计算机电子书/iteb2018/verilog 黄金参考指南中文版.pdf
-d3da8f6e6b016d5c4c2cb40a7b82b73a#1813830#/计算机电子书/iteb2018/Verilog 经典教程（夏宇闻）.pdf
-885a58c9f593804b2dcbd64b142dcac5#2126785#/计算机电子书/iteb2018/Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf
-65c26720683f5798501d155e6bbd2413#9489485#/计算机电子书/iteb2018/VS Code 中文文档.epub
-a2f4ac4db707b7573f7105eb92275ed8#1229901#/计算机电子书/iteb2018/Vue.js 2.0 完全入门记录.epub
-cc49ddb365e4226a194c5a84f68e8ee3#768705#/计算机电子书/iteb2018/Vue.js 教程（歪脖网）.epub
-1db662bb27ef70caaaf48b401883c6a4#418826#/计算机电子书/iteb2018/Webpack 中文指南.epub
-0f2fc6a595660d59badf0cf29b4b94f9#5502462#/计算机电子书/iteb2018/Windows App 应用开发教程.epub
-e75348130887f88993dc0c9a1b8ed5e6#884380#/计算机电子书/iteb2018/word2vec 中的数学.pdf
-0d2c12ee80487dcf5aed52764998ee56#1058950#/计算机电子书/iteb2018/XGBoost 原理解析.pdf
-10a625b96e53605704dbd8504bc8045c#36385981#/计算机电子书/iteb2018/Zero to Hero：2017年机器之心AI高分概述文章全集.epub
-9ea5b514b867cd4a835ceb3b4ba79fad#864046#/计算机电子书/iteb2018/Zoe的Python星际之旅.epub
-93a7092a03514fc8cee0c8e3df673013#26446410#/计算机电子书/iteb2018/《Real-Time Rendering 3rd》 提炼总结.pdf
-2964317c87a3fe18eaa0df0d58b26ef6#185439#/计算机电子书/iteb2018/《从零到一》Tony 翻译版.epub
-e4a858b05ebcc5a15c7fe26ee045e56f#9884598#/计算机电子书/iteb2018/《精通比特币》第二版.epub
-dd71314fb11a8177a1523103f7b7836a#788734#/计算机电子书/iteb2018/ウェブ健康診断仕様.pdf
-22f527b82abbe59839ea0490a06cdf78#1354917#/计算机电子书/iteb2018/阿里巴巴 Android 开发手册 1.0.pdf
-389c3b3079459d553a01061fb41eab17#1163395#/计算机电子书/iteb2018/阿里巴巴 Java 开发手册 1.4.0.pdf
-5b3a9ff3721fe0aa34865856d31ac67c#730235#/计算机电子书/iteb2018/安全なSQLの呼び出し方.pdf
-4cf49d7afe124c7e8e160a18e9453eff#3855672#/计算机电子书/iteb2018/安全なウェブサイトの作り方 7e.pdf
-64527b078bf6178a9903764bc1bf22fc#17131425#/计算机电子书/iteb2018/安全客2017Q4.pdf
-8efb8a43eb7b6e7dd437c623f761d1f6#30470184#/计算机电子书/iteb2018/安卓校招面试指南.epub
-631622d0dc97cdf6ff8cd1525b9fe888#2292744#/计算机电子书/iteb2018/安卓应用安全指南 中文版.epub
-d828a83f2a0d39985c5008d258573057#241284#/计算机电子书/iteb2018/编写高质量代码改善 Python 程序的 91 个建议.epub
-79ce89f0588ae427b49242c831a6aee9#852898#/计算机电子书/iteb2018/操作系统 ThreeEasyPieces.pdf
-db0f3c46750755e8b5f91f9e2e5510bd#2368164#/计算机电子书/iteb2018/操作系统简单实现与基本原理.epub
-25dd9f3e23b0be5fd6d2888fcdc9fc9b#8474008#/计算机电子书/iteb2018/草根学 Python （基于Python3.6）.epub
-28c62d6ae8ce4baa816c70225de064f1#180416#/计算机电子书/iteb2018/禅与 Objective-C 编程艺术.epub
-e9c4b6dd5e65737b1d58259391facd36#6800459#/计算机电子书/iteb2018/从 0 开始学架构（李运华）（完）.epub
-a21bd6e4b84beb29fa48ebdca1c3808d#1313697#/计算机电子书/iteb2018/从Python到Django入门教程.epub
-f9277d37bde224ad9efebed17326d1ff#14207789#/计算机电子书/iteb2018/从零开始学虚幻4游戏开发系列.pdf
-62b9422479b0bfd6c79c60db44a87632#8009649#/计算机电子书/iteb2018/从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf
-3e23153a4dd31c052468e47dab08ed49#530655#/计算机电子书/iteb2018/从头到尾彻底理解 KMP.epub
-e8e8b596803b3bf9b543782ac440e3e2#22569197#/计算机电子书/iteb2018/达观数据NLP特刊：从原理到实践.pdf
-eea4795468a3cfd82af0438d8e1822e2#4847101#/计算机电子书/iteb2018/大数据分析苏轼.pdf
-97e5f7b5a06a83968ce2c2f54eb85225#17734492#/计算机电子书/iteb2018/大数据实验手册.epub
-f104467c68713bf56b1170c517ee3f3a#2823172#/计算机电子书/iteb2018/大数入门.pdf
-c0cac309255fb8ba1461fa77483b86f8#3910801#/计算机电子书/iteb2018/带你玩转 Visual Studio.epub
-fb34b36104f5f41d1fbae784451585fa#1146144#/计算机电子书/iteb2018/复杂性思维 中文第二版.epub
-650c01c8eb02fc100056453ddca2a0d2#5352500#/计算机电子书/iteb2018/傅里叶变换及其应用（斯坦福大学）.pdf
-42ca27175fcf326a50e2c854dc642234#7981409#/计算机电子书/iteb2018/概率编程与贝叶斯方法实践.pdf
-fe54bb0690d76059730c598be3a81ad4#805938#/计算机电子书/iteb2018/概率图模型研究进展综述.pdf
-c65cd1c6bd1cb3dfc76bfd392645ccb6#327539#/计算机电子书/iteb2018/高级Bash脚本编程指南 Revision 10 中文版.epub
-0c57d80035fce1876a13f5418ae9f957#23217614#/计算机电子书/iteb2018/高可用架构（第 1~6 期）.rar
-8c9e0d7f87416b6c1f6fae9c24b44090#7041648#/计算机电子书/iteb2018/高盛区块链报告：区块链 从理论走向实践.epub
-1c5d05f5106e2ea6d81291be08797e38#2227972#/计算机电子书/iteb2018/高速上手 C++ 11 14 17.pdf
-20bc5452658f8fec6afe6fe806ba154f#7434583#/计算机电子书/iteb2018/给iOS开发者的Sketch入门教程.epub
-dfa10a518ecd292442b7dd4d7b6c0483#909398#/计算机电子书/iteb2018/给妹子讲 python 第二季.epub
-b0e0ac5a19ff49c7d269318ecbf6b683#88412#/计算机电子书/iteb2018/给妹子讲 python 第一季.epub
-54e2e739fa155da0b689dcd1bfbb1d82#4192381#/计算机电子书/iteb2018/工业控制网络安全基础 v2.pdf
-fbf71f243da204d5e96d948c65edd245#9254887#/计算机电子书/iteb2018/谷歌深度学习笔记（ahangchen）.epub
-e4f4d893cadc64d2a9790c0cb3c1f7c2#10759265#/计算机电子书/iteb2018/果仁网量化课堂 & 帮助文档.epub
-6a6f231bcaaca5c3a1784224b02b803a#1580491#/计算机电子书/iteb2018/和我一步步部署 kubernetes 集群.epub
-454a13d968f444fe1970819df4486096#8062272#/计算机电子书/iteb2018/机器学习教程（shareditor）.epub
-dd79ea6542eeabd0d5180f7da4e3ba82#6539890#/计算机电子书/iteb2018/机器学习进阶笔记（大U的技术课堂）.epub
-7db3010eee2df976bf1e0f563c8f7467#2795368#/计算机电子书/iteb2018/机器学习那些事（刘知远译）.pdf
-6f4d1836d8c41233e315f981881deb4e#5658483#/计算机电子书/iteb2018/机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf
-e91c3cd9f490bdde5867090da2c257aa#1217253#/计算机电子书/iteb2018/基于深度学习的推荐系统研究综述（黄立威等）.pdf
-9218ebaf7abc8a8b11dac904e48796ca#1263615#/计算机电子书/iteb2018/简单粗暴TensorFlow.pdf
-62e5fcce3399ba96c5f92954d987a0e2#527759#/计算机电子书/iteb2018/简明 Python 教程 4.0.epub
-19518ef2e2dcb6011126b82ce057c438#2526493#/计算机电子书/iteb2018/揭秘 CSS（歪脖网）.epub
-8fe06801b54250f76c8d3efa51050093#5739739#/计算机电子书/iteb2018/解析卷积神经网络——深度学习实践手册.pdf
-a1736bd228e317d3518a3f45d0d5d2ec#30987753#/计算机电子书/iteb2018/金程教育 AQF 量化金融分析师讲义 2017.pdf
-0157f38d0c7def8affaf4bc2313f045f#3358401#/计算机电子书/iteb2018/静态网站构建手册-使用Hugo构建个人博客.epub
-1f3d9567cd1364e3d46f8049fce869a6#915187#/计算机电子书/iteb2018/卷积神经网络研究综述（周飞燕等）.pdf
-7fcd6d1fd3dc7ee4c01fc2cf3fe54a8a#4838304#/计算机电子书/iteb2018/利用 Python 进行数据分析 中文第二版（SeanCheney）.epub
-d096605e2af52455de3103f80c1d5816#12603782#/计算机电子书/iteb2018/码农翻身全年文章精华 2016.epub
-93bb48d87132f039cb32443b18736ded#7849847#/计算机电子书/iteb2018/码农翻身全年文章精华 2017.epub
-796c0af10d570c928e69ced28d0e839b#116844#/计算机电子书/iteb2018/面对对象编程语言：应用和解释.epub
-96f020625f3bd135a52d422d9c9af9fd#30405098#/计算机电子书/iteb2018/莫烦机器学习教程 2017.5.10 fix1.epub
-c27a5db304e80e2f47a39c69c0412afd#3410754#/计算机电子书/iteb2018/牛客网春招备战手册+笔试分册+面试分册 2018.7z
-d233c6c03d86fa981966e2eb83ce70f0#775331#/计算机电子书/iteb2018/爬虫之路.epub
-3d2cb1fa79d73ff1c129fde77b38f6b0#2302716#/计算机电子书/iteb2018/迁移到云原生应用架构.epub
-512e79d6200c1a05c49534af17bb2e79#3396715#/计算机电子书/iteb2018/迁移学习手册 1.0.pdf
-af5877d82ffb5f716c928c1aa2d15789#31310959#/计算机电子书/iteb2018/前端开发笔记本.epub
-86bac168689343ae5e2a5edeb0e9f8d4#2638669#/计算机电子书/iteb2018/人工智能标准化白皮书 2018.pdf
-686af8c5467ceb973c3dbc254a98390b#1439595#/计算机电子书/iteb2018/人工智能指数 2017 年度报告.pdf
-dbd7ce21edbe17dc7e0f5598edfe371d#7557933#/计算机电子书/iteb2018/设计数据密集型应用（初翻）.epub
-ff8bce2a3d3688b4e15c6ca5e8df64a9#1302738#/计算机电子书/iteb2018/深度强化学习综述（刘全等）.pdf
-9e5004eec359dace276e590575812bc3#2884060#/计算机电子书/iteb2018/深度强化学习综述：兼论计算机围棋的发展.pdf
-33c62514752572532ed15c6a538960ff#1646237#/计算机电子书/iteb2018/深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub
-1ae45172e2330a8f168fb36c6e4173f3#1057607#/计算机电子书/iteb2018/深度学习技术选型白皮书（2018 年）.pdf
-b24a0c66ff5a710034b73413efd09a45#6184016#/计算机电子书/iteb2018/深度有趣 - 人工智能实战项目合集.pdf
-c47bb872a7cd102131028be2c5b1e47b#2730894#/计算机电子书/iteb2018/深入理解OpenStack自动化部署.epub
-5f6890b529d15d72e1179ff6bb6009c4#1002136#/计算机电子书/iteb2018/深入浅出Java Web.epub
-f44041b13da4216f6df196c165ed28fe#504783#/计算机电子书/iteb2018/生物信息学简明教程.pdf
-7f5c4033000f5a5f5259825d22a7f969#6127948#/计算机电子书/iteb2018/生物信息学讲义：结构信息部分（龚海鹏）.pdf
-44bcf482aa63b45e2e15bcf3148a1631#8658299#/计算机电子书/iteb2018/生物信息学培训教材（北京华大基因研究中心）.pdf
-b579d8aad930e1a294728fdbfea1c407#6361294#/计算机电子书/iteb2018/生物信息学札记（第三版）.pdf
-e2e9a082cafc7e582a9eb13c638e0d50#2424229#/计算机电子书/iteb2018/史上最简单的 IntelliJ IDEA 教程.epub
-d5ec2c2d59d3b9417a2f92f7be25d92b#5316666#/计算机电子书/iteb2018/使用Ionic2制作移动应用.pdf
-3693e10f3df1b6f98c01c383f95bddaa#1017256#/计算机电子书/iteb2018/使用Spring Cloud与Docker实战微服务.epub
-026843f24ccf5f09209bcbdfbf00d64d#6220511#/计算机电子书/iteb2018/数字安全实用手册.7z
-fec520d487f2d8a9ab5184c8ab4e0401#1383240#/计算机电子书/iteb2018/数字巨链.epub
-454750a280cfdf23a3a24f809e288cc4#8046148#/计算机电子书/iteb2018/斯坦福 CS183c 闪电式扩张中文笔记.epub
-62446900b1e3f26fb399fa8fd10458ad#283505#/计算机电子书/iteb2018/斯坦福 CS183f YC 创业课 2017 中文笔记.epub
-08dd2394115fd0b3dffc745040cfe7f8#3445564#/计算机电子书/iteb2018/斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub
-a540de9394a0238c1db1622c9088a408#4359962#/计算机电子书/iteb2018/搜云库 Spring Boot & Cloud 教程.epub
-43c030c293775f344fe028384a2120fd#4097257#/计算机电子书/iteb2018/随机过程（张灏）.pdf
-47a5c3512bc71b149e056f53ddff0286#4130974#/计算机电子书/iteb2018/台大林轩田机器学习笔记（TingxunShi）.pdf
-db43e0c10e8876c028ed057305ed0258#27106716#/计算机电子书/iteb2018/台湾大学林轩田机器学习笔记（红色石头）.epub
-7e9c554f4e6ea138a8ceb5708c6094bc#717654#/计算机电子书/iteb2018/梯度下降优化算法综述.pdf
-626be8beef9ebe5e2831f55d1c6ab5dd#1570466#/计算机电子书/iteb2018/图嵌入综述译文（arxiv 1709.07604）.pdf
-746f091a9c5e24a1286dba7bd8d4d270#340207#/计算机电子书/iteb2018/推荐系统调研报告及综述（张永锋）.pdf
-71996e36ca185b8c9b7d96b3c03e45a6#7305548#/计算机电子书/iteb2018/推荐系统遇上深度学习 1~21.epub
-686854e36cc149bfebc26be135466e6b#34950#/计算机电子书/iteb2018/推荐系统之算法（Librec 中文文档）.epub
-4aa6c07cd89e93796e0c98cbe8293a57#898943#/计算机电子书/iteb2018/网络表示学习综述（涂存超等）.pdf
-bad79dec2b6afe2e7402c2c65cf3888b#24283899#/计算机电子书/iteb2018/微信小程序教程（歪脖网）.epub
-d552dbe087b68395189c1c594facd431#166216#/计算机电子书/iteb2018/文件系统层次结构标准中文版.epub
-3637ca3c4b37baed8fa30100110d4272#401743#/计算机电子书/iteb2018/无痛的机器学习第二季.epub
-886f79c2c8d19273697aa56769e1a33b#4966211#/计算机电子书/iteb2018/新时期我国信息技术产业的发展.pdf
-18498273ccef145e8c4cdd9605c633d2#742141#/计算机电子书/iteb2018/信息管理专业Python教程.epub
-3cff11f82c08d2895b34eeca9538ddfa#4030615#/计算机电子书/iteb2018/虚拟货币投资实战技巧.epub
-567eefa61dc5b00c9e05ba044c44dbf0#950627#/计算机电子书/iteb2018/学习AngularJS 1.x.epub
-f888b9efc14af4c9f598f8927863c10e#2221230#/计算机电子书/iteb2018/耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf
-17bfbe70cf5b3de564d1a0902fe3cf4f#1645732#/计算机电子书/iteb2018/一文详解 Word2vec 之 Skip-Gram 模型.pdf
-b2ecd7097f16274c25b1c2b216b2cbf3#126475#/计算机电子书/iteb2018/以太坊官网文档中文版.epub
-4f764419f87410a649f833734efcbb3f#718452#/计算机电子书/iteb2018/用Python学微积分.epub
-7d5dcb5198dd7463a97c66fcdd65197f#4446444#/计算机电子书/iteb2018/再译《从零到一》（佟奈尔）.pdf
-a6d87f83f5bb8ea31e2d0a568c5d67d3#14510509#/计算机电子书/iteb2018/在迭代1之前.epub
-e17f8ceffa38b944fe7941b6618e5565#157192#/计算机电子书/iteb2018/知识共享协议使用常见问题解答非官方翻译项目.epub
-118673e8ec5b96b02357df80aafcd688#91362#/计算机电子书/iteb2018/重来（Olivida 译）.epub
-4417245c704d02f3480bb729c847e8a0#1078602#/计算机电子书/iteb2018/周立功 51 单片机教程.pdf
-43fe0a62a24960ee5bfcc746f1c41b9d#3906722#/计算机电子书/iteb2018/朱赟的技术管理课（完）.epub
-28769650e552ddca48031cd153108da1#9038827#/计算机电子书/iteb2018/自己动手做聊天机器人.epub
-1bd85c6bb89c3230219c5f09368fb404#999105#/计算机电子书/iteb2018/自由软件自由社会.epub
+14b86d9f8b2654e3182c1be12017e614#29140466#2016 年机器之心高分技术文章全集.epub
+1ee0cfc6114e08ac714db9a33a1f65f6#521287#97 Things Every Programmer Should Know.epub
+d265a828afd0cde0e29bf482be0bf3e1#253116#A Guide to Porting C C++ to Rust.epub
+6cc7fdad870c6fe4c1ee443f262c49dd#1596438#A Java Reference (UCB CS61b Textbook).pdf
+a09823655a6a8ee71b2f6e67414bdccc#259720#A Little Book of Python for Multivariate Analysis.epub
+f33184c18b086a7d3a1f43275349b2cd#7673884#Advanced Data Analysis from an Elementary Point of View.pdf
+2215c54903ad07b71893c553233eaebc#1089389#Advanced R.epub
+6467d10eccf72786b244fb0fa5bf6711#6734167#AI Cheat Sheet.7z
+3767e2899892794278b390ed3749c244#177706#aiohttp 中文文档.epub
+d4759ffc645dd553e6f2985c50f96d02#498899#AlexNet - ImageNet Classification with Deep Convolutional Neural Networks 译文.pdf
+29aa98a6901d67d46737d7a2368e2205#3098472#Algorithmic Game Theory Lecture Notes (Stanford CS364A).pdf
+e955a5a4cf361d9294ed75f947afb885#1424548#Algorithmic Information Theory - Review For Physicists And Natural Scientists.pdf
+aeaa3b1ea67cbecb9d1b162abb8d0671#1666758#Algorithms for Reinforcement Learning.pdf
+256ee8197382cfc64e03fe6835f25d5a#3360748#An Introduction to Data Science.epub
+362877b1b7c68b4b882cdc8776878dae#11367336#Android 101 Labs.epub
+49414d6f7918d5954dff877fe115f75b#91700#Android Gradle 插件中文指南.epub
+4fb848d66d22a516e0a079487146ba3a#5768019#Android SDK 教程.epub
+6a6ebf472372d34d3c453691d47d0c8f#3371060#ANDROID SDK 源码解析.epub
+f08a759e508cdfe2ffa78e9542617625#10372739#Android 安全笔记（JnuSimba）.epub
+efba126d7148bf5e27d15bafefa3df8c#5306740#Android 百战经典.epub
+2b8a410180117c31b6c75ff743b21315#4798486#Android&Java 技术笔记.epub
+deb8b25f82e4792a1c0e748c11495281#6140870#Android控件操作-二十四章经.epub
+eb067846bd7e2935257f103f2beb4727#167722#AngularJS学习笔记（checkcheckzz）.epub
+b825ec85bbeeb039b7ffce09cf181a01#65314753#Animation动画详解.epub
+de9f04a37028b1f64ea330ab9aa895d2#256517#ANTLR 4简明教程.epub
+33bbac100fd9263b4cd67643af76478f#2697244#Apache Airflow (incubating) Documentation.epub
+28a0558369f887c9bd84c74c05029058#120728#Apple Pay 编程指南.epub
+e9b7634e8368a71ba39990280819172b#27884868#Artificial Inteligence - Leonardo Araujo dos Santos.epub
+79d72d53cfbc79019bf9568ecda6afcb#7968408#Assembly Language for Beginners.pdf
+290754a9b1fa76f65ddfb75826b83dfe#1410231#Attention Is All You Need 中文翻译.pdf
+686c0ba992b35bd984ac61161268aea0#6815301#Automating Inference, Learning, and Design using Probabilistic Programming.pdf
+ded9b3ae8da222e6fe8f216377d2e8b4#16973999#Axure RP 指南.epub
+c7edd6c3f9e8a38881bfcc9fb40e006a#6767626#BAT 机器学习面试 1000 题系列（第 1~325 题）.pdf
+805197d9789ee4420325b90cf9934be4#20220167#Bayesian Networks & Bayeslab.pdf
+cabaed14509a8c2b8fbe6409d22a7c37#1809844#Book on TypeScript.epub
+8b4dfbe780142b97c70b6899403ea5b7#1322604#Bootstrap2 用户指南（歪脖网）.epub
+ebde7c390864af50d4b30271bcd974f7#1870347#Bootstrap3 实用教程（歪脖网）.epub
+29d7c64a0936c5dc021c21eda47846f5#94005#Build a Node.js Project from Scratch.epub
+bd8886a1900a22352d4d8a4315661171#105877#Build your applications with Webpack.epub
+42709305e00651f18c7b77045aa5947a#228421#Build Your Own Lisp 中文版.epub
+a48387ace2a2eb71451533d19aa30ac0#285977#C 语言进阶.epub
+ee032e493208ff9943c87d4f99192934#1713839#C#区块链编程.epub
+81d631c49d5c2fdfbad86c7d62a391d2#2609521#Category Theory for Programmers.pdf
+76b519a68fb5b96b036020373ea666a4#184044#Ceph 运维手册.epub
+0abc2a7259cea815214466f9137a1ccb#1914807#Chromium中文文档.epub
+f010f5236aa33c8b6c82f8a80191971a#163886#ClojureScript 入门指南.epub
+64f475194020034c4a62a6272e324c34#1099959#Competitive Programmer's Handbook.pdf
+9c6a5971ef047fc5bce18377d4c0524a#2538366#Computer and Network Organization.pdf
+90d1800ac7c3feb3b053cba697c9b961#18557166#Computer Vision Algorithms and Applications.pdf
+2c8f7fce0556dc2bbda2caa0c8f4b8f0#15047822#computer_networks_a_systems_approach_5th_ed.epub
+26c7afdcc40017615b97bd4069f21a95#327134#Consul 简介和快速入门.epub
+de7281a6009fc06bff29ba1ba5513f06#3569254#CSS Animation 101.epub
+9766cfc959088a527c2ea21d54a1964c#8672904#CTF Wiki 2017.12.27.epub
+9fb83027dcf150e47f485cf9f2b0d719#3794584#CTF-All-In-One 2018.1.24.epub
+78c6d3f8fc96088f810539ce0f43e019#2676112#CUDA 编程指南 5.0 中文版.pdf
+ca95d174e6ae7b82a03f600290e98a0f#13808324#CyC2018 CS 学习笔记 20181106.epub
+6e1c28da246d037ff8f61cb63e7298cd#1148625#Data Clustering 50 years beyond kmeans 翻译.pdf
+1687efbcdc85e4bceb1e8db740e5bc36#3553215#Data Science and Analytics for Ordinary People.pdf
+6b85f37f9c13283461498aac47be21f0#1461499#Data Structures Into Java (UCB CS61b textbook).pdf
+517bc635802dfe4c850840e6df829166#615043#Databricks Spark 知识库.epub
+b46486c6a1905a7b200ebab922b37c6b#1922806#Deep Learning for Multivariate Financial Time Series.pdf
+79e1fe8e9526bd305f03debed54bb01f#2257255#DEEP REINFORCEMENT LEARNING (Yuxi Li).pdf
+38eeae876731a1ee05639c724fce2659#2516149#DeepMind 强化学习中文讲义.epub
+f657ee516a82b0b3bcd086942384bbba#9484338#devops-collective-inc PowerShell.7z
+15779a7500a5f9c7ed7c65e6393672dc#18377425#Distributed Systems 3e.pdf
+812dc8f22db8326a91385192bda8fbc4#534339#Dive Into HTML5 中文版.epub
+2421d1cfcb79b3e09fed8089a6f14a45#4919715#Django 2 By Example 中文版.epub
+6d13bc69c3f526d9598d691b1d4cfac8#167254#Docker Swarm 源码分析.epub
+bb2f124080c4afc09257886ff8c55384#1063713#Docker简明教程.epub
+c56cb26e8e9bcfb5dc9b424c2232dec8#5303957#Econometrics Streamlined, Applied and e-Aware.pdf
+d875ac0f7ebd0f00a9ffd2624fc79495#48476#Erlang 编程规则.epub
+e3c299071627c3743ab68cbb4fb42507#1928853#Everything curl.epub
+431444fca76cb8cc225bb1f200f2a460#8360820#F# for Fun and Profit eBook.epub
+a74694c5c876d3be626c9b2ecdd9aa85#9171746#fast.ai 数值线性代数讲义中文版 v2.epub
+290826ce8fe7abd3e06982e0d2b6e70d#493401#Fiddler2 中文手册.chm
+33aa41903090c4ca6337fe43503fb8fc#1219405#Figure Eight 2018 年数据科学家报告.pdf
+93d3836613fd451ebf54c7387968ff05#1560398#Flask 大型教程 2017.epub
+04b696ba06c4badc744d3615b29a4d10#5934578#Forecasting in Economics, Business, Finance and Beyond.pdf
+48e019a56c098e4cbce8b20eb0f6cd12#10618928#Forecasting Principles and Practice  2e.pdf
+63b3c37ac6218daca640a46fa8641529#1959489#Foundations of Data Science.pdf
+cfefc17282839c0662d54701e162c37c#189792#FreeBSD 101 Hacks.epub
+8bfeb276adcc962e5bfc5081dd8c6692#6343566#Frida 中文文档.epub
+0fda351d267a2fb76d038e95e0fcd307#699263#Full Speed Python.epub
+55cc1f22b98c2d799e3ed8a5c455947f#16070814#FuzzySecurity Windows Exploit 开发系列教程 1~19.epub
+d835d3f153891c5135e4d08a8d00e76b#3103729#Game Theory 2e.7z
+f4f46e01dcb53fc8bcf17cf0cbe0d8af#6192304#GeeksForGeeks Compiler Design Lecture Notes.epub
+df2de4538d5e5b940e24eea371c84bb4#12328579#GeeksForGeeks Computer Network Lecture Notes.epub
+77858397d5dfbafaeeb87082b5a75aaa#3930839#GeeksForGeeks Computer Organization and Architecture Lecture Notes.epub
+e013d5c0f2db19240f5e4f1c3f213bb3#5340892#GeeksForGeeks Database Management System Lecture Notes.epub
+5b1c5efcc8e2873a41f854f07f58c1cd#7620798#GeeksForGeeks Digital Electronics and Logic Design Lecture Notes.epub
+f248b557254cf0d28e6aa9a45e2e289e#1182955#GeeksForGeeks Engineering Mathematics Lecture Notes.epub
+96c3eaddec5455cda212ef356c0b2ef0#2878241#GeeksForGeeks Microprocessor Lecture Notes.epub
+c1b43fd0ce0f454956408c4755c686e2#8927427#GeeksForGeeks Operating Systems Lecture Notes.epub
+2f81b505d4af15721e62a4f4e317e4e4#3059021#GeeksForGeeks Theory Of Computation and Automata Lecture Notes.epub
+4afc925f7dd42afbf76939d8cde5006a#318815#Getting Started in Computer Vision Research.pdf
+8ed51c1a9a0ae4749939aa0f4688ab78#1755514#Githug 通关攻略.epub
+c69d9ceb229b66905e759e74583e30c2#105246#Glide v4 中文版.epub
+acb331ede746eabc37dbd700a501d1df#122132#Golang 101 hacks.epub
+190c036f2a9b34114ade4f521694b260#2565019#Gradle 实战.epub
+110f4d6ab5b04ed22fa1c237cdac0e7e#3610397#Graph Theory and Complex Networks.pdf
+a237bde468619e352e5c56dd34201d4e#236708#Groovy 入门.epub
+3576867e4ffd8fd4019775a82ba006db#4471487#GrowingIO 增长秘籍 3.0 终版.pdf
+11819f62fda725d6ccbc2d7c9ffe7ec2#1391951#Hadoop The Definitive Guide 4e 中文版.epub
+ecb48591aed1da0f2f2613b60bbcfea7#408105#Handling and Processing Strings in R.pdf
+77997ad5fb77d06e3b6e1fb6160464b8#412496#Hibernate 高级教程.epub
+7a02555c4b547b88bfde730d7b5e7b0e#5806788#Hinton 神经网络与机器学习笔记（TingxunShi）.pdf
+73ffa6f5c4b70814a35b4a3073bf4ff9#3535170#HIT-Alibaba 笔试面试知识整理.epub
+e9c58b370400342816adf9b2a08859ca#2608750#How to Write a Good Scientific Paper.pdf
+b59d9058c8a6aa4b8c52a9dcc5b4b9ab#1334261#HTML 宝典（歪脖网）.epub
+5235771492a3439c11d6d999392f0e4e#5019503#HTML5 Canvas 实战.epub
+2dc2dbd536be3f90020e2fdbfecb9820#1078931#HTTP 协议  RFC2616  中文版.pdf
+28cd788ac24b26e071242b82f0fdfd20#45437210#i 春秋月刊 1~5.7z
+5ecba70a386ff28f8c13359b6a836100#12218476#i 春秋月刊第六期：Linux pwn 零基础入门.pdf
+07396088376859ed2e95c0742bb82d3f#585666#ICML 2018 Notes.pdf
+2f07ccaa00d24ae928d494e400701ebd#928596#IDAPython 初学者指南.pdf
+f10215abf97f051940be63ed82a3ddc9#6700142#IEEE SystemVerilog 3.1a 语言参考手册.chm
+83c278568a2da72b1ba10e3f6fdb31ac#196343#InfluxDB简明手册.epub
+42f3039faa2a4818c3e1e217a889d636#21809696#IntelliJ IDEA 中文文档.epub
+d741af3cabe27eafd691ea92df4e3be3#8831441#Internet Of Things 101 Intel® Edison.epub
+e5c493bf2575640d46483406c41184b7#4581044#Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.pdf
+7311a1677a548da10dd58db46014e03e#14650448#Introduction to Statistics Online Edition.7z
+eb4f16ee5cdef8d52d1621d4199a45b8#6081972#introduction-to-touchdesigner.epub
+b00be2c2ac266144b6282575c1f6b928#8947573#iOS 9人机交互指南.epub
+b14b9e273bb5221c5588619698bdeb6c#923439#iOS IAP 教程.epub
+e45c9162bc33f4170d126b2acb8d5af0#4528177#iOS的函数响应型编程.epub
+23e895e71177668636e7c401081f75f8#2161090#Istio官方文档中文版.epub
+6116df00eb2740a198678ed93a1549ad#298763#Java NIO简明教程.epub
+53c706645df383411beb97dc3c12f9e1#3681378#Java 核心技术 36 讲（李运华）（完）.epub
+54545189f949ee013eddffb03c6d9d6e#249959#Java 面试笔记.epub
+12468b8a8a68c8733d1e32763236690a#7326562#Java 微信开发.epub
+5c7d64594926b0470df0c2dd44e008bc#1710070#JavaScript 编程精解 中文第三版.epub
+139df156b098938963c5ca51afdaf6d0#2378946#JavaScript 完全手册（2018版）.epub
+97112865cd914fa35cae0304746c67b1#27677220#JoinQuant 量化课堂.pdf
+ff7850b9d3e2bac862b2ca9e20bd38f4#64846#JSON 教程（歪脖网）.epub
+296826fa82dda5349dbd292f262e904c#3307029#JVM必知必会.epub
+8b2b13d1472b38647dc2505934c670e9#2989030#Kira 概统解题指南 2017.pdf
+c8ae00214fde9bbd083c14643bf90ce1#994727#Kira 概统十篇 2018.pdf
+1dd99423405fdea83ec1cb6cd714d149#7306599#Kira 高数葵花宝典 2017.pdf
+57327c4cef0074450b2141f1cbd80c44#4228073#Kira 高数葵花宝典 2017（修订版）.pdf
+193fc7e359fb48069176a494b93f7ce4#3985983#Kira 线代小菊花丸 2017（全）.pdf
+ca16f42110d1922fd135200a2b20f461#3521514#Kivy中文编程指南.epub
+dc5a61be7f8d0fc1e84c644e361accf1#9332184#Kubernetes 指南.epub
+ebef96a5dbabaf0b3f1fe865f8bb85aa#2641849#Kubernetes 中文文档.epub
+6d2c47498a1e272490fed1bba3be137c#70133#kungeekUI.epub
+3363453d403a5df5f3496c926dd334af#2220770#laravel 源码解析.epub
+02175b9a042aa0ddc18475307a330e85#1832941#Learning Deep Architectures for AI 中文版（初译）.pdf
+c189e09445245c792a7b8109c1e0e896#1188687#Learning Rust.epub
+3512b41b3e0773b3cf218669b4ce1b2c#3111459#Learning Scrapy 中文版.epub
+6dc33837d6167d5a7f2a1db2cf170f18#11495451#LearnOpenGL 中文教程.epub
+35b45cc043f8ec6f149a614659b0475d#1893324#LeetBook（LeetCode详解）.epub
+46574e7bda3e90104c39580129e00cb4#192467#Less 简明教程（歪脖网）.epub
+52eeb5d1ee927118d0fa7dd406f65b14#530112#Linear Programming.pdf
+dc397ea94577a669d1f05247b0fca0a7#2411165#Linux 命令大全（LinuxToday）.epub
+635fc1ecfa424e173c25ea0343493c7f#5578512#Linux 内核源代码情景分析.pdf
+fb483f4c4d0f6026a01fe71f2e13aad4#264254#Little ASP.NET Core Book.epub
+f376a3bbef2a1cafaabccff5f23575a4#1326072#Machine Learning Super VIP Cheatsheet.pdf
+d2a16f524a9ce30addbb2ddcde6c7460#2213532#Markdown 入门参考.epub
+c70c63255b193812dc8088d1d1528f49#4326059#Mastering TensorFlow 1.x Code Notes.epub
+f15cb095965fd3dd6c80ed08e5f5c1b0#1165142#Mathematical Methods for Robotics, Vision, and Graphics Lecture Notes (Stanford CS205).pdf
+059a0da2421e448dacb49badc4796eae#6796661#Mathematics for Machine Learning.pdf
+dee0ce33d0622fab410231014db5e4d0#343457#Metasploit 中文 Wiki.epub
+78b18bf615160446ea6d3013360db443#39282#MongoDB入门指南.epub
+7e16681f68a66cf36a6c11316d36ce5d#5916098#Natural Language Processing (Jacob Eisenstein).pdf
+76c4d42c8280fa93febf4e8f799521df#8891007#Nessus 6.3 中文用户手册.pdf
+0af4d73a1aef51a6aa649293b669e82d#17324417#Network Science (Albert-László Barabási).7z
+6141a34538b2377c0485e1008766ff2f#8479082#Node.js 调试指南.epub
+d7c2ef6e7211540a43021246504b1653#9517110#Node.js 设计模式 中文第二版.epub
+cff14e17039cb2b04cb132bbbb5e2363#2087356#Notes on Deep Learning for NLP.pdf
+17641fa3cb5eefad4a46a5c5d6e8a209#4039437#Numerical Algorithms (Stanford CS205 Textbook).pdf
+e482aa5bd70463fe848c111b2d74057b#789183#NumPy Essentials 带注释源码.epub
+1db431b6e071c69f775fd873f10d731e#7517620#OpenIntro Statistics 3e.pdf
+9af7944052b41740e77a41ccba056ff3#108680#OpenStack最终用户文档（简体中文版）.epub
+14dd508e59c5ad9560db640639c8aad6#7850005#OpenTutorial Git Python Django 教程.epub
+8c07c5db52f224d824e58de47a45200e#3381757#PaddlePaddle 深度学习入门.epub
+58bfd56c266cc600af1aee2d4580f37f#5202257#Pandas Cookbook 带注释源码.epub
+710136eb4d07c7a54c2b486ee394644d#16565622#PaperWeekly #1~#54.epub
+80b196c0630463ad1467f96122fa3b2b#72819#PHP 5.5 Web零基础教程：开发一个在线阅读网站.epub
+67f9bc3060adef8dbb7e0b49aef54777#386625#PHP 扩展开发入门.epub
+c85534125d8458a1d5921875438ff376#4113577#Postman 中文文档.epub
+13bc83086f918d4d8653b824fb60a59f#2144055#Practical Data Cleaning - 19 Essential Tips.pdf
+c30f5b46eebec28a4d2002eb8a3865c9#242198#Programming Languages Application and Interpretation 中文版.epub
+bd346883982f2a758744612ad6c4a073#979068#PyQt5 中文教程.epub
+8123887941eb7537a040376fa4a7891d#1122102#Python 3 Basics Tutorial.epub
+3bdce3e532ec5fb03ada5c6b5b79938b#2033742#Python 3 Module Examples.epub
+44750e38b6f7d77f7b2b54e2c50bb734#460233#Python One to Million.epub
+a6d62d2e039af41611e7c8c35e948e39#166039#Python Testing Tutorial.epub
+b6d45f3fff55079c61af83a54dd09803#1855783#Python 分布式计算.epub
+1f370d3fe37a4dd76264b4b34a13a7fe#140202#Python 数据分析与挖掘实战 带注释源码.epub
+8df42edc7ba55a52f94c441b6d2fedae#174#Python 数据科学手册.url
+4160335d8a2b9c7523913babfb0f0f5e#4195577#Python 数据科学速查表 14 张（呆鸟译）.7z
+c4ac2bbadd86da04ef30cc67fd89cbe6#323656#Python 中文文档 3.7：入门教程.epub
+a6fc416833f7b1234f69e10e3f6c9b67#4157955#PyTorch 0.3 中文文档和教程.epub
+357ca0585c7dc870c1fdbe2d5c387d98#95082#PyTorch Zero To All.epub
+968f66d89dfad26cca00ce8bb9b89783#933972#R for Beginners 中文版 .pdf
+7767482b06cdfee561d3b2a2ee23db68#7601800#R for Data Science.epub
+04459003e2027c48166d6f284c202423#5100024#R packages.epub
+6b5817fabfa95da0204a92cba833c8dd#472452#Rancher 实战红宝书.epub
+6050c8c18054dd928d8a0291158196ca#792771#RANDOM FORESTS FOR BEGINNERS.pdf
+86c2267b88ea67b5deb43e92a77c72ad#2950374#Rangle's Angular 2 Training Book 中文版.epub
+6c8ad66b3f5f5c10d38a027d696bbab0#6622985#React Native Training.epub
+e5a9739e63929db6fb3cde3eb886bda4#604050#React 学习之道.epub
+ae766455778b30165637886fb9c1a632#378664#Readings in Database Systems, 5th Edition.pdf
+65dc38da862c4ebe1b84f151fd895407#2947021#Redis开发运维实践指南.epub
+54d6dde03c4d83a0ade2f85b43212d69#1719037#RubyFu.epub
+8a38d50a24e4090efa59c19e7cbb3317#83461#Rxjs 5 ultimate.epub
+bdafdb4876c7396c0bf168b8967939b1#5704823#R语言高级程序设计 --《Advanced R》中文版.pdf
+b3d757779a5c2909554ba5cd65a0b3c5#1437616#Sanic-For-Pythoneer.epub
+27c0fb234cf226fb975a2084b316bc98#119847#SBT 中文手册.epub
+565663fd4365638d0f26af7807a0429d#122286#Scala 初学指南.epub
+295cb1664ad371187d8d1f0f6b2f399c#5639214#Scikit and Tensorflow Workbooks (bjpcjp).epub
+8d4f2e24dbe48a8a6c72ce9866133bf2#9317073#scikit-learn 0.19 中文文档.epub
+65741e05567b387926b826088f4118bb#2157045#SciPyCon 2018 sklearn 教程.epub
+0a342c4b37e014c7160c1badad3cf7dd#22983468#sdn网络指南.epub
+a4ffd82486d2552be0360d3979323715#839377#Sentiment Analysis and Opinion Mining.pdf
+ec3d4f81f24915a2a8a74de152f7740f#1817661#Serenity开发者指南中文版.epub
+c4b26ee4b8ed402788e8b9252b1c0bec#17439241#Sklearn 与 TensorFlow 机器学习实用指南中文版 2018.6.20.epub
+e7035770f1c67161ac0231faa1eb5b71#153370#Solidity 官方文档中文版.epub
+0dde6e5b4eb39fcf98d917b09a4d46c0#3278005#Spark GraphX源码分析.epub
+275e268760801b6e0a0ab483b17230be#11297400#spark机器学习算法研究和源码分析.epub
+89cfea6816642d06a11f014594864c56#577827#Spring Batch 参考文档中文版.epub
+0ebf3e0fa46dc4cd6850e335c14712e6#5085774#Spring Boot Cookbook 中文版.epub
+4f07cf0574de3a34f075c980805fbfaf#143585#Spring Data 中文版本.epub
+29cdcf875b632a413b126fadaba9a07a#572090#Spring Framework 5 中文文档.epub
+f7ac952a8206de0804f67af3bfecfd09#168080#Stackoverflow about Python 中文版.epub
+16ea829c5bb65bb4560f48326bf1e441#4466491#State Estimation for Robotics.pdf
+e742b3742ca403b8c656e2155a3f8575#2590005#Statistical inference for data science.pdf
+6de3e7f31b2308f7df5894f4cb0ca1ff#1239871#Statistical Learning Theory Notes (Stanford CS229T STAT231).pdf
+10fc2ffe64f8259610922d23aa005868#5578351#Stochastic Processes Lecture Notes (UCB STAT150).pdf
+bc32144d71b1ec5f0070f0bd3d291ed9#761564#SVD 及其应用（张志华）.pdf
+56777291d5c472196a7e00a893ac9e16#921290#swebok 2004 中文版.pdf
+c332e19a79fbcf2a8df771c47af827ed#2030808#Swift设计模式 (iOS).epub
+e7795079106f3c5c28927dc184106a10#20769583#Technical Indicators and Overlays.epub
+ca1bac2a6bfd5cd164104a6e1f2d7b2e#2550878#Technical Notes On Using Data Science & Artificial Intelligence.epub
+6870f232f8315c33ced557e533a945d6#31202730#Tensorflow 101 (sjchoi86).epub
+6f6712643d4d51df79f99dfb7a518ac8#3523735#TensorFlow Examples (aymericdamien).epub
+c38ec4061586ed09b979be4394a78fbe#391123#TensorFlow Tutorials (nlintz).epub
+58ef66c1b91f5fc23c5eb9515fe258b2#315091#Tensorflow Tutorials (pkmital).epub
+a8ee5c94985e0298117baa3e8254d120#1495556#TensorFlow Zero To All.epub
+cdf47eee0551f1dbf333b55ac64d5099#5563430#TensorFlow 内核剖析.pdf
+74496e36164a9f895b65122e4de314bb#5325714#TensorFlow 学习指南.epub
+bf81c2505d95cb270e72ade1db41a30d#9824299#TensorFlow 中文文档 1.8 掘金 2018.5.19.epub
+8100bf7a3cf9a1e02fa1a0df09d56f95#7993606#TensorFlow从0到1.epub
+7091b38c5e11d1f956b16313c24c504d#2897263#the practice of reproducible research.epub
+91e4a8e45a56954560045eb99b5a6b6e#582580#The Way To Flask 中文版.epub
+8fdee1ecaa8e8b75dfae3501849a5a8b#23914374#The World Is Built On Probability.pdf
+d683b39096d196b069700191476021db#1905366#Time Series Econometrics.pdf
+78c7bca29e1ae51673cb75c1b26d4ef2#4026279#Time Series Lecture Notes (UCB STAT153).pdf
+34e7869345c8c304a2d77b79ef698410#186347#Tornado Tcp Program.epub
+4bf56ddf07ef9effd82d1a9a245f6987#2359319#UCB CS294 深度强化学习中文笔记（谢天）.epub
+56903b5fedc6d39e45483b43fcfb20f3#7720312#UCB Data8 计算与推断思维 中文版.epub
+ea4d1048e8d74b0c2c6a9eb8d0be4eb8#1623873#uCore OS实验指导书和源码网址 (2017).epub
+c05f892d630bc48403d23d7fe3c0d505#23261931#UIC CS385 操作系统讲义.epub
+887b1a8a8b32355485639fe2ba585490#2193105#Understanding Model-View-Controller.epub
+28c4a0a87d85c62460e28d6d01a069e3#1163527#Verilog HDL 硬件描述语言.pdf
+1aa4ee5b2e7712a0518865c2c999da37#523946#verilog 黄金参考指南中文版.pdf
+d3da8f6e6b016d5c4c2cb40a7b82b73a#1813830#Verilog 经典教程（夏宇闻）.pdf
+885a58c9f593804b2dcbd64b142dcac5#2126785#Visualizing and Understanding Convolutional Networks 译文（“看懂”卷积神经网络）.pdf
+65c26720683f5798501d155e6bbd2413#9489485#VS Code 中文文档.epub
+a2f4ac4db707b7573f7105eb92275ed8#1229901#Vue.js 2.0 完全入门记录.epub
+cc49ddb365e4226a194c5a84f68e8ee3#768705#Vue.js 教程（歪脖网）.epub
+1db662bb27ef70caaaf48b401883c6a4#418826#Webpack 中文指南.epub
+0f2fc6a595660d59badf0cf29b4b94f9#5502462#Windows App 应用开发教程.epub
+e75348130887f88993dc0c9a1b8ed5e6#884380#word2vec 中的数学.pdf
+0d2c12ee80487dcf5aed52764998ee56#1058950#XGBoost 原理解析.pdf
+10a625b96e53605704dbd8504bc8045c#36385981#Zero to Hero：2017年机器之心AI高分概述文章全集.epub
+9ea5b514b867cd4a835ceb3b4ba79fad#864046#Zoe的Python星际之旅.epub
+93a7092a03514fc8cee0c8e3df673013#26446410#《Real-Time Rendering 3rd》 提炼总结.pdf
+2964317c87a3fe18eaa0df0d58b26ef6#185439#《从零到一》Tony 翻译版.epub
+e4a858b05ebcc5a15c7fe26ee045e56f#9884598#《精通比特币》第二版.epub
+dd71314fb11a8177a1523103f7b7836a#788734#ウェブ健康診断仕様.pdf
+22f527b82abbe59839ea0490a06cdf78#1354917#阿里巴巴 Android 开发手册 1.0.pdf
+389c3b3079459d553a01061fb41eab17#1163395#阿里巴巴 Java 开发手册 1.4.0.pdf
+5b3a9ff3721fe0aa34865856d31ac67c#730235#安全なSQLの呼び出し方.pdf
+4cf49d7afe124c7e8e160a18e9453eff#3855672#安全なウェブサイトの作り方 7e.pdf
+64527b078bf6178a9903764bc1bf22fc#17131425#安全客2017Q4.pdf
+8efb8a43eb7b6e7dd437c623f761d1f6#30470184#安卓校招面试指南.epub
+631622d0dc97cdf6ff8cd1525b9fe888#2292744#安卓应用安全指南 中文版.epub
+d828a83f2a0d39985c5008d258573057#241284#编写高质量代码改善 Python 程序的 91 个建议.epub
+79ce89f0588ae427b49242c831a6aee9#852898#操作系统 ThreeEasyPieces.pdf
+db0f3c46750755e8b5f91f9e2e5510bd#2368164#操作系统简单实现与基本原理.epub
+25dd9f3e23b0be5fd6d2888fcdc9fc9b#8474008#草根学 Python （基于Python3.6）.epub
+28c62d6ae8ce4baa816c70225de064f1#180416#禅与 Objective-C 编程艺术.epub
+e9c4b6dd5e65737b1d58259391facd36#6800459#从 0 开始学架构（李运华）（完）.epub
+a21bd6e4b84beb29fa48ebdca1c3808d#1313697#从Python到Django入门教程.epub
+f9277d37bde224ad9efebed17326d1ff#14207789#从零开始学虚幻4游戏开发系列.pdf
+62b9422479b0bfd6c79c60db44a87632#8009649#从算法设计到硬线逻辑的实现--复杂数字逻辑系统的 Verilog HDL 设计技术和方法.pdf
+3e23153a4dd31c052468e47dab08ed49#530655#从头到尾彻底理解 KMP.epub
+e8e8b596803b3bf9b543782ac440e3e2#22569197#达观数据NLP特刊：从原理到实践.pdf
+eea4795468a3cfd82af0438d8e1822e2#4847101#大数据分析苏轼.pdf
+97e5f7b5a06a83968ce2c2f54eb85225#17734492#大数据实验手册.epub
+f104467c68713bf56b1170c517ee3f3a#2823172#大数入门.pdf
+c0cac309255fb8ba1461fa77483b86f8#3910801#带你玩转 Visual Studio.epub
+fb34b36104f5f41d1fbae784451585fa#1146144#复杂性思维 中文第二版.epub
+650c01c8eb02fc100056453ddca2a0d2#5352500#傅里叶变换及其应用（斯坦福大学）.pdf
+42ca27175fcf326a50e2c854dc642234#7981409#概率编程与贝叶斯方法实践.pdf
+fe54bb0690d76059730c598be3a81ad4#805938#概率图模型研究进展综述.pdf
+c65cd1c6bd1cb3dfc76bfd392645ccb6#327539#高级Bash脚本编程指南 Revision 10 中文版.epub
+0c57d80035fce1876a13f5418ae9f957#23217614#高可用架构（第 1~6 期）.rar
+8c9e0d7f87416b6c1f6fae9c24b44090#7041648#高盛区块链报告：区块链 从理论走向实践.epub
+1c5d05f5106e2ea6d81291be08797e38#2227972#高速上手 C++ 11 14 17.pdf
+20bc5452658f8fec6afe6fe806ba154f#7434583#给iOS开发者的Sketch入门教程.epub
+dfa10a518ecd292442b7dd4d7b6c0483#909398#给妹子讲 python 第二季.epub
+b0e0ac5a19ff49c7d269318ecbf6b683#88412#给妹子讲 python 第一季.epub
+54e2e739fa155da0b689dcd1bfbb1d82#4192381#工业控制网络安全基础 v2.pdf
+fbf71f243da204d5e96d948c65edd245#9254887#谷歌深度学习笔记（ahangchen）.epub
+e4f4d893cadc64d2a9790c0cb3c1f7c2#10759265#果仁网量化课堂 & 帮助文档.epub
+6a6f231bcaaca5c3a1784224b02b803a#1580491#和我一步步部署 kubernetes 集群.epub
+454a13d968f444fe1970819df4486096#8062272#机器学习教程（shareditor）.epub
+dd79ea6542eeabd0d5180f7da4e3ba82#6539890#机器学习进阶笔记（大U的技术课堂）.epub
+7db3010eee2df976bf1e0f563c8f7467#2795368#机器学习那些事（刘知远译）.pdf
+6f4d1836d8c41233e315f981881deb4e#5658483#机器学习训练秘籍（Machine Learning Yearning 中文版）.pdf
+e91c3cd9f490bdde5867090da2c257aa#1217253#基于深度学习的推荐系统研究综述（黄立威等）.pdf
+9218ebaf7abc8a8b11dac904e48796ca#1263615#简单粗暴TensorFlow.pdf
+62e5fcce3399ba96c5f92954d987a0e2#527759#简明 Python 教程 4.0.epub
+19518ef2e2dcb6011126b82ce057c438#2526493#揭秘 CSS（歪脖网）.epub
+8fe06801b54250f76c8d3efa51050093#5739739#解析卷积神经网络——深度学习实践手册.pdf
+a1736bd228e317d3518a3f45d0d5d2ec#30987753#金程教育 AQF 量化金融分析师讲义 2017.pdf
+0157f38d0c7def8affaf4bc2313f045f#3358401#静态网站构建手册-使用Hugo构建个人博客.epub
+1f3d9567cd1364e3d46f8049fce869a6#915187#卷积神经网络研究综述（周飞燕等）.pdf
+7fcd6d1fd3dc7ee4c01fc2cf3fe54a8a#4838304#利用 Python 进行数据分析 中文第二版（SeanCheney）.epub
+d096605e2af52455de3103f80c1d5816#12603782#码农翻身全年文章精华 2016.epub
+93bb48d87132f039cb32443b18736ded#7849847#码农翻身全年文章精华 2017.epub
+796c0af10d570c928e69ced28d0e839b#116844#面对对象编程语言：应用和解释.epub
+96f020625f3bd135a52d422d9c9af9fd#30405098#莫烦机器学习教程 2017.5.10 fix1.epub
+c27a5db304e80e2f47a39c69c0412afd#3410754#牛客网春招备战手册+笔试分册+面试分册 2018.7z
+d233c6c03d86fa981966e2eb83ce70f0#775331#爬虫之路.epub
+3d2cb1fa79d73ff1c129fde77b38f6b0#2302716#迁移到云原生应用架构.epub
+512e79d6200c1a05c49534af17bb2e79#3396715#迁移学习手册 1.0.pdf
+af5877d82ffb5f716c928c1aa2d15789#31310959#前端开发笔记本.epub
+86bac168689343ae5e2a5edeb0e9f8d4#2638669#人工智能标准化白皮书 2018.pdf
+686af8c5467ceb973c3dbc254a98390b#1439595#人工智能指数 2017 年度报告.pdf
+dbd7ce21edbe17dc7e0f5598edfe371d#7557933#设计数据密集型应用（初翻）.epub
+ff8bce2a3d3688b4e15c6ca5e8df64a9#1302738#深度强化学习综述（刘全等）.pdf
+9e5004eec359dace276e590575812bc3#2884060#深度强化学习综述：兼论计算机围棋的发展.pdf
+33c62514752572532ed15c6a538960ff#1646237#深度学习：Python 教程：使用 Keras、Python、Theano 和 TensorFlow 开发深度学习模型.epub
+1ae45172e2330a8f168fb36c6e4173f3#1057607#深度学习技术选型白皮书（2018 年）.pdf
+b24a0c66ff5a710034b73413efd09a45#6184016#深度有趣 - 人工智能实战项目合集.pdf
+c47bb872a7cd102131028be2c5b1e47b#2730894#深入理解OpenStack自动化部署.epub
+5f6890b529d15d72e1179ff6bb6009c4#1002136#深入浅出Java Web.epub
+f44041b13da4216f6df196c165ed28fe#504783#生物信息学简明教程.pdf
+7f5c4033000f5a5f5259825d22a7f969#6127948#生物信息学讲义：结构信息部分（龚海鹏）.pdf
+44bcf482aa63b45e2e15bcf3148a1631#8658299#生物信息学培训教材（北京华大基因研究中心）.pdf
+b579d8aad930e1a294728fdbfea1c407#6361294#生物信息学札记（第三版）.pdf
+e2e9a082cafc7e582a9eb13c638e0d50#2424229#史上最简单的 IntelliJ IDEA 教程.epub
+d5ec2c2d59d3b9417a2f92f7be25d92b#5316666#使用Ionic2制作移动应用.pdf
+3693e10f3df1b6f98c01c383f95bddaa#1017256#使用Spring Cloud与Docker实战微服务.epub
+026843f24ccf5f09209bcbdfbf00d64d#6220511#数字安全实用手册.7z
+fec520d487f2d8a9ab5184c8ab4e0401#1383240#数字巨链.epub
+454750a280cfdf23a3a24f809e288cc4#8046148#斯坦福 CS183c 闪电式扩张中文笔记.epub
+62446900b1e3f26fb399fa8fd10458ad#283505#斯坦福 CS183f YC 创业课 2017 中文笔记.epub
+08dd2394115fd0b3dffc745040cfe7f8#3445564#斯坦福 cs224d 深度学习与自然语言处理讲义 fix1.epub
+a540de9394a0238c1db1622c9088a408#4359962#搜云库 Spring Boot & Cloud 教程.epub
+43c030c293775f344fe028384a2120fd#4097257#随机过程（张灏）.pdf
+47a5c3512bc71b149e056f53ddff0286#4130974#台大林轩田机器学习笔记（TingxunShi）.pdf
+db43e0c10e8876c028ed057305ed0258#27106716#台湾大学林轩田机器学习笔记（红色石头）.epub
+7e9c554f4e6ea138a8ceb5708c6094bc#717654#梯度下降优化算法综述.pdf
+626be8beef9ebe5e2831f55d1c6ab5dd#1570466#图嵌入综述译文（arxiv 1709.07604）.pdf
+746f091a9c5e24a1286dba7bd8d4d270#340207#推荐系统调研报告及综述（张永锋）.pdf
+71996e36ca185b8c9b7d96b3c03e45a6#7305548#推荐系统遇上深度学习 1~21.epub
+686854e36cc149bfebc26be135466e6b#34950#推荐系统之算法（Librec 中文文档）.epub
+4aa6c07cd89e93796e0c98cbe8293a57#898943#网络表示学习综述（涂存超等）.pdf
+bad79dec2b6afe2e7402c2c65cf3888b#24283899#微信小程序教程（歪脖网）.epub
+d552dbe087b68395189c1c594facd431#166216#文件系统层次结构标准中文版.epub
+3637ca3c4b37baed8fa30100110d4272#401743#无痛的机器学习第二季.epub
+886f79c2c8d19273697aa56769e1a33b#4966211#新时期我国信息技术产业的发展.pdf
+18498273ccef145e8c4cdd9605c633d2#742141#信息管理专业Python教程.epub
+3cff11f82c08d2895b34eeca9538ddfa#4030615#虚拟货币投资实战技巧.epub
+567eefa61dc5b00c9e05ba044c44dbf0#950627#学习AngularJS 1.x.epub
+f888b9efc14af4c9f598f8927863c10e#2221230#耶鲁博弈论笔记全 24 讲 v2.0（Apollo, Gabriel）.pdf
+17bfbe70cf5b3de564d1a0902fe3cf4f#1645732#一文详解 Word2vec 之 Skip-Gram 模型.pdf
+b2ecd7097f16274c25b1c2b216b2cbf3#126475#以太坊官网文档中文版.epub
+4f764419f87410a649f833734efcbb3f#718452#用Python学微积分.epub
+7d5dcb5198dd7463a97c66fcdd65197f#4446444#再译《从零到一》（佟奈尔）.pdf
+a6d87f83f5bb8ea31e2d0a568c5d67d3#14510509#在迭代1之前.epub
+e17f8ceffa38b944fe7941b6618e5565#157192#知识共享协议使用常见问题解答非官方翻译项目.epub
+118673e8ec5b96b02357df80aafcd688#91362#重来（Olivida 译）.epub
+4417245c704d02f3480bb729c847e8a0#1078602#周立功 51 单片机教程.pdf
+43fe0a62a24960ee5bfcc746f1c41b9d#3906722#朱赟的技术管理课（完）.epub
+28769650e552ddca48031cd153108da1#9038827#自己动手做聊天机器人.epub
+1bd85c6bb89c3230219c5f09368fb404#999105#自由软件自由社会.epub
 ```
