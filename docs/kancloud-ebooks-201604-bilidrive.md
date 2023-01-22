@@ -1,5 +1,5 @@
 <!---
-title: 看云电子书归档 2016.4 BiliDrive 备份
+title: 看云电子书 2016.4 BiliDrive 备份
 date: 2016-05-01 00:00:00
 categories:
   - 计算机
@@ -7,7 +7,7 @@ tags:
   - 看云
 --->
 
-# 看云电子书归档 2016.4 BiliDrive 备份
+# 看云电子书 2016.4 BiliDrive 备份
 
 ## 下载方式
 

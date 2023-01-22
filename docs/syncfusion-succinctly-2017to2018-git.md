@@ -1,5 +1,5 @@
 <!---
-title: Syncfusion Succinctly 2017-2018 归档
+title: Syncfusion Succinctly 2017-2018 
 date: 2019-01-01 00:00:00
 categories:
   - 计算机
@@ -7,7 +7,7 @@ tags:
   - Succinctly
 --->
 
-# Syncfusion Succinctly 2017-2018 归档
+# Syncfusion Succinctly 2017-2018 
 
 &zwj;
 
