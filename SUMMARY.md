@@ -95,3 +95,4 @@
 +   [TutorialsPoint 电子书 CDNDrive 备份](docs/tutorialspoint-cdndrive.md)
 +   [TutorialsPoint 电子书 DockerHub 备份](docs/tutorialspoint-dockerhub.md)
 +   [TutorialsPoint 电子书](docs/tutorialspoint-git.md)
++   [极客时间图文课程 NPM、PYPI、DockerHub 备份](docs/geektime-dockerhub.md)
