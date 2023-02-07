@@ -1,5 +1,5 @@
 <!---
-title: KSSD BiliDrive 备份
+title: KSSD CDNDrive 备份
 date: 2020-03-09 00:00:00
 categories:
   - 计算机
@@ -7,14 +7,14 @@ tags:
   - KSSD
 --->
 
-# KSSD BiliDrive 备份
+# KSSD CDNDrive 备份
 
 ## 下载方式
 
 ```
-pip install BiliDriveEx
+pip install CDNDrive
 # 或
-# pip install git+https://github.com/apachecn/BiliDriveEx
+# pip install git+https://github.com/apachecn/CDNDrive
 bdex download <link>
 ```
 

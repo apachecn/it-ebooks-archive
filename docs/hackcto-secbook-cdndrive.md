@@ -1,5 +1,5 @@
 <!---
-title: 安全参考和书安 BiliDrive 备份
+title: 安全参考和书安 CDNDrive 备份
 date: 2017-01-01 00:00:00
 categories:
   - 计算机
@@ -8,14 +8,14 @@ tags:
   - 书安
 --->
 
-# 安全参考和书安 BiliDrive 备份
+# 安全参考和书安 CDNDrive 备份
 
 ## 下载方式
 
 ```
-pip install BiliDriveEx
+pip install CDNDrive
 # 或
-# pip install git+https://github.com/apachecn/BiliDriveEx
+# pip install git+https://github.com/apachecn/CDNDrive
 bdex download <link>
 ```
 

@@ -1,5 +1,5 @@
 <!---
-title: 达内 Java 全套教程 BiliDrive 备份
+title: 达内 Java 全套教程 CDNDrive 备份
 date: 2019-04-01 00:00:00
 categories:
   - 计算机
@@ -7,14 +7,14 @@ tags:
   - 达内
 --->
 
-# 达内 Java 全套教程 BiliDrive 备份
+# 达内 Java 全套教程 CDNDrive 备份
 
 ## 下载方式
 
 ```
-pip install BiliDriveEx
+pip install CDNDrive
 # 或
-# pip install git+https://github.com/apachecn/BiliDriveEx
+# pip install git+https://github.com/apachecn/CDNDrive
 bdex download <link>
 ```
 

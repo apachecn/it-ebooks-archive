@@ -7,15 +7,15 @@ tags:
   - 看云
 --->
 
-# 看云电子书 2016.4 BiliDrive 备份
+# 看云电子书 2016.4 CDNDrive 备份
 
 ## 下载方式
 
 ```
-pip install BiliDriveEx
+pip install CDNDrive
 # 或
-# pip install git+https://github.com/apachecn/BiliDriveEx
-bdex download <link>
+# pip install git+https://github.com/apachecn/CDNDrive
+cdrive download <link>
 ```
 
 ## 链接
