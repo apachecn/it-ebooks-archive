@@ -160,7 +160,7 @@ cdrive download <link>
 | C++ 高级编程（机翻）.epub | bjdrive://83bb0128c9de88b10aa4c9710f98ac43 |
 | C++14 快速语法参考（机翻）.epub | bjdrive://26b7ca9a9f7d7e959996944b2e79d410 |
 | C++17 嵌入式编程实用指南（机翻）.epub | bjdrive://388f1d6b5f4c1695f9319dadd1b4a8a4 |
-| C++那些事.epub | 未上传 |
+| C++那些事.epub | bjdrive://503079b91041eed28df061280c853336 |
 | C-C++ 高级编译教程（机翻）.epub | bjdrive://f8ee09ca131276adec42047c9611dec7 |
 | Camel 云原生集成教程（机翻）.epub | bjdrive://40b92206a22f00a48f9ff1b8dee7339b |
 | CentOS Linux 网络服务学习手册（机翻）.epub | bjdrive://5bb4383b7739240a7bfa9b515ce128da |
@@ -222,19 +222,19 @@ cdrive download <link>
 | Drupal：创建博客、论坛、门户和社区网站（机翻）.epub | bjdrive://0e784f58b6a3243c85b14e870c15f074 |
 | Eclipse MicroProfile 企业级微服务实用指南（机翻）.epub | bjdrive://91face194fb863367c6a35802dc3a6a2 |
 | Elasticsearch 源码解析（HLee）.epub | bjdrive://02447ac8469ee7d72a07f1320d788d05 |
-| Electron 中文手册.epub | 未上传 |
+| Electron 中文手册.epub | bjdrive://e4de367783166a3f6347334f0f922265 |
 | EnchantJS HTML5 游戏编程教程（机翻）.epub | bjdrive://8aebd15126a207ca11a527d8fc95446f |
-| ETCD 源码剖析.epub | 未上传 |
+| ETCD 源码剖析.epub | bjdrive://4d4b865dee4b9cb00125a6fd5b765c80 |
 | Everything CURL 中文版（机翻）.epub | bjdrive://a70dfaf0572bcaa58801b354284930ee |
 | ExpressJS 高级教程（机翻）.epub | bjdrive://6820a85cca98e293c390e5f2728037e4 |
 | ExtJS 和 Spring 企业应用开发（机翻）.epub | bjdrive://bd4fb5b8d2f6438841e4e8ae3b90278f |
 | Flask REST API 构建指南（机翻）.epub | bjdrive://a1e7bd7ff0fa05846b034d6cfeeac1cc |
 | Flask Web 开发即时入门（机翻）.epub | bjdrive://124e08cd3ea3573a315bc96ccc82d83e |
 | Flask 框架学习手册（机翻）.epub | bjdrive://e487024835728b6fd3440cba435648af |
-| Flask 示例（机翻）.epub | 未上传 |
-| Flask 蓝图（机翻）.epub | 未上传 |
+| Flask 示例（机翻）.epub | bjdrive://f47970696f8dda2150d4e860b9e93c87 |
+| Flask 蓝图（机翻）.epub | bjdrive://1af521d0c61167ea4270718f83487f0b |
 | Flink 学习手册（机翻）.epub | bjdrive://37bfa5f6a2452f6ed57d1d329a29435b |
-| FPGA 并行编程.epub | 未上传 |
+| FPGA 并行编程.epub | bjdrive://2fceeae979b9f58e47563ff49397a3ff |
 | FuelPHP 高效开发学习手册（机翻）.epub | bjdrive://e7c3623a2ea201a7a60c19e0e3bf3646 |
 | Galio 快速移动应用开发（机翻）.epub | bjdrive://5944f2ac74af0c76d9bf035128a1ce25 |
 | GameMaker HTML5 游戏开发（机翻）.epub | bjdrive://30f638f8970ec8ecc439f924587502a5 |
@@ -242,8 +242,8 @@ cdrive download <link>
 | GCP DevOps 高级教程（机翻）.epub | bjdrive://c80b8c5e9aa2a9c251002c5622b07d43 |
 | Git 和 Github 入门指南（机翻）.epub | bjdrive://281fe32ac483d4fa551c958b72fc07e3 |
 | Git 实践指南（机翻）.epub | bjdrive://70c1a6d2f685c6015de1067e936129bd |
-| Git 秘籍（机翻）.epub | 未上传 |
-| glusterfs 的那些事.pdf | 未上传 |
+| Git 秘籍（机翻）.epub | bjdrive://4acc477a43feb82e771053b571fce7ed |
+| glusterfs 的那些事.pdf | bjdrive://ceced75df8ced689835418e33e0cc537 |
 | Go Web 开发学习手册（机翻）.epub | bjdrive://da0b565a7dd6616bc01b8dec6225f0aa |
 | Go Web 开发秘籍（机翻）.epub | bjdrive://9b52f35fa28afce165b652133ca40260 |
 | Go Web 爬虫快速启动指南（机翻）.epub | bjdrive://fc3fcb740834310d2a121196b7b3e64a |
@@ -251,12 +251,12 @@ cdrive download <link>
 | Go 依赖注入实用指南（机翻）.epub | bjdrive://d56fb89973972e896c0403a659b11779 |
 | Go 函数式编程学习手册（机翻）.epub | bjdrive://7f7e21eb05d84d813bb6e3da04e5170c |
 | Go 分布式计算（机翻）.epub | bjdrive://024f0a880aad7bf119a4a3486906d54a |
-| Go 和安全（机翻）.epub | 未上传 |
+| Go 和安全（机翻）.epub | bjdrive://b72bee05f96c7bab4bcad343c63c9e0a |
 | Go 无服务应用实用指南（机翻）.epub | bjdrive://1e64d2fc1688e9e80e59b711e02c2f76 |
 | Go 机器学习（机翻）.epub | bjdrive://5deb5c6ab244eb1418ba5bf6ff554d39 |
 | Go 标准库秘籍（机翻）.epub | bjdrive://0267703c6460da1733c91ab5ec9474c1 |
 | Go 深度学习实用指南（机翻）.epub | bjdrive://4aa5abea503dd63ec6311fe3d470958f |
-| Go 秘籍（机翻）.epub | 未上传 |
+| Go 秘籍（机翻）.epub | bjdrive://cca0ab92a7c14ce83a73a1d6f0c5cd41 |
 | Go 系统编程实用指南（机翻）.epub | bjdrive://af62a60d6e329ee34b43523b476df303 |
 | Go 系统编程（机翻）.epub | bjdrive://c626209b412a5196da51725b3358d21b |
 | Go 编程学习手册（机翻）.epub | bjdrive://030ea5317b55b1588c2a292226d276c6 |
@@ -331,7 +331,7 @@ cdrive download <link>
 | HTML5 解决方案：面向 HTML5 开发者的基本技巧（机翻）.epub | bjdrive://314e97ceecd33227183b32fa380d3444 |
 | HTML5 语音 API 入门指南（机翻）.epub | bjdrive://7ac33b10ac78069c7489bba0a5472cf3 |
 | HTML5 项目实践指南（机翻）.epub | bjdrive://6bc04a53d6d180008ef2beca93d86202 |
-| http2 explained 中文版.epub | 未上传 |
+| http2 explained 中文版.epub | bjdrive://e3909cda2b637d7ec03dc904dbe082bc |
 | HWeb 标准的创造性（机翻）.epub | bjdrive://ae612ec565c5e18976becc3313bf479f |
 | idapro菜鸟速参手册精华版.pdf | bjdrive://be29bc75fb6fd5a3bbddb68ca0209348 |
 | ImpactJS HTML5 游戏开发（机翻）.epub | bjdrive://095dc80aa9e61bb81005381ccb980875 |
@@ -356,7 +356,7 @@ cdrive download <link>
 | Java 图像处理秘籍（机翻）.epub | bjdrive://b8cb7f9fa6aa02b1229b80f37e5279cb |
 | Java 基础知识（机翻）.epub | bjdrive://97a1139ec15ed5fa94f33a2e2ffb416e |
 | Java 开发者的 NetBeans IDE 入门手册（机翻）.epub | bjdrive://48034a6daf171ccc02e871ab39914714 |
-| Java 挑战（机翻）.epub | 未上传 |
+| Java 挑战（机翻）.epub | bjdrive://b5701362d03faf583c0c62207c8eb25d |
 | Java 数学学习手册（机翻）.epub | bjdrive://afcd858e6e9ae5c2f54e16e401927526 |
 | Java 机器人编程入门手册（机翻）.epub | bjdrive://01bde85d9a6e1c731df84598097dd710 |
 | Java 测试驱动开发（机翻）.epub | bjdrive://f7befff7f4642c49b042c7944ee3be84 |
@@ -384,7 +384,7 @@ cdrive download <link>
 | Java8 遗传算法基础（机翻）.epub | bjdrive://b311175c04dc809d63d4e2bdb85d2aa4 |
 | Java9 和 JShell（机翻）.epub | bjdrive://31e42eefb3e77633cb62615baabfba8a |
 | Java9 游戏开发高级教程（机翻）.epub | bjdrive://41476f5375a2eabf3d2c027f925a2038 |
-| Java9 秘籍（机翻）.epub | 未上传 |
+| Java9 秘籍（机翻）.epub | bjdrive://10652abac19ec1c5ed23295828ced9ac |
 | Java9 编程蓝图（机翻）.epub | bjdrive://04f4603cd466a33ca405d44768de16cc |
 | Java9 高性能应用（机翻）.epub | bjdrive://c117560fc955d8b7238c04d03ff43a6b |
 | JavaFX 基础知识（机翻）.epub | bjdrive://095283cea7ee2310403a0b460ac92718 |
@@ -492,7 +492,7 @@ cdrive download <link>
 | Linux ZFS 入门指南（机翻）.epub | bjdrive://58e772bde6498d60c534a009cbe1f421 |
 | Linux 主题实践指南（机翻）.epub | bjdrive://8ed4cf4ae6ba14bf1b66bbf7d05cdc18 |
 | Linux 二进制分析学习手册（机翻）.epub | bjdrive://6d768b3335260ad0b2c105a098ffb279 |
-| Linux 二零.epub | 未上传 |
+| Linux 二零.epub | bjdrive://bbae2a6b1a0d98e256eacb37b179783a |
 | Linux 内核编程第二部分（机翻）.epub | bjdrive://86d31846a08b36b100137a8454088a38 |
 | Linux 内核编程（机翻）.epub | bjdrive://101c845ba53cdc8b2c6428911d76f74f |
 | Linux 内核网络教程（机翻）.epub | bjdrive://fe8a900b551fda99273eba5fc7b4805e |
@@ -504,7 +504,7 @@ cdrive download <link>
 | Linux 基础设施实践指南（机翻）.epub | bjdrive://ee207cd88095ea64e273fde82de4b70e |
 | Linux 声音编程教程（机翻）.epub | bjdrive://f40d3f846eae6daef835a9764191dd81 |
 | Linux 安全实战秘籍（机翻）.epub | bjdrive://8d794e7eb724f22a171b8a92e1d4bcc8 |
-| Linux 工具快速教程.epub | 未上传 |
+| Linux 工具快速教程.epub | bjdrive://657fa9a5b09743e8a2cced906e9f6e69 |
 | Linux 工具秘籍（机翻）.epub | bjdrive://8c29341601933038966a85dad82faf71 |
 | Linux 快速学习手册（机翻）.epub | bjdrive://43daa9e1568c3146ef5a14ea159e3e9f |
 | Linux 架构实用手册（机翻）.epub | bjdrive://8b252ffa78df989f22bf56166c841962 |
@@ -522,7 +522,7 @@ cdrive download <link>
 | Magento PHP 开发指南（机翻）.epub | bjdrive://fdb6801bee80ade8b0fefd8325dbba7e |
 | Masonite 权威指南（机翻）.epub | bjdrive://07f32311df4ec1e1757fed794f2d8ac1 |
 | Matplotlib 实用指南（机翻）.epub | bjdrive://ef2dd9a720aede60fa3e9fdf91f3bf9a |
-| Maven 简介（机翻）.epub | 未上传 |
+| Maven 简介（机翻）.epub | bjdrive://591582d324dbfaabcc1ba26194c3c3e6 |
 | MEAN Web 开发（机翻）.epub | bjdrive://acabde45c371bd3f856e168e89c98c7b |
 | MERN 快速启动指南（机翻）.epub | bjdrive://bda09673a7c03b2bd3ec242bd6be4708 |
 | MERN 技术栈高级教程（机翻）.epub | bjdrive://2318f2413ff45c4dc49018456c7e21ea |
@@ -532,7 +532,7 @@ cdrive download <link>
 | MicroPython 秘籍（机翻）.epub | bjdrive://c2f43f295b979e3fdf8e9629c6be06ec |
 | ML.NET 机器学习实用指南（机翻）.epub | bjdrive://82952036cf565f32da431dedabc8646b |
 | MobX 快速启动指南（机翻）.epub | bjdrive://15e83fc9b5426c03ca7692bb235cd531 |
-| MoviePy 中文手册.epub | 未上传 |
+| MoviePy 中文手册.epub | bjdrive://6caba27224f96dcd4f3857e07dcd0e2c |
 | MSTeam 解决方案构建教程（机翻）.epub | bjdrive://cdb64d2ad4eecbb5a79a94ca7f606b51 |
 | MySQL Connection-Python 揭秘（机翻）.epub | bjdrive://34aa07b1580216171fd042d7006fa13b |
 | NestJS：Node 渐进式框架（机翻）.epub | bjdrive://87815ff14b070ca5a556934a5a74d1ab |
@@ -550,8 +550,8 @@ cdrive download <link>
 | NodeJS 开发者高级教程（机翻）.epub | bjdrive://7389f684d34f19d50aed045ded72e482 |
 | NodeJS 微服务开发（机翻）.epub | bjdrive://c3c15a3b2c337ee8d9a3f030d3b080c4 |
 | NodeJS 机器人开发实践指南（机翻）.epub | bjdrive://a3e68e9f67769181f6b60c5bf560dda3 |
-| NodeJS 示例（机翻）.epub | 未上传 |
-| NodeJS 秘籍（机翻）.epub | 未上传 |
+| NodeJS 示例（机翻）.epub | bjdrive://cc9692e2e53e001d91a398d983acbed1 |
+| NodeJS 秘籍（机翻）.epub | bjdrive://be269b10507058aff98882b2c972d98a |
 | NodeJS 移动应用开发学习手册（机翻）.epub | bjdrive://65a544bf1a05b3aaa0fa9f0b67f69996 |
 | NodeJS 高性能编程（机翻）.epub | bjdrive://72b8fcc228696ed33d361c2e8b614865 |
 | NodeJS 高级开发（机翻）.epub | bjdrive://088c89aa67413c984f7de9c6aeaab4f9 |
@@ -591,13 +591,13 @@ cdrive download <link>
 | PHP8 MVC 高级教程（机翻）.epub | bjdrive://65b14f8f88ec7c15c90a097c1804c9eb |
 | PHP8 对象、模式和实践（机翻）.epub | bjdrive://550dbcef165b0564f53b885e091a551a |
 | PHP8 快速脚本参考（机翻）.epub | bjdrive://b79167145dae43e7a262a967a6e466a5 |
-| PHP8 揭秘（机翻）.epub | 未上传 |
+| PHP8 揭秘（机翻）.epub | bjdrive://1fb12a9240d7c24f6a4ac5f122d2241e |
 | PHP8 编程提示、技巧和最佳实践（机翻）.epub | bjdrive://c82ecbabe05f45c7a21e81f43b6336a1 |
 | PHP8 解决方案（机翻）.epub | bjdrive://4a9ac7625396da30c1a52874fe88d1d2 |
 | PIG 设计模式（机翻）.epub | bjdrive://a5f568f5729152552504855b046be844 |
 | PrimeNG：Angular UI 开发（机翻）.epub | bjdrive://73582a13f4fe9a43d577c235b246bcde |
 | Processing OpenCV 计算机视觉高级教程（机翻）.epub | bjdrive://37f3ccd1273acd2930d5aa2ff10400df |
-| PWA 学习手册.epub | 未上传 |
+| PWA 学习手册.epub | bjdrive://532c9decc55f509cc8ce80e1b6eda46e |
 | Pwnhub 公众号 2016~2021.epub | bjdrive://a4286ce3e13d864ea7ee27c9f364b723 |
 | Pygame 游戏开发入门指南（机翻）.epub | bjdrive://b4c349153dcc45a24c4532ca17b87264 |
 | PygameZero 游戏编程入门手册（机翻）.epub | bjdrive://546d723f61157685383ac7ca981b3ac4 |
@@ -642,7 +642,7 @@ cdrive download <link>
 | Python 安卓应用构建教程：使用 Kivy 和 AndroidStudio（机翻）.epub | bjdrive://1664d7d92193cc655cd8204b702d1bab |
 | Python 密码学实用指南（机翻）.epub | bjdrive://5be52f40de9538413b32511c30f34732 |
 | Python 密码学实践指南（机翻）.epub | bjdrive://18469d9522bee1ac87da1f4591a1ad5a |
-| Python 常用代码段.epub | 未上传 |
+| Python 常用代码段.epub | bjdrive://c2e92962c95bc4c469ebe124e11d288a |
 | Python 并行编程秘籍（机翻）.epub | bjdrive://0f2e8ed955fa14b784ba9f32fb987c61 |
 | Python 应用计算思维（机翻）.epub | bjdrive://84893fba1aec1fa25268c9a8783711af |
 | Python 开发高级教程（机翻）.epub | bjdrive://968799b74204ef932966ed6c63582a3f |
@@ -680,7 +680,7 @@ cdrive download <link>
 | Python 真实世界的数据科学（机翻）.epub | bjdrive://928d8782d71e268c626d48ef0d5d0287 |
 | Python 秘籍手册（机翻）.epub | bjdrive://77bc0e85d1ad6514d3dc06df77992286 |
 | Python 算法教程（机翻）.epub | bjdrive://676a7612fe15bfa4712c8baec8549b77 |
-| Python 精粹（机翻）.epub | 未上传 |
+| Python 精粹（机翻）.epub | bjdrive://78fc5986491ac0ec913579d8689357cb |
 | Python 系统管理高级教程（机翻）.epub | bjdrive://779fa4c22dd6adaf50bf0a4776ab2f92 |
 | Python 统计和微积分研讨会（机翻）.epub | bjdrive://143c367a9186bb1dc6a3128008c296bf |
 | Python 编程学习手册（机翻）.epub | bjdrive://92856a0623e14fdd28b1a78784404575 |
@@ -708,9 +708,9 @@ cdrive download <link>
 | QUnit 测试即时入门（机翻）.epub | bjdrive://2674492fe583935cc4e3c205f5ad5d93 |
 | Q帝职场疑难权谋宝典.pdf | bjdrive://6acfc2571c212a813935bdece2c09242 |
 | R 和 JavaScript 高级数据可视化（机翻）.epub | bjdrive://30a0a5dad476e92f42b58e621c398ba2 |
-| R2DBC 揭秘（机翻）.epub | 未上传 |
+| R2DBC 揭秘（机翻）.epub | bjdrive://1e3726512c81ef748a8a012bab8fad0a |
 | R4 数据可视化教程（机翻）.epub | bjdrive://b51dbe5c5f088b9d3f66ac02dbb723e3 |
-| Raft 博士论文的翻译.epub | 未上传 |
+| Raft 博士论文的翻译.epub | bjdrive://8038197990154d9f5114857ff3c8a46f |
 | RCHE 学习指南（机翻）.epub | bjdrive://efc0f46f3ee6a09be348efd33132457f |
 | React TypeScript Node 全栈开发（机翻）.epub | bjdrive://353fc99a86e82692dae53803bc6dfda9 |
 | React 企业级实践指南（机翻）.epub | bjdrive://2fb998f4970b0d14ca3a78381be27fb6 |
@@ -744,23 +744,23 @@ cdrive download <link>
 | ReasonML 快速启动指南（机翻）.epub | bjdrive://3fbdcf1f80fbfe2632c7b18381b81e1c |
 | RESTful Java Web 服务安全（机翻）.epub | bjdrive://ffc9ae9b09183f00a17a7befdf99c3e8 |
 | RESTful Java 模式和最佳实践（机翻）.epub | bjdrive://19341ae15111c849c5fd0f9c029d4a90 |
-| Rust 算法教程.epub | 未上传 |
+| Rust 算法教程.epub | bjdrive://7b3125183be53b51bc08a024578810d6 |
 | R与tidyverse——数据分析入门.epub | bjdrive://245b118758c87ac0c32dadf8a1a061e4 |
 | SAP HANA XSA 微服务教程（机翻）.epub | bjdrive://f66d76c844f07ff6b670aea6c8e6b041 |
 | Scala 和 Spark 大数据分析（机翻）.epub | bjdrive://a5a359d6c27cd47ef9e46a4c62609e70 |
 | SciPy 秘籍（机翻）.epub | bjdrive://f420934336dd8f5bb27ea10a7e774312 |
 | Sencha Touch2 JavaScript 移动框架（机翻）.epub | bjdrive://1de8b185f191bc3ec522dac5716f7286 |
-| Shell 程序设计教程.epub | 未上传 |
+| Shell 程序设计教程.epub | bjdrive://78d1a7d59c95bcabfeef081258a27678 |
 | Skaffold：毫不费力的云原生应用开发指南（机翻）.epub | bjdrive://a6c4d9f6ddf39332091ebd880f96af94 |
-| Solidity 中文文档.epub | 未上传 |
-| Solr 教程（机翻）.epub | 未上传 |
+| Solidity 中文文档.epub | bjdrive://abb18e377ab0f41fa2a502bbd05fdb75 |
+| Solr 教程（机翻）.epub | bjdrive://de206f446cc0c2dd05bdaee70bdb553d |
 | Spark 2.x 机器学习秘籍（机翻）.epub | bjdrive://6885474b9297cd577b273a5acaab01d5 |
 | Spark SQL 学习手册（机翻）.epub | bjdrive://6f61d0a8edf25d1f356f7c87c25cf40a |
 | Spark 大规模机器学习（机翻）.epub | bjdrive://8d26ec4e2024b7e6d36b8d7d74bb9bbe |
 | Spark 数据科学（机翻）.epub | bjdrive://31d790aea72ce5c80170e1061fc02aa9 |
 | Spark 机器学习（机翻）.epub | bjdrive://9422bd169fcfb3df917c0531d0c0cc08 |
 | Spark 深度学习秘籍（机翻）.epub | bjdrive://01314e33be3f4d9d6112882f9ffe50ba |
-| Spark 秘籍（机翻）.epub | 未上传 |
+| Spark 秘籍（机翻）.epub | bjdrive://ce92a7ddc95f749c3bc1ed77ae7345c4 |
 | Spark.NET 入门指南（机翻）.epub | bjdrive://d5a6e87bcb15e0178aa551f09f999eb4 |
 | Spark2 初学者手册（机翻）.epub | bjdrive://3b082f10e436c41a0030cec3544c504d |
 | Spark2 数据处理和实时分析（机翻）.epub | bjdrive://e3795d1bb05a80be6a18df1434d2aa63 |
@@ -791,7 +791,7 @@ cdrive download <link>
 | SpringMVC：设计现实世界的 Web 应用（机翻）.epub | bjdrive://5a4de7b357b75060fd08160124022ab8 |
 | SQLServer DBA 的 Docker 容器指南（机翻）.epub | bjdrive://079ec6a9f61db159bb3d801402fbe371 |
 | Storm 和 Cassandra 实时分析（机翻）.epub | bjdrive://055f09e9e57648ec7b658da2b4c48339 |
-| Storm 蓝图（机翻）.epub | 未上传 |
+| Storm 蓝图（机翻）.epub | bjdrive://379001afafbb915f2225c888f97d35fc |
 | TangoWithDjango 1.9 中文版.pdf | bjdrive://64a31495eaef69c586932ffe7d7ceeb6 |
 | TensorFlow CNN 与 Swift 教程（机翻）.epub | bjdrive://1f3ef4c705f31bbccd7ad1e00d1cf4b9 |
 | The Linux Perf Master.epub | bjdrive://de1f8c2a69833be212084917f76ab9f5 |
@@ -815,11 +815,11 @@ cdrive download <link>
 | Unity 游戏 AI 入门手册（机翻）.epub | bjdrive://3b1106cb89635cc9217ab7cc02fe4541 |
 | Unity 高级游戏开发教程（机翻）.epub | bjdrive://eb31683e50ce7904ca05b91d0557606d |
 | Vaadin 实践教程（机翻）.epub | bjdrive://68805216758e2f482ed917aaceac2012 |
-| VimSkill.epub | 未上传 |
+| VimSkill.epub | bjdrive://8dcf3e2e48fedbcb2740dbd046f0962a |
 | VS2019 基础知识（机翻）.epub | bjdrive://1321d838e2b77374c0877a197fa3b3ec |
 | VSCode 精粹（机翻）.epub | bjdrive://5dbd9d7611b3036827ef07ae3612f6e1 |
 | Vue CLI3 快速启动指南（机翻）.epub | bjdrive://4c5d301306546a12f7bafaea0dbbad55 |
-| Vue3 源码解读.epub | 未上传 |
+| Vue3 源码解读.epub | bjdrive://c6340291933e8f7b7ce82f63e0e757ed |
 | VueJS 快速启动指南（机翻）.epub | bjdrive://3fbb5e185c34c5b4def6d24441acd2bf |
 | VueJS2 Bootstrap4 Web 开发（机翻）.epub | bjdrive://cdd65295ef2ade36b5ad778f7738d4c3 |
 | VueJS2 Web 开发完全手册（机翻）.epub | bjdrive://508be6f6149dc71e0ec40c435fb40f40 |
@@ -828,7 +828,7 @@ cdrive download <link>
 | VueJS2 学习指南（机翻）.epub | bjdrive://0acb04a4a2afb99d8d07fa1b48ca152b |
 | VueJS2 设计模式最佳实践（机翻）.epub | bjdrive://ef2863dedca654e298554f0bca2781e2 |
 | VueJS2 高级教程（机翻）.epub | bjdrive://5cd20578f0c2c14806003ca5d8df903c |
-| VueJS3 示例（机翻）.epub | 未上传 |
+| VueJS3 示例（机翻）.epub | bjdrive://0cb1efb97a91b9ed3a624ac11163d6f9 |
 | VueJS3 秘籍（机翻）.epub | bjdrive://d67eabb81458a91f019ad4c68d9dd9e8 |
 | VuePress 快速启动指南（机翻）.epub | bjdrive://b4c7af6d42a1624b27cd0c132ead7a1d |
 | Vulhub 文档.epub | bjdrive://53f14852d75f9a811439d8363c0c1059 |
@@ -890,21 +890,21 @@ cdrive download <link>
 | 兄弟连区块链教程以太坊源代码分析.epub | bjdrive://8de30d15910110d4f38c65d6f2dd5a81 |
 | 其它常见面试题总结（山月）.epub | bjdrive://010d8ca4bb13f96d1a688cb9d084d542 |
 | 写给 Python 开发者的 JavaScript 实用指南（机翻）.epub | bjdrive://2ec7b0f077ca4e9f7a346607626d2784 |
-| 凤凰架构.epub | 未上传 |
-| 函数式 PHP（机翻）.epub | 未上传 |
-| 函数式编程指北.epub | 未上传 |
+| 凤凰架构.epub | bjdrive://c1202c50ca9853db92bb329eff0c726e |
+| 函数式 PHP（机翻）.epub | bjdrive://7e55ce5eb173c00f39f1d5d3e38d03d4 |
+| 函数式编程指北.epub | bjdrive://6cdebac752137e826d1dfcbf56ee4e2a |
 | 切换到 Angular 2（机翻）.epub | bjdrive://1d2f5c879717302d6bef02d5fcff8bd6 |
-| 创始人销售.epub | 未上传 |
+| 创始人销售.epub | bjdrive://5b8a73ac60f0c1bfd621935921b1302f |
 | 创建 jQueryMobile 移动应用（机翻）.epub | bjdrive://62b68fab3dc1854187a20b9e241cb3fd |
 | 创建平面设计网站（机翻）.epub | bjdrive://d20e50ad2a1485a7a744f0e5bc264d64 |
 | 创造你自己的 Python 文本冒险（机翻）.epub | bjdrive://7bbd56582e432439d345d2bb1ea4dfa1 |
 | 前端响应式架构指南（机翻）.epub | bjdrive://729b474d4647d275cef59072c4021c97 |
 | 前端工程化三十八讲.epub | bjdrive://44281f426184e33a0fc89d70d52fa429 |
 | 前端常见面试题总结（山月）.epub | bjdrive://24f1f08d47540477e77ad4e68b8a192c |
-| 前端部署十五章.epub | 未上传 |
+| 前端部署十五章.epub | bjdrive://638f39506efe55816b800647e5f5c697 |
 | 勒索病毒程式设计.pdf | bjdrive://a201b774c068e44fba2a131c695e4773 |
 | 北科数据挖掘课件（张德政）.pdf | bjdrive://205446f6bf1df3263cfe453c5f67c657 |
-| 北邮飞跃手册.pdf | 未上传 |
+| 北邮飞跃手册.pdf | bjdrive://e4580a7ea3f78c72c46858539da1b612 |
 | 华中大电气飞跃手册.pdf | bjdrive://ba0627afca007972b188b6e253fb62fb |
 | 华科光电飞跃手册.pdf | bjdrive://28ae065f374611efa863e627cadf2721 |
 | 南京工业大学本科生飞跃手册2021（第一版）.pdf | bjdrive://582ceaa640a6f180d6bb29ad2d24682f |
@@ -931,14 +931,14 @@ cdrive download <link>
 | 将 Linux 迁移到微软 Azure（机翻）.epub | bjdrive://7119df3f799a863dd6e83d99b16b25d0 |
 | 将 NodeJS UI 用于测试（机翻）.epub | bjdrive://bdb491926c00ad4dcdf6282a4132eae0 |
 | 帅张星球算法项目手册 1.0.epub | bjdrive://218c093fd8660681075af062f3b751f7 |
-| 应急响应实战笔记.epub | 未上传 |
+| 应急响应实战笔记.epub | bjdrive://8a7e5ec39ae8a98fa5acb5c004e1dfaa |
 | 微软 SQLServer 2012 和 Hadoop（机翻）.epub | bjdrive://ae173bfc95c56556fa8edebf8d722cd2 |
 | 微软技术栈的 DevOps 教程（机翻）.epub | bjdrive://df53a95dab498ce7ec2e5a561f3844cb |
 | 微软计算机视觉 API 精粹（机翻）.epub | bjdrive://900bf51d6267e9d566580e85429d1b88 |
-| 持久的 CSS（机翻）.epub | 未上传 |
+| 持久的 CSS（机翻）.epub | bjdrive://7c71b686987efab0d2f4d11fcee2b370 |
 | 持续集成和交付实用手册（机翻）.epub | bjdrive://df2d616914f3c3f41fa713439af76fb7 |
 | 探索 C# 高级特性（机翻）.epub | bjdrive://df1c2b83aa1fb420ad92baca3c4e07e7 |
-| 探索 C++20（机翻）.epub | 未上传 |
+| 探索 C++20（机翻）.epub | bjdrive://61323de4c50a76d1803c42680f7f8c87 |
 | 操作系统：三个简单的部分（OSTEP）.pdf | bjdrive://cb6e9ea6c94f434a0c60e2b893793ee9 |
 | 数字视频概念，方法和测量指标.epub | bjdrive://c7bfce816f6254bc12b17a3573da8937 |
 | 数据科学实战秘籍（机翻）.epub | bjdrive://37a8f2ed004e1823256535769cd22dd2 |
@@ -1000,10 +1000,10 @@ cdrive download <link>
 | 白阁文库 2021.2.18.epub | bjdrive://05595bcc9c063d3daa004c1bbadae74e |
 | 百页机器学习小书（机翻）.epub | bjdrive://7e86965ebdd3d4791928b6b7720d2242 |
 | 破解160个CrackMe之064-160（反沉沦）.epub | bjdrive://7674055eeda0c93e60c3b5019ddaf1f2 |
-| 破解安卓（机翻）.epub | 未上传 |
+| 破解安卓（机翻）.epub | bjdrive://7478cd980c4b6a8875ac5d63674a0375 |
 | 程序员八股文（爪哇面试题） 2022.3.26.epub | bjdrive://d84ba691f31185d7f8a873649fc7254c |
 | 笨方法写作手册 20220430.epub | bjdrive://b0a466580c1401c97aa38f78ee9bfdde |
-| 笨方法学写作.pdf | 未上传 |
+| 笨方法学写作.pdf | bjdrive://17b9039412ad57aab893d1f5295ade77 |
 | 笨方法实践手册 20220430.epub | bjdrive://77140f3b42327f3bdce8251458108f00 |
 | 笨方法文化手册 3.0 20220430.epub | bjdrive://28e5df68c6d1245af003fc633989ae10 |
 | 笨方法用《原则》20220430.epub | bjdrive://cf76cf5051eeda7b10cb2b77b3a8cb78 |
@@ -1015,7 +1015,7 @@ cdrive download <link>
 | 精通 CSS（机翻）.epub | bjdrive://05d862d6c9716ab0326fe7eabc39cbae |
 | 精通 Django（机翻）.epub | bjdrive://6a39684bce77f179f4508223dc181349 |
 | 精通 Docker（机翻）.epub | bjdrive://be82c43ce2cd9a524058cae24669971b |
-| 精通 Flask（机翻）.epub | 未上传 |
+| 精通 Flask（机翻）.epub | bjdrive://fbe23c884a7676dac4be6012e01cdb90 |
 | 精通 Go Web 服务（机翻）.epub | bjdrive://febeb967e1810af2e07567110fea1aef |
 | 精通 Go 并发（机翻）.epub | bjdrive://018d2dfc7f82b351300b680fa42800f5 |
 | 精通 HTML5 表单（机翻）.epub | bjdrive://2e6fba61a04d53ba36a321690f9620ef |
@@ -1032,7 +1032,7 @@ cdrive download <link>
 | 精通 JUnit5 软件测试（机翻）.epub | bjdrive://9b4b4869e992b895cc8399059b36f7dc |
 | 精通 Kubernetes（机翻）.epub | bjdrive://1200fdd4058f4a63252d4d1331c8d84b |
 | 精通 KVM 虚拟化（机翻）.epub | bjdrive://72d0a671968985590286857ba2ae77d8 |
-| 精通 Laravel（机翻）.epub | 未上传 |
+| 精通 Laravel（机翻）.epub | bjdrive://121c4f494889c937449e612cb3660850 |
 | 精通 Linux Shell 脚本（机翻）.epub | bjdrive://bb51796e2b47788b959179790af7720d |
 | 精通 Linux 内核开发（机翻）.epub | bjdrive://7425740f926410fd4b851b1896ed1d9b |
 | 精通 Linux 安全和加固（机翻）.epub | bjdrive://28d25b865c8a702c79afeca0eb152688 |
@@ -1042,7 +1042,7 @@ cdrive download <link>
 | 精通 Linux 设备驱动开发（机翻）.epub | bjdrive://3ef3fccf63cc0e87aa622fec6b5b7a8d |
 | 精通 NodeJS（机翻）.epub | bjdrive://d1ed2c8add547b4f0c9ee6b35a7aa9bf |
 | 精通 PHP 设计模式（机翻）.epub | bjdrive://a4ef989f1e42cbb72359262fd14f9787 |
-| 精通 PHP7（机翻）.epub | 未上传 |
+| 精通 PHP7（机翻）.epub | bjdrive://6c4fc36ed4030053a63bf6b6b48a0388 |
 | 精通 Python GUI 编程（机翻）.epub | bjdrive://15994bc7ad7effd6a2197f6c774d0338 |
 | 精通 Python 并发（机翻）.epub | bjdrive://c93e4c89bf939debff151161cfd2cdf8 |
 | 精通 Python 数据可视化（机翻）.epub | bjdrive://63d6f8c27a09b71a1230927c7af6d872 |
@@ -1054,16 +1054,16 @@ cdrive download <link>
 | 精通 Python 网络编程（机翻）.epub | bjdrive://eda9892058e65613cbfab85d8c417ac6 |
 | 精通 Python 金融编程（机翻）.epub | bjdrive://53053a984bee873318bb5198fe08d058 |
 | 精通 Python 面向对象（机翻）.epub | bjdrive://54c093ccda7dd399261b1e9c44a7b1dc |
-| 精通 Python（机翻）.epub | 未上传 |
-| 精通 SciPy（机翻）.epub | 未上传 |
+| 精通 Python（机翻）.epub | bjdrive://856b542416f961b0ccf9a5950547237c |
+| 精通 SciPy（机翻）.epub | bjdrive://888634250d4a45d8522702e478493cb3 |
 | 精通 Spark 2.x 机器学习（机翻）.epub | bjdrive://b330f18debbe79a352ec78ddea665624 |
 | 精通 Spark 数据科学（机翻）.epub | bjdrive://e4ea93f8343656c8ed035a3c8374c257 |
-| 精通 Spark（机翻）.epub | 未上传 |
+| 精通 Spark（机翻）.epub | bjdrive://3c7741cfa553c17cd0838adb05e371fa |
 | 精通 Spring 应用开发（机翻）.epub | bjdrive://a98b654cd9193717eec14e8070142c2d |
 | 精通 Spring5（机翻）.epub | bjdrive://2c3cc05bc0cfbcb8558f62c17275ec31 |
 | 精通 SpringCloud（机翻）.epub | bjdrive://f68d16043b2f60c97184fe4783c53836 |
-| 精通 Storm（机翻）.epub | 未上传 |
-| 精通 SVG（机翻）.epub | 未上传 |
+| 精通 Storm（机翻）.epub | bjdrive://c98c96b578816a30d29d5234b014b5f2 |
+| 精通 SVG（机翻）.epub | bjdrive://c76c37f2a627ddcde262ffcb229fddac |
 | 精通 TypeScript（机翻）.epub | bjdrive://a5483fb737b00b5fff2d45f1eb02709e |
 | 精通 Windows8 C++ 应用开发（机翻）.epub | bjdrive://b3780f258d1ab780eca0a7677765e7c7 |
 | 精通全栈 Web 开发（机翻）.epub | bjdrive://ba8cf13ec34e18a9be86e9af5bbd431f |
@@ -1081,7 +1081,7 @@ cdrive download <link>
 | 网站开发和运维高级教程（机翻）.epub | bjdrive://26359be7d9c3b2fec045fec6bd8fff65 |
 | 网络自动化秘籍（机翻）.epub | bjdrive://48f1b7fb4ea10cfed6a8ac7835b553bb |
 | 规模化的 JavaScript（机翻）.epub | bjdrive://eab69e072128ccd2813d41bdd4a690d4 |
-| 解决方案架构师.pdf | 未上传 |
+| 解决方案架构师.pdf | bjdrive://c931f84e1519939bba0ae273a2ec8948 |
 | 解锁 JavaScript（机翻）.epub | bjdrive://797245ff175535da358fc47618337214 |
 | 计算传播学导论（王成军）.epub | bjdrive://10168e4dff50c36ed205dd0c70fae934 |
 | 计算机视觉与创客技术（机翻）.epub | bjdrive://908995997bc1b623fa674f8f7286dbc4 |
@@ -1091,7 +1091,7 @@ cdrive download <link>
 | 谷歌 Web 工具包：GWT（机翻）.epub | bjdrive://1185ebebe4097c51a12e2fbdc3c6d48a |
 | 谷歌云自动化高级教程（机翻）.epub | bjdrive://ac6e705965e1680e49bd5679a92cc6b2 |
 | 谷歌站点可靠性工作手册.epub | bjdrive://8ed5c8597098b178c8fe97cd851e9d66 |
-| 超越 jQuery（机翻）.epub | 未上传 |
+| 超越 jQuery（机翻）.epub | bjdrive://2475be7d42b18f91076e5a270f36c207 |
 | 跨平台桌面应用开发（机翻）.epub | bjdrive://de6b10a52dd0aff7567455fc63c2b0cb |
 | 软件项目管理课件（刘海）.epub | bjdrive://5234801f6693dda49c61bec32eeed1f8 |
 | 轻松学模块化编程（机翻）.epub | bjdrive://9e9f64acf2c71218cf653442a1f03df9 |
