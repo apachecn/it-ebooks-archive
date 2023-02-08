@@ -1,5 +1,6 @@
 +   [吾爱破解脱壳破解区 2018~2011 NPM、PYPI、DockerHub 备份](docs/52pojie-tuokepojiequ-2018-2011-dockerhub.md)
-+   [ApacheCN 深度学习、计算机视觉、数据科学译文集单本 NPM、PYPI、DockerHub 备份](docs/apachecn-dl-cv-ds-dockerhub.md)
++   [ApacheCN 译文集（一）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt1-dockerhub.md)
++   [ApacheCN 译文集（二）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt2-dockerhub.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
 +   [尚硅谷全套课件 DockerHub 备份](docs/atguigu-dockerhub.md)
 +   [BeginnersBook、HowToDoInJava、Programiz、Zetcode 中文系列教程 NPM、PYPI、DockerHub 备份](docs/bgb-htdij-miz-zetcode-dockerhub.md)
