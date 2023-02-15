@@ -1,4 +1,5 @@
 +   [吾爱破解脱壳破解区 2018~2011 NPM、PYPI、DockerHub 备份](docs/52pojie-tuokepojiequ-2018-2011-dockerhub.md)
++   [AI 公众号 2022 NPM、PYPI、DockerHub 备份](docs/ai-gzh-2022-dockerhub.md)
 +   [ApacheCN 译文集（一）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt1-dockerhub.md)
 +   [ApacheCN 译文集（二）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt2-dockerhub.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
