@@ -13,13 +13,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-crypto
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-crypto
-daxueba-crypto <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -41,13 +35,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-kali
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-kali
-daxueba-kali <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -69,13 +57,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-kali-wireless
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-kali-wireless
-daxueba-kali-wireless <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -97,13 +79,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-metasploit5
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-metasploit5
-daxueba-metasploit5 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -125,13 +101,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-mobi-capture
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-mobi-capture
-daxueba-mobi-capture <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -153,13 +123,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-nessus-openvas
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-nessus-openvas
-daxueba-nessus-openvas <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -181,13 +145,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-net-protect
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-net-protect
-daxueba-net-protect <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -209,13 +167,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-net-scan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-net-scan
-daxueba-net-scan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -237,13 +189,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-nmap
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-nmap
-daxueba-nmap <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -265,13 +211,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-tcpip
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-tcpip
-daxueba-tcpip <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -293,13 +233,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-win-pentest
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-win-pentest
-daxueba-win-pentest <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -321,13 +255,7 @@ docker run -tid -p <port>:80 apachecn0/daxueba-wireshark
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daxueba-wireshark
-daxueba-wireshark <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

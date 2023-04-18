@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2008-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2008-part1
-heix-2008-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2008-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2008-part2
-heix-2008-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2008-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2008-part3
-heix-2008-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2008-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2008-part4
-heix-2008-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2009-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2009-part1
-heix-2009-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2009-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2009-part2
-heix-2009-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2009-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2009-part3
-heix-2009-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2009-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2009-part4
-heix-2009-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2010-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2010-part1
-heix-2010-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2010-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2010-part2
-heix-2010-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2010-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2010-part3
-heix-2010-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2010-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2010-part4
-heix-2010-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2011-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2011-part1
-heix-2011-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2011-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2011-part2
-heix-2011-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2011-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2011-part3
-heix-2011-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2011-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2011-part4
-heix-2011-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2012-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2012-part1
-heix-2012-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -452,13 +350,7 @@ docker run -tid -p <port>:80 apachecn0/heix-2012-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-2012-part2
-heix-2012-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

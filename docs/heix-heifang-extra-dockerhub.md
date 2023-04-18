@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/biancheng-jiexi-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install biancheng-jiexi-jingcui
-biancheng-jiexi-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/cainiao-xuexi-baodian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install cainiao-xuexi-baodian
-cainiao-xuexi-baodian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/daima-gongji-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install daima-gongji-jingcui
-daima-gongji-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-huanchongqu-yichu-zhuanji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-huanchongqu-yichu-zhuanji
-heifang-huanchongqu-yichu-zhuanji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-vc-zhuanji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-vc-zhuanji
-heifang-vc-zhuanji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/heike-biancheng-rumen-vol1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-biancheng-rumen-vol1
-heike-biancheng-rumen-vol1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/heike-biancheng-rumen-vol2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-biancheng-rumen-vol2
-heike-biancheng-rumen-vol2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/heike-biancheng-rumen-vol3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-biancheng-rumen-vol3
-heike-biancheng-rumen-vol3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/heike-bingqipu-vol1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-bingqipu-vol1
-heike-bingqipu-vol1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/heike-bingqipu-vol2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-bingqipu-vol2
-heike-bingqipu-vol2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/heike-gongfang-jichupian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-gongfang-jichupian
-heike-gongfang-jichupian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/heike-lingqibu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-lingqibu
-heike-lingqibu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/heike-miansha-rumen
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-miansha-rumen
-heike-miansha-rumen <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/heike-pojie-jingtong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-pojie-jingtong
-heike-pojie-jingtong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/heike-rumen-shili-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-rumen-shili-jingcui
-heike-rumen-shili-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/heike-ruqin-fangyu-jichu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-ruqin-fangyu-jichu
-heike-ruqin-fangyu-jichu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/heike-wenda-yidiantong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-wenda-yidiantong
-heike-wenda-yidiantong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -452,13 +350,7 @@ docker run -tid -p <port>:80 apachecn0/heiqi-gongfang-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heiqi-gongfang-jingcui
-heiqi-gongfang-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -478,13 +370,7 @@ docker run -tid -p <port>:80 apachecn0/heix-heike-rumen
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heix-heike-rumen
-heix-heike-rumen <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -504,13 +390,7 @@ docker run -tid -p <port>:80 apachecn0/jiami-jiemi-jishu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jiami-jiemi-jishu
-jiami-jiemi-jishu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -530,13 +410,7 @@ docker run -tid -p <port>:80 apachecn0/linux-heike-rumen
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install linux-heike-rumen
-linux-heike-rumen <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -556,13 +430,7 @@ docker run -tid -p <port>:80 apachecn0/loudong-ruqin-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install loudong-ruqin-jingcui
-loudong-ruqin-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -582,13 +450,7 @@ docker run -tid -p <port>:80 apachecn0/qq-baodian-vol1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install qq-baodian-vol1
-qq-baodian-vol1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -608,13 +470,7 @@ docker run -tid -p <port>:80 apachecn0/qq-baodian-vol2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install qq-baodian-vol2
-qq-baodian-vol2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -634,13 +490,7 @@ docker run -tid -p <port>:80 apachecn0/qq-baodian-vol3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install qq-baodian-vol3
-qq-baodian-vol3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -660,13 +510,7 @@ docker run -tid -p <port>:80 apachecn0/shagua-heike-huang
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shagua-heike-huang
-shagua-heike-huang <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -686,13 +530,7 @@ docker run -tid -p <port>:80 apachecn0/shagua-heike-lan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shagua-heike-lan
-shagua-heike-lan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -712,13 +550,7 @@ docker run -tid -p <port>:80 apachecn0/shagua-heike-lv
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shagua-heike-lv
-shagua-heike-lv <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -738,13 +570,7 @@ docker run -tid -p <port>:80 apachecn0/shagua-heike-vol1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shagua-heike-vol1
-shagua-heike-vol1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -764,13 +590,7 @@ docker run -tid -p <port>:80 apachecn0/shagua-heike-vol2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shagua-heike-vol2
-shagua-heike-vol2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -790,13 +610,7 @@ docker run -tid -p <port>:80 apachecn0/wangba-heike-baodian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wangba-heike-baodian
-wangba-heike-baodian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -816,13 +630,7 @@ docker run -tid -p <port>:80 apachecn0/wangyou-heike-baodian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wangyou-heike-baodian
-wangyou-heike-baodian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -842,13 +650,7 @@ docker run -tid -p <port>:80 apachecn0/zhongji-miansha
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zhongji-miansha
-zhongji-miansha <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

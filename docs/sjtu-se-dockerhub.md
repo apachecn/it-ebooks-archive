@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se101-ics1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se101-ics1
-sjtu-se101-ics1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se105-cpp
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se105-cpp
-sjtu-se105-cpp <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se106-dast
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se106-dast
-sjtu-se106-dast <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se110-logic
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se110-logic
-sjtu-se110-logic <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se111-ics2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se111-ics2
-sjtu-se111-ics2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se212-db
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se212-db
-sjtu-se212-db <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se222-algo
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se222-algo
-sjtu-se222-algo <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se224-engi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se224-engi
-sjtu-se224-engi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se225-test
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se225-test
-sjtu-se225-test <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se226-comp
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se226-comp
-sjtu-se226-comp <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se227-cse
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se227-cse
-sjtu-se227-cse <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se228-web-dev
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se228-web-dev
-sjtu-se228-web-dev <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se315-os
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se315-os
-sjtu-se315-os <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se332-info-sys-intro
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se332-info-sys-intro
-sjtu-se332-info-sys-intro <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se343-adv-arch
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se343-adv-arch
-sjtu-se343-adv-arch <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se348-info-sys-engi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se348-info-sys-engi
-sjtu-se348-info-sys-engi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se349-data-mining
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se349-data-mining
-sjtu-se349-data-mining <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -452,13 +350,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se350-adv-info-sys
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se350-adv-info-sys
-sjtu-se350-adv-info-sys <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -478,13 +370,7 @@ docker run -tid -p <port>:80 apachecn0/sjtu-se351-arch
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install sjtu-se351-arch
-sjtu-se351-arch <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

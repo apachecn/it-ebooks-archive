@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-app
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-app
-kssd-app <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol10-vuln
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol10-vuln
-kssd-vol10-vuln <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol11-web-sec
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol11-web-sec
-kssd-vol11-web-sec <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol12-etc
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol12-etc
-kssd-vol12-etc <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol13-bbs
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol13-bbs
-kssd-vol13-bbs <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol1-basic
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol1-basic
-kssd-vol1-basic <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol2-rev
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol2-rev
-kssd-vol2-rev <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol3-sys
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol3-sys
-kssd-vol3-sys <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-app
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-app
-kssd-vol4-debug-app <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-demo
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-demo
-kssd-vol4-debug-demo <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-encry
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-encry
-kssd-vol4-debug-encry <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-serial-2000-2002
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-serial-2000-2002
-kssd-vol4-debug-serial-2000-2002 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-serial-2003-2005
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-serial-2003-2005
-kssd-vol4-debug-serial-2003-2005 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-serial-2006-2011
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-serial-2006-2011
-kssd-vol4-debug-serial-2006-2011 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol4-debug-upk
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol4-debug-upk
-kssd-vol4-debug-upk <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol5-lang
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol5-lang
-kssd-vol5-lang <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol6-prot
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol6-prot
-kssd-vol6-prot <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -452,13 +350,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol7-pediy
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol7-pediy
-kssd-vol7-pediy <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -478,13 +370,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol8-prog
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol8-prog
-kssd-vol8-prog <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -504,13 +390,7 @@ docker run -tid -p <port>:80 apachecn0/kssd-vol9-virus
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install kssd-vol9-virus
-kssd-vol9-virus <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

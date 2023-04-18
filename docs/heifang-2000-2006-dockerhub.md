@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2000-jinghua
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2000-jinghua
-heifang-2000-jinghua <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2002-jinghua-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2002-jinghua-part1
-heifang-2002-jinghua-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2002-jinghua-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2002-jinghua-part2
-heifang-2002-jinghua-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2002-part5
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2002-part5
-heifang-2002-part5 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2002-part6
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2002-part6
-heifang-2002-part6 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2003-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2003-part3
-heifang-2003-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2003-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2003-part4
-heifang-2003-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-jinghua-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-jinghua-part1
-heifang-2004-jinghua-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-jinghua-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-jinghua-part2
-heifang-2004-jinghua-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-part1
-heifang-2004-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-part2
-heifang-2004-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-part3
-heifang-2004-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2004-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2004-part4
-heifang-2004-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2005-jinghua-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2005-jinghua-part1
-heifang-2005-jinghua-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2005-jinghua-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2005-jinghua-part2
-heifang-2005-jinghua-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2006-jinghua-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2006-jinghua-part1
-heifang-2006-jinghua-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/heifang-2006-jinghua-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heifang-2006-jinghua-part2
-heifang-2006-jinghua-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

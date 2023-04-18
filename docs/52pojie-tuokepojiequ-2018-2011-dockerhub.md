@@ -12,13 +12,7 @@ docker run -tid -p <port>:80 apachecn0/android-nixiang-cainiao-sucan-shouce-wand
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install android-nixiang-cainiao-sucan-shouce-wandanban
-android-nixiang-cainiao-sucan-shouce-wandanban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -40,13 +34,7 @@ docker run -tid -p <port>:80 apachecn0/idapro-cainiao-sucan-shouce-jinghuaban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install idapro-cainiao-sucan-shouce-jinghuaban
-idapro-cainiao-sucan-shouce-jinghuaban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -68,13 +56,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200801-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200801-04
-wuai-pojie-tuoke-pojiequ-200801-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -96,13 +78,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200805-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200805-08
-wuai-pojie-tuoke-pojiequ-200805-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -124,13 +100,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200809-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200809-12
-wuai-pojie-tuoke-pojiequ-200809-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -152,13 +122,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200901-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200901-04
-wuai-pojie-tuoke-pojiequ-200901-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -180,13 +144,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200905-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200905-08
-wuai-pojie-tuoke-pojiequ-200905-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -208,13 +166,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-200909-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-200909-12
-wuai-pojie-tuoke-pojiequ-200909-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -236,13 +188,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201001-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201001-04
-wuai-pojie-tuoke-pojiequ-201001-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -264,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201005-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201005-08
-wuai-pojie-tuoke-pojiequ-201005-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -292,13 +232,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201009-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201009-12
-wuai-pojie-tuoke-pojiequ-201009-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -320,13 +254,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201101-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201101-04
-wuai-pojie-tuoke-pojiequ-201101-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +276,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201105-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201105-08
-wuai-pojie-tuoke-pojiequ-201105-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -376,13 +298,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201109-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201109-12
-wuai-pojie-tuoke-pojiequ-201109-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -404,13 +320,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201201-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201201-04
-wuai-pojie-tuoke-pojiequ-201201-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -432,13 +342,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201205-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201205-08
-wuai-pojie-tuoke-pojiequ-201205-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -460,13 +364,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201209-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201209-12
-wuai-pojie-tuoke-pojiequ-201209-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -488,13 +386,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201301-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201301-04
-wuai-pojie-tuoke-pojiequ-201301-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -516,13 +408,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201305-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201305-08
-wuai-pojie-tuoke-pojiequ-201305-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -544,13 +430,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201309-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201309-12
-wuai-pojie-tuoke-pojiequ-201309-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -572,13 +452,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201401-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201401-04
-wuai-pojie-tuoke-pojiequ-201401-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -600,13 +474,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201405-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201405-08
-wuai-pojie-tuoke-pojiequ-201405-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -628,13 +496,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201409-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201409-12
-wuai-pojie-tuoke-pojiequ-201409-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -656,13 +518,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201501-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201501-04
-wuai-pojie-tuoke-pojiequ-201501-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -684,13 +540,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201505-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201505-08
-wuai-pojie-tuoke-pojiequ-201505-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -712,13 +562,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201509-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201509-12
-wuai-pojie-tuoke-pojiequ-201509-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -740,13 +584,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201601-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201601-04
-wuai-pojie-tuoke-pojiequ-201601-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -768,13 +606,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201605-09
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201605-09
-wuai-pojie-tuoke-pojiequ-201605-09 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -796,13 +628,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201609-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201609-12
-wuai-pojie-tuoke-pojiequ-201609-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -824,13 +650,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201701-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201701-04
-wuai-pojie-tuoke-pojiequ-201701-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -852,13 +672,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201705-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201705-08
-wuai-pojie-tuoke-pojiequ-201705-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -880,13 +694,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201709-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201709-12
-wuai-pojie-tuoke-pojiequ-201709-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -908,13 +716,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201801-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201801-04
-wuai-pojie-tuoke-pojiequ-201801-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -936,13 +738,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201805-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201805-08
-wuai-pojie-tuoke-pojiequ-201805-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -964,13 +760,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201809-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201809-12
-wuai-pojie-tuoke-pojiequ-201809-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -992,13 +782,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201901-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201901-04
-wuai-pojie-tuoke-pojiequ-201901-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1020,13 +804,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201905-06
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201905-06
-wuai-pojie-tuoke-pojiequ-201905-06 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1048,13 +826,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201907-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201907-08
-wuai-pojie-tuoke-pojiequ-201907-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1076,13 +848,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-201909-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-201909-12
-wuai-pojie-tuoke-pojiequ-201909-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1104,13 +870,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202001-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202001-04
-wuai-pojie-tuoke-pojiequ-202001-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1132,13 +892,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202005-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202005-08
-wuai-pojie-tuoke-pojiequ-202005-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1160,13 +914,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202009-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202009-12
-wuai-pojie-tuoke-pojiequ-202009-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1188,13 +936,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202101-04
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202101-04
-wuai-pojie-tuoke-pojiequ-202101-04 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1216,13 +958,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202105-08
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202105-08
-wuai-pojie-tuoke-pojiequ-202105-08 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1244,13 +980,7 @@ docker run -tid -p <port>:80 apachecn0/wuai-pojie-tuoke-pojiequ-202109-12
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuai-pojie-tuoke-pojiequ-202109-12
-wuai-pojie-tuoke-pojiequ-202109-12 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

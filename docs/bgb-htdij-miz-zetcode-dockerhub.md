@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-c-example-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-c-example-zh
-beginnersbook-c-example-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-cpp-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-cpp-zh
-beginnersbook-cpp-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-c-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-c-zh
-beginnersbook-c-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-db-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-db-zh
-beginnersbook-db-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -114,13 +90,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-java-example-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-java-example-zh
-beginnersbook-java-example-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -140,13 +110,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-java-io-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-java-io-zh
-beginnersbook-java-io-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -166,13 +130,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-java-str-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-java-str-zh
-beginnersbook-java-str-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -192,13 +150,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-java-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-java-zh
-beginnersbook-java-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -218,13 +170,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-jsp-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-jsp-zh
-beginnersbook-jsp-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -244,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-jstl-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-jstl-zh
-beginnersbook-jstl-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -270,13 +210,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-kotlin-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-kotlin-zh
-beginnersbook-kotlin-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -296,13 +230,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-mongodb-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-mongodb-zh
-beginnersbook-mongodb-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -322,13 +250,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-perl-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-perl-zh
-beginnersbook-perl-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -348,13 +270,7 @@ docker run -tid -p <port>:80 apachecn0/beginnersbook-servlet-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install beginnersbook-servlet-zh
-beginnersbook-servlet-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -374,13 +290,7 @@ docker run -tid -p <port>:80 apachecn0/howtodoinjava-java-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install howtodoinjava-java-zh
-howtodoinjava-java-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -400,13 +310,7 @@ docker run -tid -p <port>:80 apachecn0/howtodoinjava-misc1-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install howtodoinjava-misc1-zh
-howtodoinjava-misc1-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -426,13 +330,7 @@ docker run -tid -p <port>:80 apachecn0/howtodoinjava-misc2-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install howtodoinjava-misc2-zh
-howtodoinjava-misc2-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -452,13 +350,7 @@ docker run -tid -p <port>:80 apachecn0/howtodoinjava-spring-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install howtodoinjava-spring-zh
-howtodoinjava-spring-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -478,13 +370,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-cpp-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-cpp-zh
-programiz-cpp-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -504,13 +390,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-csharp-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-csharp-zh
-programiz-csharp-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -530,13 +410,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-c-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-c-zh
-programiz-c-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -556,13 +430,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-dast-algo-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-dast-algo-zh
-programiz-dast-algo-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -582,13 +450,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-java-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-java-zh
-programiz-java-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -608,13 +470,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-kotlin-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-kotlin-zh
-programiz-kotlin-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -634,13 +490,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-py-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-py-zh
-programiz-py-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -660,13 +510,7 @@ docker run -tid -p <port>:80 apachecn0/programiz-swift-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install programiz-swift-zh
-programiz-swift-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -686,13 +530,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-db-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-db-zh
-zetcode-db-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -712,13 +550,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-dnet-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-dnet-zh
-zetcode-dnet-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -738,13 +570,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-graph-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-graph-zh
-zetcode-graph-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -764,13 +590,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-gui-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-gui-zh
-zetcode-gui-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -790,13 +610,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-java-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-java-zh
-zetcode-java-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -816,13 +630,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-js-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-js-zh
-zetcode-js-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -842,13 +650,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-kotlin-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-kotlin-zh
-zetcode-kotlin-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -868,13 +670,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-misc-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-misc-zh
-zetcode-misc-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -894,13 +690,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-php-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-php-zh
-zetcode-php-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -920,13 +710,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-py-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-py-zh
-zetcode-py-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -946,13 +730,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-ruby-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-ruby-zh
-zetcode-ruby-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -972,13 +750,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-servlet-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-servlet-zh
-zetcode-servlet-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -998,13 +770,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-springboot-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-springboot-zh
-zetcode-springboot-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1024,13 +790,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-spring-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-spring-zh
-zetcode-spring-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1050,13 +810,7 @@ docker run -tid -p <port>:80 apachecn0/zetcode-symfony-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zetcode-symfony-zh
-zetcode-symfony-zh <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

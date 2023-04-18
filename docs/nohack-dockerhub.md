@@ -11,13 +11,7 @@ docker run -tid -p <port>:80 apachecn0/hack-biancheng-shili-jingjiang
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install hack-biancheng-shili-jingjiang
-hack-biancheng-shili-jingjiang <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -37,13 +31,7 @@ docker run -tid -p <port>:80 apachecn0/heike-cidian-zhongwenban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-cidian-zhongwenban
-heike-cidian-zhongwenban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -63,13 +51,7 @@ docker run -tid -p <port>:80 apachecn0/heike-jiaoben-quanben
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-jiaoben-quanben
-heike-jiaoben-quanben <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -89,13 +71,7 @@ docker run -tid -p <port>:80 apachecn0/heike-riji-jingzhuangban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-riji-jingzhuangban
-heike-riji-jingzhuangban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -115,13 +91,7 @@ docker run -tid -p <port>:80 apachecn0/heike-shegong-dangandai
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-shegong-dangandai
-heike-shegong-dangandai <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -141,13 +111,7 @@ docker run -tid -p <port>:80 apachecn0/heike-shegong-dangandai2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-shegong-dangandai2
-heike-shegong-dangandai2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -167,13 +131,7 @@ docker run -tid -p <port>:80 apachecn0/heike-shentou-biji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-shentou-biji
-heike-shentou-biji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -193,13 +151,7 @@ docker run -tid -p <port>:80 apachecn0/heike-shuyu-tuwen-cidian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-shuyu-tuwen-cidian
-heike-shuyu-tuwen-cidian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -219,13 +171,7 @@ docker run -tid -p <port>:80 apachecn0/heike-yuying-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-yuying-shouce
-heike-yuying-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -245,13 +191,7 @@ docker run -tid -p <port>:80 apachecn0/heike-zhuliu-gongji-daquan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install heike-zhuliu-gongji-daquan
-heike-zhuliu-gongji-daquan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -271,13 +211,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-csharp-heike-zhuru-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-csharp-heike-zhuru-biancheng
-jingtong-csharp-heike-zhuru-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -297,13 +231,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-heike-miansha
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-heike-miansha
-jingtong-heike-miansha <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -323,13 +251,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-jiaoben-heike
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-jiaoben-heike
-jingtong-jiaoben-heike <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -349,13 +271,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-jiaoben-heiruan-gongji-jishu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-jiaoben-heiruan-gongji-jishu
-jingtong-jiaoben-heiruan-gongji-jishu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -375,13 +291,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-pojie-gongju
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-pojie-gongju
-jingtong-pojie-gongju <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -401,13 +311,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-vb-heike-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install jingtong-vb-heike-biancheng
-jingtong-vb-heike-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -427,13 +331,7 @@ docker run -tid -p <port>:80 apachecn0/linux-bt4-heike-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install linux-bt4-heike-shouce
-linux-bt4-heike-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -453,13 +351,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2005-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2005-part1
-nohack-2005-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -479,13 +371,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2005-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2005-part2
-nohack-2005-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -505,13 +391,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2006-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2006-part1
-nohack-2006-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -531,13 +411,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2006-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2006-part2
-nohack-2006-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -557,13 +431,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2006-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2006-part3
-nohack-2006-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -583,13 +451,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2006-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2006-part4
-nohack-2006-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -609,13 +471,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2007-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2007-part1
-nohack-2007-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -635,13 +491,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2007-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2007-part2
-nohack-2007-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -661,13 +511,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2007-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2007-part3
-nohack-2007-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -687,13 +531,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2007-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2007-part4
-nohack-2007-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -713,13 +551,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2008-extra-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2008-extra-part1
-nohack-2008-extra-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -739,13 +571,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2008-extra-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2008-extra-part2
-nohack-2008-extra-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -765,13 +591,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2008-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2008-part1
-nohack-2008-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -791,13 +611,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2008-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2008-part3
-nohack-2008-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -817,13 +631,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2009-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2009-part1
-nohack-2009-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -843,13 +651,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2009-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2009-part2
-nohack-2009-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -869,13 +671,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2009-part3
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2009-part3
-nohack-2009-part3 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -895,13 +691,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2009-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2009-part4
-nohack-2009-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -921,13 +711,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2010-part1
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2010-part1
-nohack-2010-part1 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -947,13 +731,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2010-part2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2010-part2
-nohack-2010-part2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -973,13 +751,7 @@ docker run -tid -p <port>:80 apachecn0/pojie-bupobuni
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install pojie-bupobuni
-pojie-bupobuni <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -999,13 +771,7 @@ docker run -tid -p <port>:80 apachecn0/qqhack-hedingben-1213
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install qqhack-hedingben-1213
-qqhack-hedingben-1213 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1025,13 +791,7 @@ docker run -tid -p <port>:80 apachecn0/qqhack-heike-jingdian-heji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install qqhack-heike-jingdian-heji
-qqhack-heike-jingdian-heji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1051,13 +811,7 @@ docker run -tid -p <port>:80 apachecn0/shabuside-mimi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install shabuside-mimi
-shabuside-mimi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1077,13 +831,7 @@ docker run -tid -p <port>:80 apachecn0/wa0day
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wa0day
-wa0day <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1103,13 +851,7 @@ docker run -tid -p <port>:80 apachecn0/wangba-heike-2007
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wangba-heike-2007
-wangba-heike-2007 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1129,13 +871,7 @@ docker run -tid -p <port>:80 apachecn0/wuxian-heike-shaguashu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install wuxian-heike-shaguashu
-wuxian-heike-shaguashu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1155,13 +891,7 @@ docker run -tid -p <port>:80 apachecn0/zishen-heike-shentou-heimu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install zishen-heike-shentou-heimu
-zishen-heike-shentou-heimu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1181,13 +911,7 @@ docker run -tid -p <port>:80 apachecn0/nohack-2008-part4
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install nohack-2008-part4
-nohack-2008-part4 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -1207,13 +931,7 @@ docker run -tid -p <port>:80 apachecn0/hack-biancheng-shili-jingjiang2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install hack-biancheng-shili-jingjiang2
-hack-biancheng-shili-jingjiang2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

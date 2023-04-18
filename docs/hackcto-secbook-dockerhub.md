@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/hackcto-2013
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install hackcto-2013
-hackcto-2013 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/hackcto-2014
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install hackcto-2014
-hackcto-2014 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/hackcto-2015
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install hackcto-2015
-hackcto-2015 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -88,13 +70,7 @@ docker run -tid -p <port>:80 apachecn0/secbook-1to9
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install secbook-1to9
-secbook-1to9 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

@@ -28,13 +28,7 @@ docker run -tid -p <port>:80 apachecn0/it-ebooks-archive
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install it-ebooks-archive
-it-ebooks-archive <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

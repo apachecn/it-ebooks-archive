@@ -10,13 +10,7 @@ docker run -tid -p <port>:80 apachecn0/ceh-v10-mod-allinone
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install ceh-v10-mod-allinone
-ceh-v10-mod-allinone <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -36,13 +30,7 @@ docker run -tid -p <port>:80 apachecn0/ceh-v11-labman-allinone
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install ceh-v11-labman-allinone
-ceh-v11-labman-allinone <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 
@@ -62,13 +50,7 @@ docker run -tid -p <port>:80 apachecn0/ceh-v11-mod-allinone
 # 访问 http://localhost:{port} 查看文档
 ```
 
-### PYPI
 
-```
-pip install ceh-v11-mod-allinone
-ceh-v11-mod-allinone <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 ### NPM
 

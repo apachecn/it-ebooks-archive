@@ -14,13 +14,7 @@ docker run -tid -p <port>:80 apachecn0/angular2-bootstrap4-web-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular2-bootstrap4-web-kaifa
-angular2-bootstrap4-web-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -42,13 +36,7 @@ docker run -tid -p <port>:80 apachecn0/angular-2-shili
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-2-shili
-angular-2-shili <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -70,13 +58,7 @@ docker run -tid -p <port>:80 apachecn0/angular-2-zujian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-2-zujian
-angular-2-zujian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -98,13 +80,7 @@ docker run -tid -p <port>:80 apachecn0/angular5-xiangmu-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular5-xiangmu-jiaocheng
-angular5-xiangmu-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -126,13 +102,7 @@ docker run -tid -p <port>:80 apachecn0/angular6-mianxiang-qiyeji-de-web-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular6-mianxiang-qiyeji-de-web-kaifa
-angular6-mianxiang-qiyeji-de-web-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -154,13 +124,7 @@ docker run -tid -p <port>:80 apachecn0/angular9-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular9-gaoji-jiaocheng
-angular9-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -182,13 +146,7 @@ docker run -tid -p <port>:80 apachecn0/angular-ceshi-qudong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-ceshi-qudong-kaifa
-angular-ceshi-qudong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -210,13 +168,7 @@ docker run -tid -p <port>:80 apachecn0/angular-he-bootstrap-web-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-he-bootstrap-web-kaifa
-angular-he-bootstrap-web-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -238,13 +190,7 @@ docker run -tid -p <port>:80 apachecn0/angular-jianjinshi-web-yingyong-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-jianjinshi-web-yingyong-jiaocheng
-angular-jianjinshi-web-yingyong-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -266,13 +212,7 @@ docker run -tid -p <port>:80 apachecn0/angular-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-miji
-angular-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -294,13 +234,7 @@ docker run -tid -p <port>:80 apachecn0/angular-nativescript-yidong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-nativescript-yidong-kaifa
-angular-nativescript-yidong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -322,13 +256,7 @@ docker run -tid -p <port>:80 apachecn0/angular-net-kaifa-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-net-kaifa-xuexi-shouce
-angular-net-kaifa-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -350,13 +278,7 @@ docker run -tid -p <port>:80 apachecn0/angular-shejimoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-shejimoshi
-angular-shejimoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -378,13 +300,7 @@ docker run -tid -p <port>:80 apachecn0/angular-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-xuexi-shouce
-angular-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -406,13 +322,7 @@ docker run -tid -p <port>:80 apachecn0/angular-zhuanjiaji-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install angular-zhuanjiaji-biancheng
-angular-zhuanjiaji-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -434,13 +344,7 @@ docker run -tid -p <port>:80 apachecn0/goujian-angular-lixian-yingyong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install goujian-angular-lixian-yingyong
-goujian-angular-lixian-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -462,13 +366,7 @@ docker run -tid -p <port>:80 apachecn0/goujian-daguimo-angular-web-yingyong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install goujian-daguimo-angular-web-yingyong
-goujian-daguimo-angular-web-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -490,13 +388,7 @@ docker run -tid -p <port>:80 apachecn0/primeng-angular-ui-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install primeng-angular-ui-kaifa
-primeng-angular-ui-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -518,13 +410,7 @@ docker run -tid -p <port>:80 apachecn0/qiehuan-dao-angular-2
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install qiehuan-dao-angular-2
-qiehuan-dao-angular-2 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -546,13 +432,7 @@ docker run -tid -p <port>:80 apachecn0/typescript2-angular-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install typescript2-angular-kaifa
-typescript2-angular-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -576,13 +456,7 @@ docker run -tid -p <port>:80 apachecn0/da-shujufenxi-shizhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install da-shujufenxi-shizhan
-da-shujufenxi-shizhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -604,13 +478,7 @@ docker run -tid -p <port>:80 apachecn0/flink-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install flink-xuexi-shouce
-flink-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -632,13 +500,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-spark
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-spark
-jingtong-spark <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -660,13 +522,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-spark-2-x-jiqi-xuexi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-spark-2-x-jiqi-xuexi
-jingtong-spark-2-x-jiqi-xuexi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -688,13 +544,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-spark-shuju-kexue
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-spark-shuju-kexue
-jingtong-spark-shuju-kexue <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -716,13 +566,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-storm
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-storm
-jingtong-storm <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -744,13 +588,7 @@ docker run -tid -p <port>:80 apachecn0/kafka-xuexi-shouce-zhongwen-dier-ban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kafka-xuexi-shouce-zhongwen-dier-ban
-kafka-xuexi-shouce-zhongwen-dier-ban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -772,13 +610,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-python-kaifazhe-de-spark
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-python-kaifazhe-de-spark
-mianxiang-python-kaifazhe-de-spark <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -800,13 +632,7 @@ docker run -tid -p <port>:80 apachecn0/pyspark-da-shujufenxi-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install pyspark-da-shujufenxi-shiyong-zhinan
-pyspark-da-shujufenxi-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -828,13 +654,7 @@ docker run -tid -p <port>:80 apachecn0/pyspark-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install pyspark-miji
-pyspark-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -856,13 +676,7 @@ docker run -tid -p <port>:80 apachecn0/python-shuju-kexue-yu-jiqi-xuexi-shiyongs
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-shuju-kexue-yu-jiqi-xuexi-shiyongshouce
-python-shuju-kexue-yu-jiqi-xuexi-shiyongshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -884,13 +698,7 @@ docker run -tid -p <port>:80 apachecn0/scala-he-spark-da-shujufenxi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install scala-he-spark-da-shujufenxi
-scala-he-spark-da-shujufenxi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -912,13 +720,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-storm-goujian-python-shishi-yingy
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-storm-goujian-python-shishi-yingyong
-shiyong-storm-goujian-python-shishi-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -940,13 +742,7 @@ docker run -tid -p <port>:80 apachecn0/spark2-chuxuezhe-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark2-chuxuezhe-shouce
-spark2-chuxuezhe-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -968,13 +764,7 @@ docker run -tid -p <port>:80 apachecn0/spark2-shujuchuli-he-shishi-fenxi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark2-shujuchuli-he-shishi-fenxi
-spark2-shujuchuli-he-shishi-fenxi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -996,13 +786,7 @@ docker run -tid -p <port>:80 apachecn0/spark-2-x-jiqi-xuexi-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-2-x-jiqi-xuexi-miji
-spark-2-x-jiqi-xuexi-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1024,13 +808,7 @@ docker run -tid -p <port>:80 apachecn0/spark-daguimo-jiqi-xuexi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-daguimo-jiqi-xuexi
-spark-daguimo-jiqi-xuexi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1052,13 +830,7 @@ docker run -tid -p <port>:80 apachecn0/spark-jiqi-xuexi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-jiqi-xuexi
-spark-jiqi-xuexi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1080,13 +852,7 @@ docker run -tid -p <port>:80 apachecn0/spark-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-miji
-spark-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1108,13 +874,7 @@ docker run -tid -p <port>:80 apachecn0/spark-shendu-xuexi-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-shendu-xuexi-miji
-spark-shendu-xuexi-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1136,13 +896,7 @@ docker run -tid -p <port>:80 apachecn0/spark-shuju-kexue
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-shuju-kexue
-spark-shuju-kexue <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1164,13 +918,7 @@ docker run -tid -p <port>:80 apachecn0/spark-sql-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spark-sql-xuexi-shouce
-spark-sql-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1192,13 +940,7 @@ docker run -tid -p <port>:80 apachecn0/storm-he-cassandra-shishi-fenxi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install storm-he-cassandra-shishi-fenxi
-storm-he-cassandra-shishi-fenxi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1220,13 +962,7 @@ docker run -tid -p <port>:80 apachecn0/storm-lantu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install storm-lantu
-storm-lantu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1250,13 +986,7 @@ docker run -tid -p <port>:80 apachecn0/boost-asio-c-wangluo-biancheng-rumen-zhon
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install boost-asio-c-wangluo-biancheng-rumen-zhongwen-dier-ban
-boost-asio-c-wangluo-biancheng-rumen-zhongwen-dier-ban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1278,13 +1008,7 @@ docker run -tid -p <port>:80 apachecn0/boost-c-yingyong-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install boost-c-yingyong-kaifa-miji
-boost-c-yingyong-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1306,13 +1030,7 @@ docker run -tid -p <port>:80 apachecn0/c-biancheng-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-biancheng-rumen-shouce
-c-biancheng-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1334,13 +1052,7 @@ docker run -tid -p <port>:80 apachecn0/c-fanyingshi-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-fanyingshi-biancheng
-c-fanyingshi-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1362,13 +1074,7 @@ docker run -tid -p <port>:80 apachecn0/c-gaoji-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-gaoji-biancheng
-c-gaoji-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1390,13 +1096,7 @@ docker run -tid -p <port>:80 apachecn0/c-gaoji-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-gaoji-biancheng-miji
-c-gaoji-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1418,13 +1118,7 @@ docker run -tid -p <port>:80 apachecn0/c-gaoxingneng-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-gaoxingneng-biancheng
-c-gaoxingneng-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1446,13 +1140,7 @@ docker run -tid -p <port>:80 apachecn0/c-gongzuoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-gongzuoshi
-c-gongzuoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1474,13 +1162,7 @@ docker run -tid -p <port>:80 apachecn0/c-hanshu-shi-biancheng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-hanshu-shi-biancheng-shiyong-zhinan
-c-hanshu-shi-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1502,13 +1184,7 @@ docker run -tid -p <port>:80 apachecn0/c-hanshu-shi-biancheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-hanshu-shi-biancheng-xuexi-shouce
-c-hanshu-shi-biancheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1530,13 +1206,7 @@ docker run -tid -p <port>:80 apachecn0/c-jiqiren-biancheng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-jiqiren-biancheng-shiyong-zhinan
-c-jiqiren-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1558,13 +1228,7 @@ docker run -tid -p <port>:80 apachecn0/c-jiqi-xuexi-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-jiqi-xuexi-shiyong-zhinan
-c-jiqi-xuexi-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1586,13 +1250,7 @@ docker run -tid -p <port>:80 apachecn0/c-qt5-gui-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-qt5-gui-biancheng
-c-qt5-gui-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1614,13 +1272,7 @@ docker run -tid -p <port>:80 apachecn0/c-shujujiegou-he-suanfa-sheji-yuanze
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-shujujiegou-he-suanfa-sheji-yuanze
-c-shujujiegou-he-suanfa-sheji-yuanze <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1642,13 +1294,7 @@ docker run -tid -p <port>:80 apachecn0/cuda-biancheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install cuda-biancheng-xuexi-shouce
-cuda-biancheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1670,13 +1316,7 @@ docker run -tid -p <port>:80 apachecn0/c-ue4-jiaoben-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-ue4-jiaoben-biancheng-miji
-c-ue4-jiaoben-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1698,13 +1338,7 @@ docker run -tid -p <port>:80 apachecn0/c-xitong-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-xitong-biancheng-miji
-c-xitong-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1726,13 +1360,7 @@ docker run -tid -p <port>:80 apachecn0/c-youxi-biancheng-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-youxi-biancheng-rumen-shouce
-c-youxi-biancheng-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1754,13 +1382,7 @@ docker run -tid -p <port>:80 apachecn0/c-youxi-donghua-biancheng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-youxi-donghua-biancheng-shiyong-zhinan
-c-youxi-donghua-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1782,13 +1404,7 @@ docker run -tid -p <port>:80 apachecn0/c-zhuanjiaji-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-zhuanjiaji-biancheng
-c-zhuanjiaji-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1810,13 +1426,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-c-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-c-biancheng
-jingtong-c-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1838,13 +1448,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-c-duoxiancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-c-duoxiancheng
-jingtong-c-duoxiancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1866,13 +1470,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-c-youxi-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-c-youxi-kaifa
-jingtong-c-youxi-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1894,13 +1492,7 @@ docker run -tid -p <port>:80 apachecn0/qt5-c-gui-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install qt5-c-gui-biancheng-miji
-qt5-c-gui-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1922,13 +1514,7 @@ docker run -tid -p <port>:80 apachecn0/qt5-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install qt5-xuexi-shouce
-qt5-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1950,13 +1536,7 @@ docker run -tid -p <port>:80 apachecn0/qt-creator-yingyong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install qt-creator-yingyong-kaifa
-qt-creator-yingyong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -1978,13 +1558,7 @@ docker run -tid -p <port>:80 apachecn0/tongguo-shiyong-ue4-goujian-youxi-xuexi-c
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install tongguo-shiyong-ue4-goujian-youxi-xuexi-c
-tongguo-shiyong-ue4-goujian-youxi-xuexi-c <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2006,13 +1580,7 @@ docker run -tid -p <port>:80 apachecn0/ue4-lantu-keshihua-jiaoben-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ue4-lantu-keshihua-jiaoben-rumen-shouce
-ue4-lantu-keshihua-jiaoben-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2034,13 +1602,7 @@ docker run -tid -p <port>:80 apachecn0/ue-youxi-kaifa-xiangmu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ue-youxi-kaifa-xiangmu
-ue-youxi-kaifa-xiangmu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2062,13 +1624,7 @@ docker run -tid -p <port>:80 apachecn0/webassembly-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install webassembly-xuexi-shouce
-webassembly-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2090,13 +1646,7 @@ docker run -tid -p <port>:80 apachecn0/webassembly-youxi-biancheng-shiyong-zhina
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install webassembly-youxi-biancheng-shiyong-zhinan
-webassembly-youxi-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2118,13 +1668,7 @@ docker run -tid -p <port>:80 apachecn0/xiandai-c-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xiandai-c-biancheng
-xiandai-c-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2146,13 +1690,7 @@ docker run -tid -p <port>:80 apachecn0/xiandai-c-de-tiaozhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xiandai-c-de-tiaozhan
-xiandai-c-de-tiaozhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2174,13 +1712,7 @@ docker run -tid -p <port>:80 apachecn0/xiandai-c-qianrushi-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xiandai-c-qianrushi-biancheng-miji
-xiandai-c-qianrushi-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2204,13 +1736,7 @@ docker run -tid -p <port>:80 apachecn0/c-10-he-net6-daima-kuapingtai-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-10-he-net6-daima-kuapingtai-kaifa
-c-10-he-net6-daima-kuapingtai-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2232,13 +1758,7 @@ docker run -tid -p <port>:80 apachecn0/c-10-kuaisu-yufa-cankao
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-10-kuaisu-yufa-cankao
-c-10-kuaisu-yufa-cankao <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2260,13 +1780,7 @@ docker run -tid -p <port>:80 apachecn0/c-2012-shuoming-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-2012-shuoming-zhinan
-c-2012-shuoming-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2288,13 +1802,7 @@ docker run -tid -p <port>:80 apachecn0/c-2d-youxi-kaifa-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-2d-youxi-kaifa-xuexi-shouce
-c-2d-youxi-kaifa-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2316,13 +1824,7 @@ docker run -tid -p <port>:80 apachecn0/c-5-chengxuyuan-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-5-chengxuyuan-zhinan
-c-5-chengxuyuan-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2344,13 +1846,7 @@ docker run -tid -p <port>:80 apachecn0/c-5-chuci-jiechu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-5-chuci-jiechu
-c-5-chuci-jiechu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2372,13 +1868,7 @@ docker run -tid -p <port>:80 apachecn0/c-5-duoxiancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-5-duoxiancheng-miji
-c-5-duoxiancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2400,13 +1890,7 @@ docker run -tid -p <port>:80 apachecn0/c-5-shujuku-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-5-shujuku-rumen-zhinan
-c-5-shujuku-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2428,13 +1912,7 @@ docker run -tid -p <port>:80 apachecn0/c-5-zhuanjiaji-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-5-zhuanjiaji-biancheng
-c-5-zhuanjiaji-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2456,13 +1934,7 @@ docker run -tid -p <port>:80 apachecn0/c-7-he-net-core-2-0-gaoxingneng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-7-he-net-core-2-0-gaoxingneng
-c-7-he-net-core-2-0-gaoxingneng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2484,13 +1956,7 @@ docker run -tid -p <port>:80 apachecn0/c-7-he-net-core-2-0-lantu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-7-he-net-core-2-0-lantu
-c-7-he-net-core-2-0-lantu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2512,13 +1978,7 @@ docker run -tid -p <port>:80 apachecn0/c-7-he-net-core-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-7-he-net-core-miji
-c-7-he-net-core-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2540,13 +2000,7 @@ docker run -tid -p <port>:80 apachecn0/c-7-rumen-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-7-rumen-shiyong-zhinan
-c-7-rumen-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2568,13 +2022,7 @@ docker run -tid -p <port>:80 apachecn0/c-7-xml-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-7-xml-rumen-zhinan
-c-7-xml-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2596,13 +2044,7 @@ docker run -tid -p <port>:80 apachecn0/c-8-he-net-core3-bingxing-biancheng-shiyo
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-8-he-net-core3-bingxing-biancheng-shiyong-zhinan
-c-8-he-net-core3-bingxing-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2624,13 +2066,7 @@ docker run -tid -p <port>:80 apachecn0/c-9-he-net5-ruanjianjiagou
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-9-he-net5-ruanjianjiagou
-c-9-he-net5-ruanjianjiagou <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2652,13 +2088,7 @@ docker run -tid -p <port>:80 apachecn0/c-biancheng-ling-jichu-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-biancheng-ling-jichu-rumen-zhinan
-c-biancheng-ling-jichu-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2680,13 +2110,7 @@ docker run -tid -p <port>:80 apachecn0/c-biancheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-biancheng-xuexi-shouce
-c-biancheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2708,13 +2132,7 @@ docker run -tid -p <port>:80 apachecn0/c-daima-zhengji-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-daima-zhengji-zhinan
-c-daima-zhengji-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2736,13 +2154,7 @@ docker run -tid -p <port>:80 apachecn0/c-hanshu-shi-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-hanshu-shi-biancheng
-c-hanshu-shi-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2764,13 +2176,7 @@ docker run -tid -p <port>:80 apachecn0/c-he-net-core-ceshi-qudong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-he-net-core-ceshi-qudong-kaifa
-c-he-net-core-ceshi-qudong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2792,13 +2198,7 @@ docker run -tid -p <port>:80 apachecn0/c-he-netcore-shejimoshi-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-he-netcore-shejimoshi-shiyong-zhinan
-c-he-netcore-shejimoshi-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2820,13 +2220,7 @@ docker run -tid -p <port>:80 apachecn0/c-he-unity-2021-youxi-kaifa-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-he-unity-2021-youxi-kaifa-xuexi-shouce
-c-he-unity-2021-youxi-kaifa-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2848,13 +2242,7 @@ docker run -tid -p <port>:80 apachecn0/c-jiandan-gaoxiao-biancheng-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-jiandan-gaoxiao-biancheng-jiaocheng
-c-jiandan-gaoxiao-biancheng-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2876,13 +2264,7 @@ docker run -tid -p <port>:80 apachecn0/c-jichu-hexin-gainian-he-moshi-jiaohushi-
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-jichu-hexin-gainian-he-moshi-jiaohushi-zhinan
-c-jichu-hexin-gainian-he-moshi-jiaohushi-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2904,13 +2286,7 @@ docker run -tid -p <port>:80 apachecn0/c-jiqi-xuexi-xiangmu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-jiqi-xuexi-xiangmu
-c-jiqi-xuexi-xiangmu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2932,13 +2308,7 @@ docker run -tid -p <port>:80 apachecn0/c-mianxiangduixiangbiancheng-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-mianxiangduixiangbiancheng-rumen-zhinan
-c-mianxiangduixiangbiancheng-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2960,13 +2330,7 @@ docker run -tid -p <port>:80 apachecn0/c-mianxiangduixiangbiancheng-shiyong-zhin
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-mianxiangduixiangbiancheng-shiyong-zhinan
-c-mianxiangduixiangbiancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -2988,13 +2352,7 @@ docker run -tid -p <port>:80 apachecn0/c-mimaxue-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-mimaxue-gaoji-jiaocheng
-c-mimaxue-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3016,13 +2374,7 @@ docker run -tid -p <port>:80 apachecn0/c-monotouch-yingyong-kaifa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-monotouch-yingyong-kaifa-jiaocheng
-c-monotouch-yingyong-kaifa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3044,13 +2396,7 @@ docker run -tid -p <port>:80 apachecn0/c-qitian-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-qitian-xuexi-shouce
-c-qitian-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3072,13 +2418,7 @@ docker run -tid -p <port>:80 apachecn0/c-shejimoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-shejimoshi
-c-shejimoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3100,13 +2440,7 @@ docker run -tid -p <port>:80 apachecn0/c-shenjingwangluo-biancheng-shiyong-zhina
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-shenjingwangluo-biancheng-shiyong-zhinan
-c-shenjingwangluo-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3128,13 +2462,7 @@ docker run -tid -p <port>:80 apachecn0/c-shujujiegou-he-suanfa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-shujujiegou-he-suanfa
-c-shujujiegou-he-suanfa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3156,13 +2484,7 @@ docker run -tid -p <port>:80 apachecn0/c-xaml-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install c-xaml-gaoji-jiaocheng
-c-xaml-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3184,13 +2506,7 @@ docker run -tid -p <port>:80 apachecn0/gaoji-c-jinjie-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install gaoji-c-jinjie-shouce
-gaoji-c-jinjie-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3212,13 +2528,7 @@ docker run -tid -p <port>:80 apachecn0/ios-ar-youxi-kaifa-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ios-ar-youxi-kaifa-rumen-shouce
-ios-ar-youxi-kaifa-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3240,13 +2550,7 @@ docker run -tid -p <port>:80 apachecn0/ios-zengqiang-xianshi-de-net-kaifazhe-zhi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ios-zengqiang-xianshi-de-net-kaifazhe-zhinan
-ios-zengqiang-xianshi-de-net-kaifazhe-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3268,13 +2572,7 @@ docker run -tid -p <port>:80 apachecn0/ml-net-jiqi-xuexi-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ml-net-jiqi-xuexi-shiyong-zhinan
-ml-net-jiqi-xuexi-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3296,13 +2594,7 @@ docker run -tid -p <port>:80 apachecn0/net-xingneng-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install net-xingneng-gaoji-jiaocheng
-net-xingneng-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3324,13 +2616,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-c-c-he-lua-de-cryengine-youxi-bia
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-c-c-he-lua-de-cryengine-youxi-biancheng
-shiyong-c-c-he-lua-de-cryengine-youxi-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3352,13 +2638,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-uno-pingtai-chuangjian-kuapingtai
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-uno-pingtai-chuangjian-kuapingtai-c-yingyong
-shiyong-uno-pingtai-chuangjian-kuapingtai-c-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3380,13 +2660,7 @@ docker run -tid -p <port>:80 apachecn0/tansuo-c-gaoji-texing
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install tansuo-c-gaoji-texing
-tansuo-c-gaoji-texing <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3408,13 +2682,7 @@ docker run -tid -p <port>:80 apachecn0/unity-2020-youxi-kaifa-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install unity-2020-youxi-kaifa-shiyong-zhinan
-unity-2020-youxi-kaifa-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3436,13 +2704,7 @@ docker run -tid -p <port>:80 apachecn0/unity-2d-youxi-kaifa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install unity-2d-youxi-kaifa-jiaocheng
-unity-2d-youxi-kaifa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3464,13 +2726,7 @@ docker run -tid -p <port>:80 apachecn0/unity-gaoji-youxi-kaifa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install unity-gaoji-youxi-kaifa-jiaocheng
-unity-gaoji-youxi-kaifa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3492,13 +2748,7 @@ docker run -tid -p <port>:80 apachecn0/unity-youxi-ai-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install unity-youxi-ai-rumen-shouce
-unity-youxi-ai-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3520,13 +2770,7 @@ docker run -tid -p <port>:80 apachecn0/windows8-mvvm-moshi-jiemi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install windows8-mvvm-moshi-jiemi
-windows8-mvvm-moshi-jiemi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3548,13 +2792,7 @@ docker run -tid -p <port>:80 apachecn0/windows8-shuju-kaifa-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install windows8-shuju-kaifa-rumen-zhinan
-windows8-shuju-kaifa-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3576,13 +2814,7 @@ docker run -tid -p <port>:80 apachecn0/xamarin-forms-xiangmu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xamarin-forms-xiangmu
-xamarin-forms-xiangmu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3604,13 +2836,7 @@ docker run -tid -p <port>:80 apachecn0/xamarin-yidong-yingyong-kaifa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xamarin-yidong-yingyong-kaifa-jiaocheng
-xamarin-yidong-yingyong-kaifa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3634,13 +2860,7 @@ docker run -tid -p <port>:80 apachecn0/ann-jisuanji-shijue-yingyong-goujian-zhin
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ann-jisuanji-shijue-yingyong-goujian-zhinan
-ann-jisuanji-shijue-yingyong-goujian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3662,13 +2882,7 @@ docker run -tid -p <port>:80 apachecn0/ios-jisuanji-shijue-yu-zengqiang-xianshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ios-jisuanji-shijue-yu-zengqiang-xianshi
-ios-jisuanji-shijue-yu-zengqiang-xianshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3690,13 +2904,7 @@ docker run -tid -p <port>:80 apachecn0/java-tuxiangchuli-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install java-tuxiangchuli-miji
-java-tuxiangchuli-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3718,13 +2926,7 @@ docker run -tid -p <port>:80 apachecn0/jiqi-xuexi-he-tuxiangchuli-shijian-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jiqi-xuexi-he-tuxiangchuli-shijian-zhinan
-jiqi-xuexi-he-tuxiangchuli-shijian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3746,13 +2948,7 @@ docker run -tid -p <port>:80 apachecn0/jisuanji-shijue-duliang-zhibiao-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jisuanji-shijue-duliang-zhibiao-jiaocheng
-jisuanji-shijue-duliang-zhibiao-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3774,13 +2970,7 @@ docker run -tid -p <port>:80 apachecn0/jisuanji-shijue-yu-chuangke-jishu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jisuanji-shijue-yu-chuangke-jishu
-jisuanji-shijue-yu-chuangke-jishu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3802,13 +2992,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-opencv-de-jiqi-xuexi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-opencv-de-jiqi-xuexi
-mianxiang-opencv-de-jiqi-xuexi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3830,13 +3014,7 @@ docker run -tid -p <port>:80 apachecn0/opencv-shijian-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install opencv-shijian-zhinan
-opencv-shijian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3858,13 +3036,7 @@ docker run -tid -p <port>:80 apachecn0/processing-opencv-jisuanji-shijue-gaoji-j
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install processing-opencv-jisuanji-shijue-gaoji-jiaocheng
-processing-opencv-jisuanji-shijue-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3886,13 +3058,7 @@ docker run -tid -p <port>:80 apachecn0/python-tuxiangchuli-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-tuxiangchuli-shiyong-zhinan
-python-tuxiangchuli-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3914,13 +3080,7 @@ docker run -tid -p <port>:80 apachecn0/shendu-xuexi-he-cnn-jisuanji-shijue-yingy
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shendu-xuexi-he-cnn-jisuanji-shijue-yingyong-shijian-zhinan
-shendu-xuexi-he-cnn-jisuanji-shijue-yingyong-shijian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3942,13 +3102,7 @@ docker run -tid -p <port>:80 apachecn0/shendu-xuexi-yu-jisuanji-shijue-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shendu-xuexi-yu-jisuanji-shijue-jiaocheng
-shendu-xuexi-yu-jisuanji-shijue-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3970,13 +3124,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-opencv4-he-c-goujian-jisuanji-shi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-opencv4-he-c-goujian-jisuanji-shijue-xiangmu
-shiyong-opencv4-he-c-goujian-jisuanji-shijue-xiangmu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -3998,13 +3146,7 @@ docker run -tid -p <port>:80 apachecn0/shumei-pai-he-arduino-jiqiren-rumen-shouc
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shumei-pai-he-arduino-jiqiren-rumen-shouce
-shumei-pai-he-arduino-jiqiren-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4026,13 +3168,7 @@ docker run -tid -p <port>:80 apachecn0/tensorflow-cnn-yu-swift-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install tensorflow-cnn-yu-swift-jiaocheng
-tensorflow-cnn-yu-swift-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4054,13 +3190,7 @@ docker run -tid -p <port>:80 apachecn0/weiruan-jisuanji-shijue-api-jingcui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install weiruan-jisuanji-shijue-api-jingcui
-weiruan-jisuanji-shijue-api-jingcui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4082,13 +3212,7 @@ docker run -tid -p <port>:80 apachecn0/xiandai-tuxiangchuli-suanfa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xiandai-tuxiangchuli-suanfa-jiaocheng
-xiandai-tuxiangchuli-suanfa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4112,13 +3236,7 @@ docker run -tid -p <port>:80 apachecn0/bokeh-shuju-keshihua-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install bokeh-shuju-keshihua-shiyong-zhinan
-bokeh-shuju-keshihua-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4140,13 +3258,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-python-shuju-keshihua
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-python-shuju-keshihua
-jingtong-python-shuju-keshihua <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4168,13 +3280,7 @@ docker run -tid -p <port>:80 apachecn0/matplotlib-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install matplotlib-shiyong-zhinan
-matplotlib-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4196,13 +3302,7 @@ docker run -tid -p <port>:80 apachecn0/python-shuju-keshihua-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-shuju-keshihua-miji
-python-shuju-keshihua-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4224,13 +3324,7 @@ docker run -tid -p <port>:80 apachecn0/python-shuju-keshihua-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-shuju-keshihua-xuexi-shouce
-python-shuju-keshihua-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4252,13 +3346,7 @@ docker run -tid -p <port>:80 apachecn0/python-shuju-keshihua-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-shuju-keshihua-zhinan
-python-shuju-keshihua-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4280,13 +3368,7 @@ docker run -tid -p <port>:80 apachecn0/r4-shuju-keshihua-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install r4-shuju-keshihua-jiaocheng
-r4-shuju-keshihua-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4308,13 +3390,7 @@ docker run -tid -p <port>:80 apachecn0/r-he-javascript-gaoji-shuju-keshihua
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install r-he-javascript-gaoji-shuju-keshihua
-r-he-javascript-gaoji-shuju-keshihua <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4338,13 +3414,7 @@ docker run -tid -p <port>:80 apachecn0/aileops-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install aileops-shiyong-zhinan
-aileops-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4366,13 +3436,7 @@ docker run -tid -p <port>:80 apachecn0/ai-qiyeji-bushu-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ai-qiyeji-bushu-jiaocheng
-ai-qiyeji-bushu-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4394,13 +3458,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-2-7-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-2-7-xuexi-shouce
-ansible-2-7-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4422,13 +3480,7 @@ docker run -tid -p <port>:80 apachecn0/ansible2-anquan-zidonghua-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible2-anquan-zidonghua-zhinan
-ansible2-anquan-zidonghua-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4450,13 +3502,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-2-openstack-guanli-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-2-openstack-guanli-shouce
-ansible-2-openstack-guanli-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4478,13 +3524,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-2-shizhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-2-shizhan
-ansible-2-shizhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4506,13 +3546,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-kuaisu-qidong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-kuaisu-qidong-zhinan
-ansible-kuaisu-qidong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4534,13 +3568,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-kuozhan-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-kuozhan-shouce
-ansible-kuozhan-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4562,13 +3590,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-peizhiguanli-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-peizhiguanli-shouce
-ansible-peizhiguanli-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4590,13 +3612,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-xingdong-shouce-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-xingdong-shouce-jichuzhishi
-ansible-xingdong-shouce-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4618,13 +3634,7 @@ docker run -tid -p <port>:80 apachecn0/ansible-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ansible-xuexi-shouce
-ansible-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4646,13 +3656,7 @@ docker run -tid -p <port>:80 apachecn0/azure-arc-kubernetes-he-fuwuqi-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-arc-kubernetes-he-fuwuqi-jiaocheng
-azure-arc-kubernetes-he-fuwuqi-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4674,13 +3678,7 @@ docker run -tid -p <port>:80 apachecn0/azure-board-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-board-shiyong-zhinan
-azure-board-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4702,13 +3700,7 @@ docker run -tid -p <port>:80 apachecn0/azure-de-net-devops-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-de-net-devops-jiaocheng
-azure-de-net-devops-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4730,13 +3722,7 @@ docker run -tid -p <port>:80 apachecn0/azure-kubenetes-fuwu-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-kubenetes-fuwu-rumen-zhinan
-azure-kubenetes-fuwu-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4758,13 +3744,7 @@ docker run -tid -p <port>:80 apachecn0/azure-kubernetes-fuwuqi-he-wei-fuwu-jiaoc
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-kubernetes-fuwuqi-he-wei-fuwu-jiaocheng
-azure-kubernetes-fuwuqi-he-wei-fuwu-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4786,13 +3766,7 @@ docker run -tid -p <port>:80 apachecn0/azure-liushuixian-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-liushuixian-shiyong-zhinan
-azure-liushuixian-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4814,13 +3788,7 @@ docker run -tid -p <port>:80 apachecn0/azure-shuju-gongcheng-quanwei-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-shuju-gongcheng-quanwei-zhinan
-azure-shuju-gongcheng-quanwei-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4842,13 +3810,7 @@ docker run -tid -p <port>:80 apachecn0/azure-yingyong-de-devops-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install azure-yingyong-de-devops-jiaocheng
-azure-yingyong-de-devops-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4870,13 +3832,7 @@ docker run -tid -p <port>:80 apachecn0/camel-yun-yuansheng-jicheng-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install camel-yun-yuansheng-jicheng-jiaocheng
-camel-yun-yuansheng-jicheng-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4898,13 +3854,7 @@ docker run -tid -p <port>:80 apachecn0/chixu-jicheng-he-jiaofu-shiyongshouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install chixu-jicheng-he-jiaofu-shiyongshouce
-chixu-jicheng-he-jiaofu-shiyongshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4926,13 +3876,7 @@ docker run -tid -p <port>:80 apachecn0/devops-2-5-gongjubao
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install devops-2-5-gongjubao
-devops-2-5-gongjubao <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4954,13 +3898,7 @@ docker run -tid -p <port>:80 apachecn0/devops-shuzi-lingxiu-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install devops-shuzi-lingxiu-jiaocheng
-devops-shuzi-lingxiu-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -4982,13 +3920,7 @@ docker run -tid -p <port>:80 apachecn0/docker-anquan-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-anquan-shouce
-docker-anquan-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5010,13 +3942,7 @@ docker run -tid -p <port>:80 apachecn0/docker-aws-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-aws-jiaocheng
-docker-aws-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5038,13 +3964,7 @@ docker run -tid -p <port>:80 apachecn0/docker-bianpai-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-bianpai-zhinan
-docker-bianpai-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5066,13 +3986,7 @@ docker run -tid -p <port>:80 apachecn0/docker-bushu-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-bushu-shouce
-docker-bushu-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5094,13 +4008,7 @@ docker run -tid -p <port>:80 apachecn0/docker-devops-rumen-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-devops-rumen-shouce
-docker-devops-rumen-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5122,13 +4030,7 @@ docker run -tid -p <port>:80 apachecn0/docker-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-gaoji-jiaocheng
-docker-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5150,13 +4052,7 @@ docker run -tid -p <port>:80 apachecn0/docker-guanli-shejimoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-guanli-shejimoshi
-docker-guanli-shejimoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5178,13 +4074,7 @@ docker run -tid -p <port>:80 apachecn0/docker-guzhang-paichu-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-guzhang-paichu-shouce
-docker-guzhang-paichu-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5206,13 +4096,7 @@ docker run -tid -p <port>:80 apachecn0/docker-he-jenkins-chixu-jiaofu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-he-jenkins-chixu-jiaofu
-docker-he-jenkins-chixu-jiaofu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5234,13 +4118,7 @@ docker run -tid -p <port>:80 apachecn0/docker-jiankong-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-jiankong-shouce
-docker-jiankong-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5262,13 +4140,7 @@ docker run -tid -p <port>:80 apachecn0/docker-kuaisu-qidong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-kuaisu-qidong-zhinan
-docker-kuaisu-qidong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5290,13 +4162,7 @@ docker run -tid -p <port>:80 apachecn0/docker-kubenetes-wei-fuwu-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-kubenetes-wei-fuwu-jiaocheng
-docker-kubenetes-wei-fuwu-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5318,13 +4184,7 @@ docker run -tid -p <port>:80 apachecn0/docker-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-miji
-docker-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5346,13 +4206,7 @@ docker run -tid -p <port>:80 apachecn0/docker-python-wei-fuwu-shiyongshouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-python-wei-fuwu-shiyongshouce
-docker-python-wei-fuwu-shiyongshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5374,13 +4228,7 @@ docker run -tid -p <port>:80 apachecn0/docker-swarm-yuansheng-jiqun
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-swarm-yuansheng-jiqun
-docker-swarm-yuansheng-jiqun <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5402,13 +4250,7 @@ docker run -tid -p <port>:80 apachecn0/docker-wangluo-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-wangluo-miji
-docker-wangluo-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5430,13 +4272,7 @@ docker run -tid -p <port>:80 apachecn0/docker-wangluo-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-wangluo-xuexi-shouce
-docker-wangluo-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5458,13 +4294,7 @@ docker run -tid -p <port>:80 apachecn0/docker-windows-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-windows-jiaocheng
-docker-windows-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5486,13 +4316,7 @@ docker run -tid -p <port>:80 apachecn0/docker-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-xuexi-shouce
-docker-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5514,13 +4338,7 @@ docker run -tid -p <port>:80 apachecn0/docker-xuexi-shouce-er
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-xuexi-shouce-er
-docker-xuexi-shouce-er <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5542,13 +4360,7 @@ docker run -tid -p <port>:80 apachecn0/docker-yantaohui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install docker-yantaohui
-docker-yantaohui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5570,13 +4382,7 @@ docker run -tid -p <port>:80 apachecn0/gcp-devops-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install gcp-devops-gaoji-jiaocheng
-gcp-devops-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5598,13 +4404,7 @@ docker run -tid -p <port>:80 apachecn0/git-he-github-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install git-he-github-rumen-zhinan
-git-he-github-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5626,13 +4426,7 @@ docker run -tid -p <port>:80 apachecn0/git-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install git-miji
-git-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5654,13 +4448,7 @@ docker run -tid -p <port>:80 apachecn0/git-shijian-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install git-shijian-zhinan
-git-shijian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5682,13 +4470,7 @@ docker run -tid -p <port>:80 apachecn0/guge-kubenetes-yinqing-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install guge-kubenetes-yinqing-gaoji-jiaocheng
-guge-kubenetes-yinqing-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5710,13 +4492,7 @@ docker run -tid -p <port>:80 apachecn0/gugeyun-zidonghua-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install gugeyun-zidonghua-gaoji-jiaocheng
-gugeyun-zidonghua-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5738,13 +4514,7 @@ docker run -tid -p <port>:80 apachecn0/helm-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install helm-xuexi-shouce
-helm-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5766,13 +4536,7 @@ docker run -tid -p <port>:80 apachecn0/istio-fuwu-wangge-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install istio-fuwu-wangge-rumen-zhinan
-istio-fuwu-wangge-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5794,13 +4558,7 @@ docker run -tid -p <port>:80 apachecn0/jenkins-chixu-jicheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jenkins-chixu-jicheng-miji
-jenkins-chixu-jicheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5822,13 +4580,7 @@ docker run -tid -p <port>:80 apachecn0/jenkins-chixu-jicheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jenkins-chixu-jicheng-xuexi-shouce
-jenkins-chixu-jicheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5850,13 +4602,7 @@ docker run -tid -p <port>:80 apachecn0/jenkins-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jenkins-jichuzhishi
-jenkins-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5878,13 +4624,7 @@ docker run -tid -p <port>:80 apachecn0/jenkins-kuozhan-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jenkins-kuozhan-zhinan
-jenkins-kuozhan-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5906,13 +4646,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-ansible-zhongwen-disiban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-ansible-zhongwen-disiban
-jingtong-ansible-zhongwen-disiban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5934,13 +4668,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-docker
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-docker
-jingtong-docker <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5962,13 +4690,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-kubernetes
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-kubernetes
-jingtong-kubernetes <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -5990,13 +4712,7 @@ docker run -tid -p <port>:80 apachecn0/jira-ceshi-guanli-shiyongshouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jira-ceshi-guanli-shiyongshouce
-jira-ceshi-guanli-shiyongshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6018,13 +4734,7 @@ docker run -tid -p <port>:80 apachecn0/kubectl-kubernetes-de-minglingxing-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubectl-kubernetes-de-minglingxing-shouce
-kubectl-kubernetes-de-minglingxing-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6046,13 +4756,7 @@ docker run -tid -p <port>:80 apachecn0/kubenetes-cka-he-ckad-renzheng-beikao-zhi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubenetes-cka-he-ckad-renzheng-beikao-zhinan
-kubenetes-cka-he-ckad-renzheng-beikao-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6074,13 +4778,7 @@ docker run -tid -p <port>:80 apachecn0/kubenetes-kuozhan-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubenetes-kuozhan-jiaocheng
-kubenetes-kuozhan-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6102,13 +4800,7 @@ docker run -tid -p <port>:80 apachecn0/kubenetes-shang-de-sqlserver-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubenetes-shang-de-sqlserver-jiaocheng
-kubenetes-shang-de-sqlserver-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6130,13 +4822,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-anquan-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-anquan-xuexi-shouce
-kubernetes-anquan-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6158,13 +4844,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-aws-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-aws-shouce
-kubernetes-aws-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6186,13 +4866,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-azure-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-azure-shiyong-zhinan
-kubernetes-azure-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6214,13 +4888,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-devops-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-devops-shouce
-kubernetes-devops-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6242,13 +4910,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-devops-wanquan-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-devops-wanquan-miji
-kubernetes-devops-wanquan-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6270,13 +4932,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-gaoji-pingtai-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-gaoji-pingtai-kaifa
-kubernetes-gaoji-pingtai-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6298,13 +4954,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-gcp-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-gcp-rumen-zhinan
-kubernetes-gcp-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6326,13 +4976,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-he-docker-qiyeji-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-he-docker-qiyeji-zhinan
-kubernetes-he-docker-qiyeji-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6354,13 +4998,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-kaifa-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-kaifa-zhinan
-kubernetes-kaifa-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6382,13 +5020,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-miji
-kubernetes-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6410,13 +5042,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-rumen-zhinan
-kubernetes-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6438,13 +5064,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-shouce
-kubernetes-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6466,13 +5086,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-wei-fuwu-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-wei-fuwu-shiyong-zhinan
-kubernetes-wei-fuwu-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6494,13 +5108,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-windows-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-windows-shiyong-zhinan
-kubernetes-windows-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6522,13 +5130,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-wu-fuwuqi-jiagou
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-wu-fuwuqi-jiagou
-kubernetes-wu-fuwuqi-jiagou <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6550,13 +5152,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-wu-fuwuqi-yingyong-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-wu-fuwuqi-yingyong-shouce
-kubernetes-wu-fuwuqi-yingyong-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6578,13 +5174,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-yantaohui
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-yantaohui
-kubernetes-yantaohui <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6606,13 +5196,7 @@ docker run -tid -p <port>:80 apachecn0/kubernetes-yun-yuansheng-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install kubernetes-yun-yuansheng-zhinan
-kubernetes-yun-yuansheng-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6634,13 +5218,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-ios-kaifazhe-de-aws-he-devops-r
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-ios-kaifazhe-de-aws-he-devops-rumen-zhinan
-mianxiang-ios-kaifazhe-de-aws-he-devops-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6662,13 +5240,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-java-kaifazhe-de-docker-he-kube
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-java-kaifazhe-de-docker-he-kubernetes-jiaocheng
-mianxiang-java-kaifazhe-de-docker-he-kubernetes-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6690,13 +5262,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-kaifazhe-de-devops-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-kaifazhe-de-devops-jiaocheng
-mianxiang-kaifazhe-de-devops-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6718,13 +5284,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-web-kaifazhe-de-azure-devops-ji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-web-kaifazhe-de-azure-devops-jiaocheng
-mianxiang-web-kaifazhe-de-azure-devops-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6746,13 +5306,7 @@ docker run -tid -p <port>:80 apachecn0/msteam-jiejuefangan-goujian-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install msteam-jiejuefangan-goujian-jiaocheng
-msteam-jiejuefangan-goujian-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6774,13 +5328,7 @@ docker run -tid -p <port>:80 apachecn0/openstack-rongqi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install openstack-rongqi-shouce
-openstack-rongqi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6802,13 +5350,7 @@ docker run -tid -p <port>:80 apachecn0/shenru-lijie-docker
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shenru-lijie-docker
-shenru-lijie-docker <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6830,13 +5372,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-docker-goujian-ni-ziji-de-paas
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-docker-goujian-ni-ziji-de-paas
-shiyong-docker-goujian-ni-ziji-de-paas <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6858,13 +5394,7 @@ docker run -tid -p <port>:80 apachecn0/skaffold-haobufeili-de-yun-yuansheng-ying
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install skaffold-haobufeili-de-yun-yuansheng-yingyong-kaifa-zhinan
-skaffold-haobufeili-de-yun-yuansheng-yingyong-kaifa-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6886,13 +5416,7 @@ docker run -tid -p <port>:80 apachecn0/sqlserver-dba-de-docker-rongqi-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install sqlserver-dba-de-docker-rongqi-zhinan
-sqlserver-dba-de-docker-rongqi-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6914,13 +5438,7 @@ docker run -tid -p <port>:80 apachecn0/vs2019-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install vs2019-jichuzhishi
-vs2019-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6942,13 +5460,7 @@ docker run -tid -p <port>:80 apachecn0/wangluo-zidonghua-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install wangluo-zidonghua-miji
-wangluo-zidonghua-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6970,13 +5482,7 @@ docker run -tid -p <port>:80 apachecn0/wangzhan-kaifa-he-yunwei-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install wangzhan-kaifa-he-yunwei-gaoji-jiaocheng
-wangzhan-kaifa-he-yunwei-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -6998,13 +5504,7 @@ docker run -tid -p <port>:80 apachecn0/weiruan-jishu-zhan-de-devops-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install weiruan-jishu-zhan-de-devops-jiaocheng
-weiruan-jishu-zhan-de-devops-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7028,13 +5528,7 @@ docker run -tid -p <port>:80 apachecn0/python-zhenshishijie-de-shuju-kexue
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install python-zhenshishijie-de-shuju-kexue
-python-zhenshishijie-de-shuju-kexue <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7056,13 +5550,7 @@ docker run -tid -p <port>:80 apachecn0/shijian-xulie-fenxi-shizhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shijian-xulie-fenxi-shizhan
-shijian-xulie-fenxi-shizhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7084,13 +5572,7 @@ docker run -tid -p <port>:80 apachecn0/shuju-kexue-shizhan-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shuju-kexue-shizhan-miji
-shuju-kexue-shizhan-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7114,13 +5596,7 @@ docker run -tid -p <port>:80 apachecn0/go-biancheng-lantu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-biancheng-lantu
-go-biancheng-lantu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7142,13 +5618,7 @@ docker run -tid -p <port>:80 apachecn0/go-biancheng-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-biancheng-miji
-go-biancheng-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7170,13 +5640,7 @@ docker run -tid -p <port>:80 apachecn0/go-biancheng-shiyongshouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-biancheng-shiyongshouce
-go-biancheng-shiyongshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7198,13 +5662,7 @@ docker run -tid -p <port>:80 apachecn0/go-biancheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-biancheng-xuexi-shouce
-go-biancheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7226,13 +5684,7 @@ docker run -tid -p <port>:80 apachecn0/go-biaozhun-ku-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-biaozhun-ku-miji
-go-biaozhun-ku-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7254,13 +5706,7 @@ docker run -tid -p <port>:80 apachecn0/go-fenbushijisuan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-fenbushijisuan
-go-fenbushijisuan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7282,13 +5728,7 @@ docker run -tid -p <port>:80 apachecn0/go-gaoxingneng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-gaoxingneng-shiyong-zhinan
-go-gaoxingneng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7310,13 +5750,7 @@ docker run -tid -p <port>:80 apachecn0/go-hanshu-shi-biancheng-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-hanshu-shi-biancheng-xuexi-shouce
-go-hanshu-shi-biancheng-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7338,13 +5772,7 @@ docker run -tid -p <port>:80 apachecn0/go-he-anquan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-he-anquan
-go-he-anquan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7366,13 +5794,7 @@ docker run -tid -p <port>:80 apachecn0/go-jiqi-xuexi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-jiqi-xuexi
-go-jiqi-xuexi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7394,13 +5816,7 @@ docker run -tid -p <port>:80 apachecn0/go-shejimoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-shejimoshi
-go-shejimoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7422,13 +5838,7 @@ docker run -tid -p <port>:80 apachecn0/go-shendu-xuexi-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-shendu-xuexi-shiyong-zhinan
-go-shendu-xuexi-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7450,13 +5860,7 @@ docker run -tid -p <port>:80 apachecn0/goujian-go-rest-web-fuwu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install goujian-go-rest-web-fuwu
-goujian-go-rest-web-fuwu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7478,13 +5882,7 @@ docker run -tid -p <port>:80 apachecn0/go-web-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-web-kaifa-miji
-go-web-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7506,13 +5904,7 @@ docker run -tid -p <port>:80 apachecn0/go-web-kaifa-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-web-kaifa-xuexi-shouce
-go-web-kaifa-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7534,13 +5926,7 @@ docker run -tid -p <port>:80 apachecn0/go-web-pachong-kuaisu-qidong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-web-pachong-kuaisu-qidong-zhinan
-go-web-pachong-kuaisu-qidong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7562,13 +5948,7 @@ docker run -tid -p <port>:80 apachecn0/go-wu-fuwu-yingyong-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-wu-fuwu-yingyong-shiyong-zhinan
-go-wu-fuwu-yingyong-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7590,13 +5970,7 @@ docker run -tid -p <port>:80 apachecn0/go-xitong-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-xitong-biancheng
-go-xitong-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7618,13 +5992,7 @@ docker run -tid -p <port>:80 apachecn0/go-xitong-biancheng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-xitong-biancheng-shiyong-zhinan
-go-xitong-biancheng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7646,13 +6014,7 @@ docker run -tid -p <port>:80 apachecn0/go-yilai-zhuru-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-yilai-zhuru-shiyong-zhinan
-go-yilai-zhuru-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7674,13 +6036,7 @@ docker run -tid -p <port>:80 apachecn0/go-yun-yuansheng-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install go-yun-yuansheng-biancheng
-go-yun-yuansheng-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7702,13 +6058,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-go-bingfa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-go-bingfa
-jingtong-go-bingfa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7730,13 +6080,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-go-web-fuwu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-go-web-fuwu
-jingtong-go-web-fuwu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7758,13 +6102,7 @@ docker run -tid -p <port>:80 apachecn0/tonggou-de-go-yingyong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install tonggou-de-go-yingyong
-tonggou-de-go-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7786,13 +6124,7 @@ docker run -tid -p <port>:80 apachecn0/yi-jiagou
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install yi-jiagou
-yi-jiagou <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7816,13 +6148,7 @@ docker run -tid -p <port>:80 apachecn0/bootstrap-shijian-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install bootstrap-shijian-zhinan
-bootstrap-shijian-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7844,13 +6170,7 @@ docker run -tid -p <port>:80 apachecn0/chijiu-de-css
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install chijiu-de-css
-chijiu-de-css <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7872,13 +6192,7 @@ docker run -tid -p <port>:80 apachecn0/chuangjian-pingmiansheji-wangzhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install chuangjian-pingmiansheji-wangzhan
-chuangjian-pingmiansheji-wangzhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7900,13 +6214,7 @@ docker run -tid -p <port>:80 apachecn0/css3-buju-jiqiao-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css3-buju-jiqiao-gaoji-jiaocheng
-css3-buju-jiqiao-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7928,13 +6236,7 @@ docker run -tid -p <port>:80 apachecn0/css3-kuaisu-cankao-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css3-kuaisu-cankao-zhinan
-css3-kuaisu-cankao-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7956,13 +6258,7 @@ docker run -tid -p <port>:80 apachecn0/css3-zhuanjiaji-biancheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css3-zhuanjiaji-biancheng
-css3-zhuanjiaji-biancheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -7984,13 +6280,7 @@ docker run -tid -p <port>:80 apachecn0/css-gao-liuliang-wangzhan-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css-gao-liuliang-wangzhan-gaoji-jiaocheng
-css-gao-liuliang-wangzhan-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8012,13 +6302,7 @@ docker run -tid -p <port>:80 apachecn0/css-jiagou-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css-jiagou-jiaocheng
-css-jiagou-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8040,13 +6324,7 @@ docker run -tid -p <port>:80 apachecn0/css-jingtong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css-jingtong-zhinan
-css-jingtong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8068,13 +6346,7 @@ docker run -tid -p <port>:80 apachecn0/css-kuangjia-tidai-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css-kuangjia-tidai-zhinan
-css-kuangjia-tidai-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8096,13 +6368,7 @@ docker run -tid -p <port>:80 apachecn0/css-windows8-yingyong-kaifa-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install css-windows8-yingyong-kaifa-jiaocheng
-css-windows8-yingyong-kaifa-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8124,13 +6390,7 @@ docker run -tid -p <port>:80 apachecn0/dreamweaver-cs6-yidong-he-web-kaifa-shiyo
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install dreamweaver-cs6-yidong-he-web-kaifa-shiyong-html5-css3-he-jquerymobile
-dreamweaver-cs6-yidong-he-web-kaifa-shiyong-html5-css3-he-jquerymobile <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8152,13 +6412,7 @@ docker run -tid -p <port>:80 apachecn0/gamemaker-html5-youxi-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install gamemaker-html5-youxi-kaifa
-gamemaker-html5-youxi-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8180,13 +6434,7 @@ docker run -tid -p <port>:80 apachecn0/html5-de-zhenxiang
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-de-zhenxiang
-html5-de-zhenxiang <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8208,13 +6456,7 @@ docker run -tid -p <port>:80 apachecn0/html5-duomeiti-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-duomeiti-kaifa-miji
-html5-duomeiti-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8236,13 +6478,7 @@ docker run -tid -p <port>:80 apachecn0/html5-duoren-youxi-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-duoren-youxi-kaifa
-html5-duoren-youxi-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8264,13 +6500,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css3-qianyi-jishi-rumen
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css3-qianyi-jishi-rumen
-html5-he-css3-qianyi-jishi-rumen <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8292,13 +6522,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css3-xiangying-shi-web-sheji-jic
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css3-xiangying-shi-web-sheji-jichuzhishi
-html5-he-css3-xiangying-shi-web-sheji-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8320,13 +6544,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css3-xiangying-shi-web-sheji-mij
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css3-xiangying-shi-web-sheji-miji
-html5-he-css3-xiangying-shi-web-sheji-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8348,13 +6566,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css3-xiangying-shi-web-sheji-rum
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css3-xiangying-shi-web-sheji-rumen-zhinan
-html5-he-css3-xiangying-shi-web-sheji-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8376,13 +6588,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css3-yidong-youxian-sheji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css3-yidong-youxian-sheji
-html5-he-css3-yidong-youxian-sheji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8404,13 +6610,7 @@ docker run -tid -p <port>:80 apachecn0/html5-he-css-xiangying-shi-web-sheji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-he-css-xiangying-shi-web-sheji
-html5-he-css-xiangying-shi-web-sheji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8432,13 +6632,7 @@ docker run -tid -p <port>:80 apachecn0/html5-huabu-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-huabu-miji
-html5-huabu-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8460,13 +6654,7 @@ docker run -tid -p <port>:80 apachecn0/html5-iphone-web-yingyong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-iphone-web-yingyong-kaifa
-html5-iphone-web-yingyong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8488,13 +6676,7 @@ docker run -tid -p <port>:80 apachecn0/html5-shipin-caozuoshouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-shipin-caozuoshouce
-html5-shipin-caozuoshouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8516,13 +6698,7 @@ docker run -tid -p <port>:80 apachecn0/html5-shujufuwu-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-shujufuwu-miji
-html5-shujufuwu-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8544,13 +6720,7 @@ docker run -tid -p <port>:80 apachecn0/html5-tuxing-he-shuju-keshihua-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-tuxing-he-shuju-keshihua-miji
-html5-tuxing-he-shuju-keshihua-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8572,13 +6742,7 @@ docker run -tid -p <port>:80 apachecn0/html5-websocket-biancheng-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-websocket-biancheng-rumen-zhinan
-html5-websocket-biancheng-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8600,13 +6764,7 @@ docker run -tid -p <port>:80 apachecn0/html5-web-yingyong-kaifa-shili
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-web-yingyong-kaifa-shili
-html5-web-yingyong-kaifa-shili <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8628,13 +6786,7 @@ docker run -tid -p <port>:80 apachecn0/html5-yangban-wenjian-de-web-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-yangban-wenjian-de-web-kaifa
-html5-yangban-wenjian-de-web-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8656,13 +6808,7 @@ docker run -tid -p <port>:80 apachecn0/html5-yidong-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-yidong-kaifa-miji
-html5-yidong-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8684,13 +6830,7 @@ docker run -tid -p <port>:80 apachecn0/html5-youxi-kaifa-shili
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install html5-youxi-kaifa-shili
-html5-youxi-kaifa-shili <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8712,13 +6852,7 @@ docker run -tid -p <port>:80 apachecn0/hweb-biaozhun-de-chuangzaoxing
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install hweb-biaozhun-de-chuangzaoxing
-hweb-biaozhun-de-chuangzaoxing <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8740,13 +6874,7 @@ docker run -tid -p <port>:80 apachecn0/impactjs-html5-youxi-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install impactjs-html5-youxi-kaifa
-impactjs-html5-youxi-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8768,13 +6896,7 @@ docker run -tid -p <port>:80 apachecn0/ionic-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install ionic-xuexi-shouce
-ionic-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8796,13 +6918,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-css
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-css
-jingtong-css <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8824,13 +6940,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-html5-biaodan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-html5-biaodan
-jingtong-html5-biaodan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8852,13 +6962,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-svg
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-svg
-jingtong-svg <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8880,13 +6984,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-xiangying-shi-web-sheji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-xiangying-shi-web-sheji
-jingtong-xiangying-shi-web-sheji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8908,13 +7006,7 @@ docker run -tid -p <port>:80 apachecn0/less-web-kaifa-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install less-web-kaifa-jichuzhishi
-less-web-kaifa-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8936,13 +7028,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-flash-kaifazhe-de-html5
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-flash-kaifazhe-de-html5
-mianxiang-flash-kaifazhe-de-html5 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8964,13 +7050,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-css3-sheji-xiayidai-web-xiangmu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-css3-sheji-xiayidai-web-xiangmu
-shiyong-css3-sheji-xiayidai-web-xiangmu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -8992,13 +7072,7 @@ docker run -tid -p <port>:80 apachecn0/tongguo-chuangjian-youqu-de-youxi-xuexi-h
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install tongguo-chuangjian-youqu-de-youxi-xuexi-html5
-tongguo-chuangjian-youqu-de-youxi-xuexi-html5 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9020,13 +7094,7 @@ docker run -tid -p <port>:80 apachecn0/web-sheji-shizhan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install web-sheji-shizhan
-web-sheji-shizhan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9048,13 +7116,7 @@ docker run -tid -p <port>:80 apachecn0/websocket-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install websocket-jichuzhishi
-websocket-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9076,13 +7138,7 @@ docker run -tid -p <port>:80 apachecn0/xiangying-shi-web-sheji-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install xiangying-shi-web-sheji-zhinan
-xiangying-shi-web-sheji-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9106,13 +7162,7 @@ docker run -tid -p <port>:80 apachecn0/eclipse-microprofile-qiyeji-wei-fuwu-shiy
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install eclipse-microprofile-qiyeji-wei-fuwu-shiyong-zhinan
-eclipse-microprofile-qiyeji-wei-fuwu-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9134,13 +7184,7 @@ docker run -tid -p <port>:80 apachecn0/extjs-he-spring-qiyeyingyong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install extjs-he-spring-qiyeyingyong-kaifa
-extjs-he-spring-qiyeyingyong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9162,13 +7206,7 @@ docker run -tid -p <port>:80 apachecn0/guge-web-gongjubao-gwt
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install guge-web-gongjubao-gwt
-guge-web-gongjubao-gwt <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9190,13 +7228,7 @@ docker run -tid -p <port>:80 apachecn0/hibernate-sousuo-shili
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install hibernate-sousuo-shili
-hibernate-sousuo-shili <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9218,13 +7250,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-java9-wei-fuwu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-java9-wei-fuwu
-jingtong-java9-wei-fuwu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9246,13 +7272,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-spring5
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-spring5
-jingtong-spring5 <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9274,13 +7294,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-springcloud
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-springcloud
-jingtong-springcloud <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9302,13 +7316,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-spring-yingyong-kaifa
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-spring-yingyong-kaifa
-jingtong-spring-yingyong-kaifa <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9330,13 +7338,7 @@ docker run -tid -p <port>:80 apachecn0/restful-java-moshi-he-zuijia-shijian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install restful-java-moshi-he-zuijia-shijian
-restful-java-moshi-he-zuijia-shijian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9358,13 +7360,7 @@ docker run -tid -p <port>:80 apachecn0/restful-java-web-fuwu-anquan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install restful-java-web-fuwu-anquan
-restful-java-web-fuwu-anquan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9386,13 +7382,7 @@ docker run -tid -p <port>:80 apachecn0/shiyong-spring5-goujian-rest-web-fuwu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install shiyong-spring5-goujian-rest-web-fuwu
-shiyong-spring5-goujian-rest-web-fuwu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9414,13 +7404,7 @@ docker run -tid -p <port>:80 apachecn0/spring5-gaoxingneng-shiyong-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring5-gaoxingneng-shiyong-zhinan
-spring5-gaoxingneng-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9442,13 +7426,7 @@ docker run -tid -p <port>:80 apachecn0/spring5-ruanjianjiagou
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring5-ruanjianjiagou
-spring5-ruanjianjiagou <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9470,13 +7448,7 @@ docker run -tid -p <port>:80 apachecn0/spring5-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring5-xuexi-shouce
-spring5-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9498,13 +7470,7 @@ docker run -tid -p <port>:80 apachecn0/spring-android-jishi-rumen
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-android-jishi-rumen
-spring-android-jishi-rumen <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9526,13 +7492,7 @@ docker run -tid -p <port>:80 apachecn0/springboot2-he-react-quanzhan-kaifa-shiyo
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install springboot2-he-react-quanzhan-kaifa-shiyong-zhinan
-springboot2-he-react-quanzhan-kaifa-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9554,13 +7514,7 @@ docker run -tid -p <port>:80 apachecn0/springboot-he-springcloud-wei-fuwu-shiyon
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install springboot-he-springcloud-wei-fuwu-shiyong-zhinan
-springboot-he-springcloud-wei-fuwu-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9582,13 +7536,7 @@ docker run -tid -p <port>:80 apachecn0/springdata-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install springdata-jiaocheng
-springdata-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9610,13 +7558,7 @@ docker run -tid -p <port>:80 apachecn0/spring-jicheng-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-jicheng-jichuzhishi
-spring-jicheng-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9638,13 +7580,7 @@ docker run -tid -p <port>:80 apachecn0/springmvc-sheji-xianshi-shijie-de-web-yin
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install springmvc-sheji-xianshi-shijie-de-web-yingyong
-springmvc-sheji-xianshi-shijie-de-web-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9666,13 +7602,7 @@ docker run -tid -p <port>:80 apachecn0/spring-security-3-x-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-security-3-x-miji
-spring-security-3-x-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9694,13 +7624,7 @@ docker run -tid -p <port>:80 apachecn0/spring-security5-fanyingshi-yingyong-shiy
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-security5-fanyingshi-yingyong-shiyong-zhinan
-spring-security5-fanyingshi-yingyong-shiyong-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9722,13 +7646,7 @@ docker run -tid -p <port>:80 apachecn0/spring-security-zhongwen-disanban
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-security-zhongwen-disanban
-spring-security-zhongwen-disanban <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9750,13 +7668,7 @@ docker run -tid -p <port>:80 apachecn0/spring-webservice2-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-webservice2-miji
-spring-webservice2-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9778,13 +7690,7 @@ docker run -tid -p <port>:80 apachecn0/spring-wei-fuwu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install spring-wei-fuwu
-spring-wei-fuwu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9808,13 +7714,7 @@ docker run -tid -p <port>:80 apachecn0/chaoyue-jquery
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install chaoyue-jquery
-chaoyue-jquery <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9836,13 +7736,7 @@ docker run -tid -p <port>:80 apachecn0/chuangjian-jquerymobile-yidong-yingyong
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install chuangjian-jquerymobile-yidong-yingyong
-chuangjian-jquerymobile-yidong-yingyong <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9864,13 +7758,7 @@ docker run -tid -p <port>:80 apachecn0/jingtong-jquery
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jingtong-jquery
-jingtong-jquery <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9892,13 +7780,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-2-0-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-2-0-kaifa-miji
-jquery-2-0-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9920,13 +7802,7 @@ docker run -tid -p <port>:80 apachecn0/jquery2-donghua-jishu-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery2-donghua-jishu-rumen-zhinan
-jquery2-donghua-jishu-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9948,13 +7824,7 @@ docker run -tid -p <port>:80 apachecn0/jquery2-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery2-gaoji-jiaocheng
-jquery2-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -9976,13 +7846,7 @@ docker run -tid -p <port>:80 apachecn0/jquery2-kaifa-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery2-kaifa-miji
-jquery2-kaifa-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10004,13 +7868,7 @@ docker run -tid -p <port>:80 apachecn0/jquery2-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery2-miji
-jquery2-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10032,13 +7890,7 @@ docker run -tid -p <port>:80 apachecn0/jquery3-xuexi-shouce
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery3-xuexi-shouce
-jquery3-xuexi-shouce <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10060,13 +7912,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-cankao-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-cankao-zhinan
-jquery-cankao-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10088,13 +7934,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-jichuzhishi
-jquery-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10116,13 +7956,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-mobile-gaoji-jiaocheng
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-mobile-gaoji-jiaocheng
-jquery-mobile-gaoji-jiaocheng <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10144,13 +7978,7 @@ docker run -tid -p <port>:80 apachecn0/jquerymobile-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquerymobile-miji
-jquerymobile-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10172,13 +8000,7 @@ docker run -tid -p <port>:80 apachecn0/jquerymobile-web-kaifa-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquerymobile-web-kaifa-jichuzhishi
-jquerymobile-web-kaifa-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10200,13 +8022,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-redian
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-redian
-jquery-redian <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10228,13 +8044,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-rumen-zhinan
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-rumen-zhinan
-jquery-rumen-zhinan <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10256,13 +8066,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-shejimoshi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-shejimoshi
-jquery-shejimoshi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10284,13 +8088,7 @@ docker run -tid -p <port>:80 apachecn0/jqueryui-1-10-jquery-de-yonghujiemian-ku
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jqueryui-1-10-jquery-de-yonghujiemian-ku
-jqueryui-1-10-jquery-de-yonghujiemian-ku <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10312,13 +8110,7 @@ docker run -tid -p <port>:80 apachecn0/jqueryui-gongju-ku
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jqueryui-gongju-ku
-jqueryui-gongju-ku <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10340,13 +8132,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-ui-miji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-ui-miji
-jquery-ui-miji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10368,13 +8154,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-xiangying-shi-web-sheji
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-xiangying-shi-web-sheji
-jquery-xiangying-shi-web-sheji <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10396,13 +8176,7 @@ docker run -tid -p <port>:80 apachecn0/jquery-youxi-kaifa-jichu
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install jquery-youxi-kaifa-jichu
-jquery-youxi-kaifa-jichu <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10424,13 +8198,7 @@ docker run -tid -p <port>:80 apachecn0/knockoutjs-jichuzhishi
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install knockoutjs-jichuzhishi
-knockoutjs-jichuzhishi <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10452,13 +8220,7 @@ docker run -tid -p <port>:80 apachecn0/mianxiang-shejishi-de-jquery
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install mianxiang-shejishi-de-jquery
-mianxiang-shejishi-de-jquery <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
@@ -10480,13 +8242,7 @@ docker run -tid -p <port>:80 apachecn0/wordpress3-he-jquery
 # 访问 http://localhost:{port} 查看文档
 ```
 
-#### PYPI
 
-```
-pip install wordpress3-he-jquery
-wordpress3-he-jquery <port>
-# 访问 http://localhost:{port} 查看文档
-```
 
 #### NPM
 
