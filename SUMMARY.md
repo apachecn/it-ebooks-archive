@@ -2,6 +2,7 @@
 +   [吾爱破解移动安全、软件调试、病毒分析区 2008-2022 NPM、PYPI、DockerHub 备份](docs/52pojie-2008-2012-dockerhub.md)
 +   [AI 公众号 2022 NPM、PYPI、DockerHub 备份](docs/ai-gzh-2022-dockerhub.md)
 +   [安全公众号 2022 NPM、DockerHub 备份](docs/sec-gzh-2022-dockerhub.md)
++   [安全公众号 2022 CDNDrive 备份](docs/sec-gzh-2022-cdndrive.md)
 +   [ApacheCN 译文集（一）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt1-dockerhub.md)
 +   [ApacheCN 译文集（二）NPM、PYPI、DockerHub 备份](docs/apachecn-trans-pt2-dockerhub.md)
 +   [尚硅谷全套课件 CDNDrive 备份](docs/atguigu-cdndrive.md)
